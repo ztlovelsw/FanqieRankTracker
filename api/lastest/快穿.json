@@ -1,197 +1,201 @@
 {
   "type": "快穿",
-  "date": "2026-05-21",
-  "prev_date": "2026-05-20",
+  "date": "2026-05-22",
+  "prev_date": "2026-05-21",
   "category": {
     "name": "快穿",
     "trend": {
       "new_count": 2,
       "dropped_count": 2,
       "new_books": [
-        "不是，男主们怎么被调成狗了？",
-        "快穿之记仇怎么了，我可不是坏人"
+        "快穿之女配专撬原著男主",
+        "快穿：绿茶女配她手段了得"
       ],
       "dropped_books": [
         {
-          "title": "快穿之妾室上位手册",
-          "intro": "（评分刚出）妾当作蒲苇，不靠等闲过。作为快穿任务者，就算穿成各种小妾，作为卷王的卿月，心里只有一件事：上位。（慢穿） 第一个世界:雍正的妾室齐妃李氏（完） 嫌我蠢笨懒散，唯真心可看。但让我当皇后的，也"
+          "title": "快穿：心机女配勾引上位",
+          "intro": "[甜欲拉扯+禁忌勾引＋无系统不死遁+部分世界有宝宝] （每个世界不同男主，全部双洁。沉浸式，可当独立小故事看） - 毓宁是快穿局业绩垫底的小废物，但她从不内耗，依旧躺平过着悠闲小日子。 可偏偏她不犯人"
         },
         {
-          "title": "心机女配万人迷，扮乖装茶勾男主",
-          "intro": "[快穿+女配上位+微万人迷+女主超会演+1V1] 姜岁杳同时绑定了海.棠系统和女配逆袭系统，一个任务是得到男主的爱，一个任务是得到男主的人 姜岁杳：原女主，抱歉，你的男主以后是我的了 ❀ 世界一：姐姐"
+          "title": "快穿之记仇怎么了，我可不是坏人",
+          "intro": "[快穿+爽文+利己+无固定cp] 注:主角最在乎的是自己，谁都没有自己重要。 一大堆优点，最好最好的优点就是记仇，别人吃亏，也不能让自己吃亏。 元卿无意中绑定了一个残缺系统，残缺系统带着元卿进入其它世"
         }
       ],
       "top_risers": [
         {
-          "title": "快穿：女主宝宝她实在貌美",
-          "change": "+4"
-        },
-        {
-          "title": "快穿：炮灰也要努力幸福",
+          "title": "不是，男主们怎么被调成狗了？",
           "change": "+3"
         },
         {
-          "title": "心机女配勾勾手？男人应有尽有",
-          "change": "+3"
+          "title": "快穿：女配稳拿拜金娇气包剧本",
+          "change": "+1"
         }
       ],
       "top_fallers": [
         {
-          "title": "快穿：女配稳拿拜金娇气包剧本",
-          "change": "-2"
-        },
-        {
-          "title": "快穿之宿主是一朵小白花",
-          "change": "-2"
-        },
-        {
           "title": "男频女配她又在训狗",
+          "change": "-3"
+        },
+        {
+          "title": "快穿：你男朋友好爱我怎么办",
           "change": "-2"
+        },
+        {
+          "title": "恶毒女配她千娇百媚",
+          "change": "-1"
         }
       ],
       "reads_growth": [
         {
           "title": "被病娇强制爱了怎么办",
-          "growth": "+7000"
+          "growth": "+6000"
         },
         {
-          "title": "快穿：炮灰也要努力幸福",
-          "growth": "+4000"
+          "title": "不是，男主们怎么被调成狗了？",
+          "growth": "+6000"
         },
         {
-          "title": "快穿：女主宝宝她实在貌美",
+          "title": "快穿：手拿炮灰剧本，但她万人迷",
           "growth": "+3000"
         }
       ],
-      "summary": "**🔥 题材趋势** 套路高度固化，“病娇/偏执男主+娇软/心机女主”成为绝对主流，榜单前10几乎被此类作品包揽。核心卖点从“剧情”转向“人设关系”，如《被病娇强制爱》直接以“逃不掉”为核心卖点。\n**📖 读者偏好** 读者追求“甜蜜但强爽感”，要求高甜度、低虐度。视角上，女主视角的“训狗”“上位”等权力反转叙事更受欢迎，而男主对女主的绝对忠诚和独宠是硬性指标。读者容忍度高，对玛丽苏和颜值描写接受度高。\n**🆕 新上榜作品** 《不是，男主们怎么被调成狗了？》延续了“万人迷+病娇”的热门赛道，标题的狗血和反差感吸引点击。《快穿之记仇怎么了》则提供“利己主义”女主，属于存量市场上的差异化尝试。\n**📉 掉出榜单** 《妾室上位手册》和《心机女配万人迷》在高度同质化的赛道中，缺乏爆款剧情记忆点，被更具话题性的作品取代。\n**💡 值得关注** 快穿赛道已进入“存量红海”，读者要求极高，仅靠堆砌标签难以出头。新文需在“极致人设”或“趣味脑洞”上做加法，如《记仇怎么了》的“利己”设定，或高概念如《调成狗》的“男主变异”。"
+      "summary": "**🔥 题材趋势** 快穿依然是“女频爽文”的核心战场，核心套路未变：病娇强制爱、万人迷、反套路（训狗/白莲）。但“生子”和“纯兽”等细分元素开始涌现，提供差异化。\n**📖 读者偏好** 读者高度追求“极致人设”和“情感张力”。男主“病娇/偏执/疯批”，女主“娇软/心机/绝美”的配置最受欢迎，且对“男全洁/双洁”要求极高。新鲜感是关键驱动力。\n**🆕 新上榜作品** 《快穿之女配专撬原著男主》主打“雌竞+截胡”，《快穿：绿茶女配她手段了得》则回归“心机女配”经典套路。两者均通过强化“竞争”与“手段”来制造爽点，吸引偏好“雌竞”设定的读者。\n**📉 掉出榜单** 《快穿：心机女配勾引上位》和《快穿之记仇怎么了》掉榜，或因人设或剧情节奏未能达到头部作品水平，在激烈的用户竞争中掉队。\n**💡 值得关注** 《木头万人迷，但真路人【快穿】》以“淡人”人设和“无CP”视角切入，获得了高在读，说明在极致的情感拉扯之外，“反套路”和“事业线”也能开辟新蓝海。"
     },
     "books": [
       {
         "title": "被病娇强制爱了怎么办",
         "author": "被窝探索家",
-        "reads": "22.4万",
+        "reads": "23万",
         "intro": "（病娇男主×娇软女主） 你被病娇盯上了。 逃不掉，躲不开。 那能怎么办？ 认命呗。 ——反正也逃不掉。 故事一：孤傲太子×不受宠表妹 故事二：狠辣无情校霸×转校乖乖女 故事三：未来姐夫×小透明妹妹 ………… （有的故事无三观，均双洁，HE结局，介意勿看！！）",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6e403ceb291ae2fb62e0ef90ec26ae11~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937010&x-signature=0jHcPKyPMhe6vphNaK0QHFUoLik%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6e403ceb291ae2fb62e0ef90ec26ae11~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023419&x-signature=r3%2FiLXh%2BGiYDdiy99K%2Bc5FnyXWk%3D",
         "url": "https://fanqienovel.com/page/7625819560800701464"
       },
       {
         "title": "木头万人迷，但真路人【快穿】",
         "author": "loko",
-        "reads": "20.1万",
+        "reads": "19.7万",
         "intro": "评分刚出【冷脸萌万人迷+真路人+有事业线+女主是淡人+男女都爱主角+无雌竞】 万人迷❗冷脸萌❗无cp❗ 林苏是快穿局路人扮演部门的员工。 第一个任务，穿成网游文里连名字都没有的仓库管理员。 月薪三千，玩男号，两眼一睁就是干活。 任务要求：自由存活。 她活得很好——直到线下见面会那天，她上台领奖，没有戴帽子。 于是所有人都疯了。 老板开始每天找她聊天，全服第一高手送装备不收钱，原女主问她要不要跳槽，原男主的小叔开车路过都要停下来看她一眼。 林苏：哦。领完钱了，回去挖矿。 第二个世界，她又是一个路人npc。 她左等右等，只等到大家不对劲的眼神。 本文又名《路人甲的自我修养》《别跟我谈剧情，谈钱》《打工人的职业素养贯穿诸天》 ———— 女主是顶美，但是真路人身份，女主特老实一直认认真真走剧情，本人是那种喜欢在不太降智剧情里突然来个土狗大美人情节的人。 所有人都喜欢女主。 女主性格魅力超过外貌。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6fd3ba5978aa6f4c51145dfcfac49f69~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937010&x-signature=Xb11Q%2BUCyII5fhn21agBq74YOcY%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6fd3ba5978aa6f4c51145dfcfac49f69~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023419&x-signature=gsbBP8z0yKlXg%2FJaMf4VvLt5I30%3D",
         "url": "https://fanqienovel.com/page/7631539993525095486"
       },
       {
         "title": "快穿：又又又被大佬叼回窝了",
         "author": "里lili里",
-        "reads": "17.5万",
+        "reads": "16.3万",
         "intro": "评分刚出【快穿+纯兽+甜宠+1v1双洁】 主角全程不变人，一直是小动物！ 邵糯穿成各种弱小萌兽， 每次都被这个世界最凶狠的大佬捡回去，叼进窝里狠狠宠。 世界一：深海巨妖 & 软萌小章鱼 世界二：雪山狼王 & 甜心萨摩耶 世界三：狠戾猞猁 & 流浪小布偶 …… 全球直播在线磕糖。 邵糯窝在大佬怀里软软蹭：被大佬叼回窝，也太幸福了吧！ 软萌小兽 × 高冷大佬，每个世界都甜到齁！ ps：第一个世界灵感来自纪录片《我的章鱼老师》 弹幕已大修，女主开局亚成年",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofd972a45984a96f6ec77788e9c86cc27~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937010&x-signature=BiXcP8i5%2F%2BrUHD%2BAWFUuLN7xQbE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofd972a45984a96f6ec77788e9c86cc27~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023419&x-signature=AVrnPsexlDZ08umkpPqzR8SwBQ0%3D",
         "url": "https://fanqienovel.com/page/7625147176695368728"
       },
       {
         "title": "快穿之白莲女配又让男主们沦陷了",
         "author": "猫鱼爱吃甜瓜",
-        "reads": "15.1万",
-        "intro": "【阅读指南：1vN｜全员恋爱脑｜男主心甘情愿臣服+男全洁+恋爱脑晚期｜心机狐狸精×一群沦为恋爱脑的疯批男主｜女主全程拿捏全员，爽到牙疼】 少虞绑定了女配系统，系统哭唧唧：宿主，之前的宿主都被虐得好惨…… 少虞笑了：放心，我带你爽。 世界一：京圈大佬vs相亲对象 男主清冷禁欲，侄女暗恋他九年。 少虞接手原主，第一晚就让他主动上门修灯。 侄女作妖？当着他的面哭？ 少虞转身消失两个月，再见时他跪在她面前，眼泪糊了满脸： “我错了，你别不要我……” 世界二：糙汉将军vs妩媚嫡女 他是杀伐果断的糙汉将军，她是京城第一美人。 新婚夜他冷着脸：我不碰你。 后来他红着眼眶跪在她床边： “夫人，你理理我……” 世界三：疯批长公主VS隐忍暗卫 她是权倾朝野的长公主，他是她捡回来的暗卫。 她说：你只是我养的一条狗。 后来他龙袍加身兵围皇城，却在她面前缓缓跪下。 “这江山给你，你摸摸我的头好不好……” 世界四：禁欲师尊vs妖女徒弟 他是仙界至尊，她是混进仙门的妖女。 他清冷自持：师徒有别，不可逾越。 后来他亲手毁了自己的道心，跪在她面前： “我不要这仙途了，只要你……” 女主的鱼塘，没有一条漏网之鱼。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o23475e9b8f931151152073c7d7af12f1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937010&x-signature=sdl%2FV%2Bh%2BXZscRcDCMfotPuF%2FAOs%3D",
+        "reads": "14.8万",
+        "intro": "【阅读指南：1vN｜全员恋爱脑｜男主个个臣服+全洁+晚期恋爱脑｜女主就是个大漂亮，男主全疯了｜爽到牙疼】 女主少虞，专治各种不服。 系统哭唧唧说之前宿主都被虐得好惨，少虞笑了：放心，姐带你躺赢。 世界一：京圈太子爷相亲局 男主清冷禁欲高岭之花，侄女暗恋他九年，在原剧情里原主被玩得团团转。 少虞来了，第一晚就让他半夜开车过来修灯泡。 侄女当着他面哭？少虞转头消失两个月。 再见时这位爷跪在她面前，眼泪哗哗的： “我错了，你别不要我。” 世界二：边疆糙汉将军 他是杀人不眨眼的铁血将军，她是京城第一美人，新婚夜他冷着脸说我不会碰你。 后来这糙汉子红着眼眶跪在她床边： “夫人你理理我行不行？” 世界三：忠犬暗卫 她是权倾朝野的疯批长公主，他是她捡回来的一条狗。 她说你只是我养的狗，他不吭声。 后来他穿上龙袍围了皇城，却在她面前缓缓跪下： “这江山都给你，你摸摸我的头好不好？” 世界四：禁欲丈夫 他是薄情寡恩的联姻丈夫，新婚半个月连婚房都没进过，把她当空气。 后来他红着眼把她堵在墙角：“傅太太，这婚……不离了。” 少虞的鱼塘，进去的鱼就没跑出来过。 她只负责撩，他们负责疯。 后来被这群疯子追上门…",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o23475e9b8f931151152073c7d7af12f1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023419&x-signature=U5FkOqVJRmaWrjY7bJjBi%2Bvyjoc%3D",
         "url": "https://fanqienovel.com/page/7629764114088217662"
       },
       {
         "title": "快穿：男主不要欺负恶毒女配了！",
         "author": "鲲姐大大",
-        "reads": "9.3万",
+        "reads": "9.5万",
         "intro": "（刚出分后面会涨的~）【快穿+病娇+偏执狂+女主呆萌美人+1v1+强取豪夺】 夏阮本是个腼腆的软妹子，却被系统告知自己所在的世界是书上的世界，而自己是恶毒女配，需要完成恶毒女配的任务！ 唯唯诺诺老老实实做完后，系统却赖上她了，要带她去各种五彩斑斓的世界！于是…… 夏阮勤勤恳恳扮演恶毒女配，可没想到男主出了故障…… 夏阮蹲在角落委屈：\"我按照剧本来的，可他怎么同意了？\" \"他怎么还不提分手？\" \"我污蔑他了，可他还要跟我好...\" 做完任务夏阮想跑，可谁承想，偏偏男主不与女主纠缠而是病态地把她锁在怀里。 系统崩溃：\"宿主！男主不按剧本走了！\" 校园文里的恶毒女配 娱乐圈里的黑红女明星 末世文里的恶毒女配 宫斗文里的娇纵宠妃 残暴蛇兽强占雌性 ……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o290bfb31b16a0c2b2dfdf42689d869fd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937010&x-signature=08%2FGmH2pZZV%2F2UWN0NgNZaWodfs%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o290bfb31b16a0c2b2dfdf42689d869fd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023419&x-signature=a%2FjNpRdBhqjjIMO40offDSQ6bVU%3D",
         "url": "https://fanqienovel.com/page/7626645869260983320"
-      },
-      {
-        "title": "恶毒女配她千娇百媚",
-        "author": "明媚的阿山",
-        "reads": "8.8万",
-        "intro": "（精致利己女主，男洁，恶女，玛丽苏） 没有背景的柏芊娇身为快穿局的新人，直接被主管分到了恶毒女配组。任务要求也很简单，维持原主人设，达成悲惨结局。 可万万没想到，各个剧情里出现了大漏洞。 1、最重规矩的皇上忽然不想守规矩了。 2、恶毒白月光依旧是白月光。 3、心机表妹恶毒却实在美丽。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od09d3ed9445a466b18cca8fb853b8bbb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937010&x-signature=OsX7GF4%2BmXfqt%2Fs7UhtAvhe1wCo%3D",
-        "url": "https://fanqienovel.com/page/7628214711800040510"
       },
       {
         "title": "快穿：女配稳拿拜金娇气包剧本",
         "author": "一往无前的芝芝",
-        "reads": "8.9万",
+        "reads": "8.3万",
         "intro": "【评分刚出，后面会涨】 【半沉浸+不崩人设+精致利己+低道德心机女+绝美万人迷+男全处】 　　楚瑶被抽去一魂一魄，为家人朋友和渣男挖了一辈子野菜，临死前重病缠身、身无分文。 　　直到死后补全灵魂，她才发现自己一手好牌打得稀烂，白瞎了最顶的建模和娴熟的演技。 　　于是她和恶魔系统做了个交易，扮演好自私娇气的恶毒女配，在每个世界掠夺资源、纵情享乐，帮系统将正统世界的剧情崩个天翻地覆。 　　系统帮她稳固好灵魂，回到现实世界拥有美满的人生，再让那群吸她血的人恶有恶报。 　　楚瑶秉承着专业精神，兢兢业业上了岗。 　　①【霸总白月光的卖酒女替身（1v1已完结）】 　　②【用室友照片网恋财阀继承人的妖艳女配（1v1已完结）】 　　③【嚣张贵女和马奴（1v4连载中）】 　　④【破产太子爷的心机前女友】 　　⑤【装失明勾引清冷首辅的商户女】 　　⑥【末世文里嚣张跋扈的男主继妹】 　　⑦【古早网游文男主的拜金前情缘】 　　⑧【年代文里抛弃糙汉男友回城的娇娇女】 　　⑨【退役雇佣兵水管工的俏房东】 　　⑩【向哨文里排挤女主的恶毒向导】 　　其他待定……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o170bbfd59d0110367f37e15de2682ee9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937010&x-signature=369fXZvzmul5TGvAV0hnmTo%2FV%2Bw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o170bbfd59d0110367f37e15de2682ee9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023419&x-signature=LWvJywbxwkMsoprdEStNCGDfsus%3D",
         "url": "https://fanqienovel.com/page/7623810999656664088"
+      },
+      {
+        "title": "恶毒女配她千娇百媚",
+        "author": "明媚的阿山",
+        "reads": "8.6万",
+        "intro": "（精致利己女主，男洁，恶女，玛丽苏） 没有背景的柏芊娇身为快穿局的新人，直接被主管分到了恶毒女配组。任务要求也很简单，维持原主人设，达成悲惨结局。 可万万没想到，各个剧情里出现了大漏洞。 1、最重规矩的皇上忽然不想守规矩了。 2、恶毒白月光依旧是白月光。 3、心机表妹恶毒却实在美丽。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od09d3ed9445a466b18cca8fb853b8bbb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023419&x-signature=Oa0fpj7N5zIHF7w3cMY6YkU3Cpw%3D",
+        "url": "https://fanqienovel.com/page/7628214711800040510"
       },
       {
         "title": "快穿：炮灰也要努力幸福",
         "author": "和风细雨润无声",
-        "reads": "8.6万",
+        "reads": "8.8万",
         "intro": "【快穿】【架空】【无固定CP】【空间】【异能】【年代】【古代】【女主运气值爆表，受世界意识偏爱】 明煜是蓝星最后一个幸存者。在她出生之前200多年，大量小行星密集撞击蓝星表面，永夜降临，生态灭绝。人类想尽办法自救，甚至开发出了异能，但依旧没能阻止灭绝的进程。 她一个人孤孤单单活了十年。终于，蓝星溃散。明煜却拥有了穿梭万界的能力，获得了另类的永生。 只是她穿越的这些人，好像命都不太好。 但是没关系的，明煜会努力过好自己的日子。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9e11e4a529264d80e5eec00e96bdf5f7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937010&x-signature=KTdy0H1ufLtL8aQnENfoUSxw38k%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9e11e4a529264d80e5eec00e96bdf5f7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023419&x-signature=uTcUEY9Cqi1G3INKKIqnJeLJczE%3D",
         "url": "https://fanqienovel.com/page/7620276387806465086"
       },
       {
         "title": "快穿之宿主是一朵小白花",
         "author": "一只蛋挞呀呀",
-        "reads": "8.6万",
+        "reads": "8.7万",
         "intro": "【系统公告：宿主温静姝，任务完成率100%，男主沦陷率100%——凭借“柔弱不能自理”人设。】 温静姝绑定快穿系统时，被告知她抽中的天赋技能是——美貌满级、眼泪可控、装无辜无CD冷却。 系统：……这踏马是技能？这是作弊神器吧！ 温静姝微微一笑，眼眶微红，声音软得像三月的春风：“系统，你说什么呢，我只是运气好罢了。” 系统：撤回。我什么都没说。 于是—— 【世界一：霸道总裁的替身情人】 顾沉将她堵在墙角，声音冷冽：“不过是个替身，别妄想太多。” 温静姝低下头，睫毛轻颤，眼泪将落未落：“顾先生说得对……是我僭越了。” 三天后，顾沉用全副身家，求她回头。 “谁说她只是替身？”顾沉冷眼看众人，“她就是我此生挚爱。” 【世界二：高岭之花师尊的废物徒弟】 清冷师尊将她逐出师门：“心术不正，留你何用？” 温静姝跪在雨中，单薄的身躯瑟瑟发抖，声音轻得像是会碎掉：“是徒儿不配……师尊保重。” 一个月后，师尊踏碎三界禁制，将她从魔族抢回。 “谁敢伤她？”白衣染血，师尊嗓音嘶哑，“她便是毁了这天道，本尊也护着。” …… “傻子，这世上哪有什么小白花呀。” “不过是有人愿意信罢了。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oab76a7a77857d1616f6e709e2e6c52ab~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937010&x-signature=YEc%2FXapg1CzeGf2QD4Z1ELKEvws%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oab76a7a77857d1616f6e709e2e6c52ab~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023419&x-signature=fb1kjdSBtrS6xCYov8d4jPHcw8o%3D",
         "url": "https://fanqienovel.com/page/7630455181632605209"
       },
       {
         "title": "病娇又怎么了，可是他独宠啊！",
         "author": "可从天上来",
-        "reads": "8万",
+        "reads": "8.2万",
         "intro": "【一见钟情，病娇男主独宠，甜宠，男主必洁。】 周云兮一边吃饭，一边和闺蜜吐槽某电视剧：某些女主就是吃得太好了，作天作地。这要是换我来！这么独宠的男主，病娇一点又如何！她一定秒入！ 天道：满足你。 周云兮被天道送往各处体验生活~ 第一：病娇机修师 第二：口欲症晚期的霸总 第三：狂野且疯批的流浪兽人 第四：偏执的末世病娇反派 第五：强制爱的县令公子 第六：控制欲极强的药谷少主 周云兮：貌美如花，头脑清醒，但不矫情。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of628cc078fdfdd2e415f8972d5cca8de~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937010&x-signature=SNqJO6ERN9d1%2FRhCMiIDa1G0Mkk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of628cc078fdfdd2e415f8972d5cca8de~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023419&x-signature=5DacDg4OLDsrfaafv3Tu42qI4hY%3D",
         "url": "https://fanqienovel.com/page/7568894536450067481"
       },
       {
         "title": "快穿：女主宝宝她实在貌美",
         "author": "月芽湾湾",
-        "reads": "7.6万",
+        "reads": "7.8万",
         "intro": "| 超快节奏 | 生子 | 忠犬 | 女主全肯定 | 系统 | 虞婠樱是快穿局的一名任务者，同事们内卷又努力，她却只想做一只躺平的咸鱼。 虞婠樱属于生子部门，任务是为男主延续优质基因。 可她做任务没那么积极，不是因为她没实力，而是因为她实在貌美，小世界里的男主们在确认了她的建模后，都会变得很懂事，即刻学会自我攻略…… 1，勇猛将军x貌美公主☑️ 2，病娇竹马x貌美青梅☑️ 3，坏脾气老板x貌美秘书☑️ 4，末世大佬x貌美菟丝花ing",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9b3f3d5e33e0244107efc6989aed577a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937014&x-signature=RCssBcbiH0wzSPdGdy97I3ywkrw%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9b3f3d5e33e0244107efc6989aed577a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023422&x-signature=U%2F6lUY2g1hJRMG5%2BpEKmU%2FuplvA%3D",
         "url": "https://fanqienovel.com/page/7627703077549640728"
       },
       {
-        "title": "男频女配她又在训狗",
-        "author": "她的龙l",
-        "reads": "7.2万",
-        "intro": "沈璃穿越到各个男频小世界，成为各式各样的同名同姓炮灰女配。 世界一背刺校花女友x囤货流龙傲天 上辈子沈璃伙同邻居洗劫男主物资，将男主赶出房子，冻死在冰天雪地中。男主重生归来，怎么又在给沈璃当狗，储备的物资全用来伺候沈璃了。 世界二拜金前女友x神豪文龙傲天 被前女友嫌弃买不起lv包包的男主绑定了神豪系统，花钱就能变强，本来想着扶持小主播pk打前女友的脸，只是你怎么巴巴地凑上去给前女友当守护大哥了。 世界三恶毒妻子x赘婿流龙傲天 在大小姐家饱受摧残磋磨，一朝龙王归来，竟然赖在妻子家不走了。 世界四……… 男主有洁有不洁，奶头乐而已，看了简介自主避雷。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2f55ebe3bad3042e8bd22bae82f1a405~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937014&x-signature=plaI2Jp5jtE%2FWQ73WVVl97YX5f8%3D",
-        "url": "https://fanqienovel.com/page/7632512610159578137"
+        "title": "不是，男主们怎么被调成狗了？",
+        "author": "壮大钱",
+        "reads": "7.3万",
+        "intro": "【男女通杀万人迷＋全员痴汉＋一对多＋恋爱脑＋修罗场＋病娇＋囚禁＋男全洁＋男小三】 夏星临生在多夫制合法的蓝星。 别人羡慕她被数位顶级男人环伺，她却只觉得累——人太多了，真的应付不过来。某天，她偷偷收藏“擦边腹肌男”的小号被扒，家里那群疯狗彻底失控，夏星临连夜逃跑，误入系统世界。 她松了口气。 太好了。 换了世界，那种莫名体质应该没了吧？ 系统也信誓旦旦：你只是炮灰女配，走完剧情，安静退场。 另一边，那些被系统选中的男人们，也以为她只是剧情里无足轻重的 NPC。他们要竞争“天选之子”，要走向命定女主，要完成属于自己的结局。 可后来，剧情算什么？天选之子又算什么？谁才是他们老婆，他们自有分辨。 第一个世界：“妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹！” 镜头前，他们喊她妹妹；镜头后，他们也喊她妹妹。可喊得越多，眼神越不对劲。 第二个世界：“嫂子摸摸，我心跳好快啊。” 夏星临终于渐渐意识到，那种体质根本没有消失。 甚至变本加厉。 原女主贴着她，女配护着她，男配看她的眼神越来越危险，连那些本该无视她、远离她、走向原定剧情的男主，也一个接一个偏离轨道。 （1vn男主们处处处处） 具体排雷见第一章哦～",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o808c8792601c73cd511f7e6bcbf7b120~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023422&x-signature=ZsBj8Hkv%2FSPlwe%2BIRJQk%2BIrr0vc%3D",
+        "url": "https://fanqienovel.com/page/7488633696900090942"
       },
       {
         "title": "心机女配勾勾手？男人应有尽有",
         "author": "牛奶芋泥冰",
-        "reads": "7.1万",
+        "reads": "7万",
         "intro": "（刚出分，会涨的） 【心机女配】【不固定cp】【千娇百媚大美人】 注：女主纯享乐主义，精致利己，吃什么不能吃苦。 卷过勾心斗角的高级牛马职场，卷过明枪暗箭的宫斗。 通杀退休后的虞逢春绑定了一个心机女配逆袭系统，面对群魔乱舞的剧情小世界，以及系统邀请攻略男主的建议。 她拒绝。 不想加入男主争夺大乱斗。 男人么，到处都是。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/849380de0c498f86cb7ffd7a089cc865~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937014&x-signature=aRlbGB0PrvI9%2Bu2CIGmXrUvWqso%3D",
+        "cover": "https://p9-reading-sign.fqnovelpic.com/novel-pic/849380de0c498f86cb7ffd7a089cc865~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023422&x-signature=NzNAdfk3CscQXWjWEAQqK4pD01Y%3D",
         "url": "https://fanqienovel.com/page/7553899704568777790"
+      },
+      {
+        "title": "快穿之女配专撬原著男主",
+        "author": "鸽子兰兰兰",
+        "reads": "7万",
+        "intro": "| 快穿｜截胡男主｜雌竞｜节奏飞快 | 存在男不洁副本｜无三观｜ 所有小说世界里，天命男主生来只为原女主量身定做。 女配困在宿命里，倾尽真心，卑微追逐，终究爱而不得。 直到结局落幕才幡然醒悟—— 这整个世界本就以女主为中心，所有人都是衬托她的配角， 就连满心爱慕的少年，也从出生起就被划定归属。 凭什么？ 不甘的执念跨越位面，无数意难平女配许愿。 任务者需要不惜一切代价，撬走本该属于女主的心动，夺走男主的心。 撕碎既定的爱情规则，亲手验证： 所谓天命难违的挚爱，到底是宿命捆绑，还是人心可变？ 既然天道不公，那便颠倒剧情， 世间所有男主，女配们未尝不能沾染。 ps：不虐女主，存在相关情节时，也只是拿捏男主的手段",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc4900898375723f21aa6b9dafee6b2cc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023422&x-signature=1HesX0ws1Cm6DyVLgmBHndVP2NI%3D",
+        "url": "https://fanqienovel.com/page/7632663550648912958"
+      },
+      {
+        "title": "男频女配她又在训狗",
+        "author": "她的龙l",
+        "reads": "6.7万",
+        "intro": "沈璃穿越到各个男频小世界，成为各式各样的同名同姓炮灰女配。 世界一背刺校花女友x囤货流龙傲天 上辈子沈璃伙同邻居洗劫男主物资，将男主赶出房子，冻死在冰天雪地中。男主重生归来，怎么又在给沈璃当狗，储备的物资全用来伺候沈璃了。 世界二拜金前女友x神豪文龙傲天 被前女友嫌弃买不起lv包包的男主绑定了神豪系统，花钱就能变强，本来想着扶持小主播pk打前女友的脸，只是你怎么巴巴地凑上去给前女友当守护大哥了。 世界三恶毒妻子x赘婿流龙傲天 在大小姐家饱受摧残磋磨，一朝龙王归来，竟然赖在妻子家不走了。 世界四……… 男主有洁有不洁，奶头乐而已，看了简介自主避雷。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2f55ebe3bad3042e8bd22bae82f1a405~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023422&x-signature=O%2B9hKYd8EspNc8kOGBGOdRHAwGc%3D",
+        "url": "https://fanqienovel.com/page/7632512610159578137"
       },
       {
         "title": "快穿：你男朋友好爱我怎么办",
         "author": "一弯银月",
         "reads": "6.6万",
         "intro": "刚出评分，后面会涨【快穿+男全洁+上位者低头+心机女配+绿茶+微万人迷】 咦，好奇怪，怎么南意来了，男主就都选择南意了？ 世界一：谁说我们是兄弟？(汉子茶)【已完结】 裴知聿：南意只是一起长大的妹妹；南意：不不不我喜欢你哦。 世界二：看好游戏里的男人哦【已完结】 宋景琛：只是游戏队友而已；南意：队友变对象哦。 世界三：没结婚怎么会算是姐夫【更新中】 表姐小时候总爱抢自己东西怎么办？当然是把她最宝贝的抢过来咯。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od02d7934c6d4c96ab50ebd1b5df71b08~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937014&x-signature=KEjW9GALElVeOSYxHcnqAB7zXqs%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od02d7934c6d4c96ab50ebd1b5df71b08~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023422&x-signature=tqvK41Mu%2Fe%2FnRkT8hgFGj9ntAfo%3D",
         "url": "https://fanqienovel.com/page/7628070351158660121"
-      },
-      {
-        "title": "不是，男主们怎么被调成狗了？",
-        "author": "壮大钱",
-        "reads": "6.7万",
-        "intro": "【男女通杀万人迷＋全员痴汉＋一对多＋恋爱脑＋修罗场＋病娇＋囚禁＋男全洁＋男小三】 夏星临生在多夫制合法的蓝星。 别人羡慕她被数位顶级男人环伺，她却只觉得累——人太多了，真的应付不过来。某天，她偷偷收藏“擦边腹肌男”的小号被扒，家里那群疯狗彻底失控，夏星临连夜逃跑，误入系统世界。 她松了口气。 太好了。 换了世界，那种莫名体质应该没了吧？ 系统也信誓旦旦：你只是炮灰女配，走完剧情，安静退场。 另一边，那些被系统选中的男人们，也以为她只是剧情里无足轻重的 NPC。他们要竞争“天选之子”，要走向命定女主，要完成属于自己的结局。 可后来，剧情算什么？天选之子又算什么？谁才是他们老婆，他们自有分辨。 第一个世界：“妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹！” 镜头前，他们喊她妹妹；镜头后，他们也喊她妹妹。可喊得越多，眼神越不对劲。 第二个世界：“嫂子摸摸，我心跳好快啊。” 夏星临终于渐渐意识到，那种体质根本没有消失。 甚至变本加厉。 原女主贴着她，女配护着她，男配看她的眼神越来越危险，连那些本该无视她、远离她、走向原定剧情的男主，也一个接一个偏离轨道。 （1vn男主们处处处处） 具体排雷见第一章哦～",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o808c8792601c73cd511f7e6bcbf7b120~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937014&x-signature=w2S2N3aIOxmwpGfwCrlAksen8uY%3D",
-        "url": "https://fanqienovel.com/page/7488633696900090942"
       },
       {
         "title": "快穿：当女配有了心机和手段",
         "author": "宵予",
-        "reads": "6.5万",
+        "reads": "6.4万",
         "intro": "【黑原女主➕女主演技派➕半沉浸式➕小世界1v1】 世界上有这样一种人，她们优秀，美丽，明明什么都没有做错，最后却落得个不得善终的下场。 这类人，统称为炮灰女配。 而沈令晞，就是其中之一。 沈令晞是扶光国的长公主，扶光国皇帝残忍暴戾昏庸无能，天下百姓怨声载道，她不忍天下人受苦，决定拨乱反正！ 可她失败了，败在了皇帝出巡途中救下的一个不知名女人手上。 在被凌迟处死后，她被一个名叫系统的东西绑定，通过系统她才终于知道，原来她只是一个小世界中的炮灰女配，生来就是为了给女主做配。 沈令晞不甘心，她答应系统去各个小世界完成任务，只为了能够复活回去复仇！ 世界一：校花炮灰女配 世界二：豪门千金炮灰女配 世界三：天才钢琴家炮灰女配 世界四：顶流影后炮灰女配",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe7ae0c56a0b0ce2f67442726fdf46500~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937014&x-signature=6fyP5espNUAacRxqg05x9RW4Crs%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe7ae0c56a0b0ce2f67442726fdf46500~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023422&x-signature=D%2Bj1nTmSrinyRRao6hAWwZwIWmM%3D",
         "url": "https://fanqienovel.com/page/7632656942699138110"
       },
       {
@@ -199,32 +203,24 @@
         "author": "壶温余酒",
         "reads": "6.3万",
         "intro": "【生子+双洁+恨海情天+不受气女主+阴湿爱恨集一体的男主+久别重逢】 古早言情小说里 男主总有一个渣过他的前女友，这个前女友往往会在他最艰难的时候背叛他离去 黎泫就是专演渣女的任务者，只渣男主，她负责在男主遇见女主之前，扮演男主的前女友 在男主最爱她的时候，卷款跑路，不声不响甩掉他 结果她调教太好了，一个个恨她也恨不明白，集体黑化、封心锁爱、厌世孤僻，导致小世界因无合格继承人全都崩塌 黎泫被系统调到继承人拯救部门 “你也没跟我说要回去攻略那些男主啊！” “让那些恨不得将我挫骨扬灰的前任，重新对我欲罢不能，并且心甘情愿和我生孩子，系统你喝多了吧？” 黎泫没想到他们对自己恨意值是恨她不够爱 世界一：被前女友卷走五十亿差点破产后崛起的大佬 重逢前：“谁在意她了？” 重逢时：“黎泫，我恨你” 重逢后：“你当年把钱带走，为什么不把我也带走！” 世界二：被太子妃背叛差点失去皇位后成一国之君的暴戾帝王 “以后谁也不许再提太子妃！” 女扮男装中状元的黎泫被单独叫到书房，“黎泫你化成灰朕都能认出你！” “朕只想你偏心我一点，为什么永远有比我重要的事！” 世界三：下乡时被对象嫌弃没前途，回城后当上冷面军官",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0e045a4a552885008d2ccc8347508579~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937014&x-signature=2iiTO00U7ebMII6e4TROFKD9e10%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0e045a4a552885008d2ccc8347508579~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023422&x-signature=BZfwt2Obr%2BhkTDaM5HPdeOr429s%3D",
         "url": "https://fanqienovel.com/page/7621520710451596313"
       },
       {
         "title": "快穿：手拿炮灰剧本，但她万人迷",
         "author": "年糕不吃鱼",
-        "reads": "6.2万",
+        "reads": "6.5万",
         "intro": "评分刚出，后面会涨的～ 【微万人迷+微群像+男全洁+无固定cp+甜宠+脑洞+一见钟情+女主不吃苦】 秦方好被系统抓来，穿成各个小世界里的男主的炮灰前任。 说是要改变原主的悲惨命运。 作为快穿局里的npc，秦方好觉得在那儿打工不是打...... 第一个世界：豪门男友掉海失忆？那我也失忆 第二个世界：那不是虐文女主，那是我闺蜜 第三个世界：年代文爱慕虚荣的前妻，谁说我要离婚了？ 第四个世界：真少爷被认回前的前女友 第五个世界：大院里来了个小可怜儿（零五年） 第六个世界：男主叫我下乡搞建设？不了我明天结婚",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0654ea450df90a9a371d31f6f10145f5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937014&x-signature=cBUd5esOiSp9II7OgbDCnNBEjuk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0654ea450df90a9a371d31f6f10145f5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023422&x-signature=YM0hl47Tfp6VoKdpTN90dn6KfcM%3D",
         "url": "https://fanqienovel.com/page/7618096609271745560"
       },
       {
-        "title": "快穿：心机女配勾引上位",
-        "author": "宋瑜也",
-        "reads": "5.7万",
-        "intro": "[甜欲拉扯+禁忌勾引＋无系统不死遁+部分世界有宝宝] （每个世界不同男主，全部双洁。沉浸式，可当独立小故事看） - 毓宁是快穿局业绩垫底的小废物，但她从不内耗，依旧躺平过着悠闲小日子。 可偏偏她不犯人，人要来犯她。 她整日潇洒惬意看得人眼红，一众同事联合举报，使得总局把她下派到了骂声最高的女配组。 这女配还不是普通女配，而是要跟女主抢男人的那种。 毓宁抱头痛哭，却不得不接受现实，开始上进搞事业。 只是谁能告诉她，她都还没怎么出招，为什么男主就缴械投降了？ - 世界一：娇气假公主vs沉敛皇帝（完结） 世界二：年代娇气包（完结） 世界三：民国孤女vs狠戾督军（完结） 世界四：新人小花vs影帝姐夫（连载中） 世界五：娇纵前女友vs冷脸洗内裤霸总 ......",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o26cc7f967a2ed7a7f9cd735d8164780c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937014&x-signature=sQafrRbXdozaKKPjBwgf3ZGkJoM%3D",
-        "url": "https://fanqienovel.com/page/7620780527766752318"
-      },
-      {
-        "title": "快穿之记仇怎么了，我可不是坏人",
-        "author": "月亮可蓝猫",
-        "reads": "5.7万",
-        "intro": "[快穿+爽文+利己+无固定cp] 注:主角最在乎的是自己，谁都没有自己重要。 一大堆优点，最好最好的优点就是记仇，别人吃亏，也不能让自己吃亏。 元卿无意中绑定了一个残缺系统，残缺系统带着元卿进入其它世界。 在陌生的世界活过一生又一生，肆意又自在。 但在这其间，却总会遇到一些这样又那样的意外。 什么？这个人竟然是重生的？还有穿越的…… 没关系，不管什么，谁都别想阻碍他的路。 世界一:痴情男二？与我无关 世界二:她后悔没有嫁给我 世界三:中奖后，我甩了白月光 世界四:落水被救后，我认了个义妹",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/1097280236bc412a68eeb56d41b559a5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937014&x-signature=Agxx19pNnLyLpbgbjA9acLcQEqc%3D",
-        "url": "https://fanqienovel.com/page/7615470637611502616"
+        "title": "快穿：绿茶女配她手段了得",
+        "author": "赚钱怎么那么nan",
+        "reads": "6.2万",
+        "intro": "（1v1）温旎作为快穿局的新手员工，被组织分配到了女配组。 女配组的任务很简单，就是扮演剧情里的女配，按剧本走完该走的剧情就行。 穿成太子那个爱慕虚荣的救命恩人，温旎等着被揭穿后扫地出门，结果太子把她抓回来，说跑哪去都能找到她！？ 穿成娱乐圈里爱炒CP的花瓶女配，温旎黏着顶流蹭热度炒CP，结果顶流反过来黏着她让她蹭！？ ……",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o40866fc0b46ebbabc5bb0610cf2ba232~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023422&x-signature=Lm7s15DYfrnrj%2BepIhas1dEZwjI%3D",
+        "url": "https://fanqienovel.com/page/7617506651515391038"
       }
     ]
   },
@@ -235,190 +231,194 @@
         "new_count": 2,
         "dropped_count": 2,
         "new_books": [
-          "不是，男主们怎么被调成狗了？",
-          "快穿之记仇怎么了，我可不是坏人"
+          "快穿之女配专撬原著男主",
+          "快穿：绿茶女配她手段了得"
         ],
         "dropped_books": [
           {
-            "title": "快穿之妾室上位手册",
-            "intro": "（评分刚出）妾当作蒲苇，不靠等闲过。作为快穿任务者，就算穿成各种小妾，作为卷王的卿月，心里只有一件事：上位。（慢穿） 第一个世界:雍正的妾室齐妃李氏（完） 嫌我蠢笨懒散，唯真心可看。但让我当皇后的，也"
+            "title": "快穿：心机女配勾引上位",
+            "intro": "[甜欲拉扯+禁忌勾引＋无系统不死遁+部分世界有宝宝] （每个世界不同男主，全部双洁。沉浸式，可当独立小故事看） - 毓宁是快穿局业绩垫底的小废物，但她从不内耗，依旧躺平过着悠闲小日子。 可偏偏她不犯人"
           },
           {
-            "title": "心机女配万人迷，扮乖装茶勾男主",
-            "intro": "[快穿+女配上位+微万人迷+女主超会演+1V1] 姜岁杳同时绑定了海.棠系统和女配逆袭系统，一个任务是得到男主的爱，一个任务是得到男主的人 姜岁杳：原女主，抱歉，你的男主以后是我的了 ❀ 世界一：姐姐"
+            "title": "快穿之记仇怎么了，我可不是坏人",
+            "intro": "[快穿+爽文+利己+无固定cp] 注:主角最在乎的是自己，谁都没有自己重要。 一大堆优点，最好最好的优点就是记仇，别人吃亏，也不能让自己吃亏。 元卿无意中绑定了一个残缺系统，残缺系统带着元卿进入其它世"
           }
         ],
         "top_risers": [
           {
-            "title": "快穿：女主宝宝她实在貌美",
-            "change": "+4"
-          },
-          {
-            "title": "快穿：炮灰也要努力幸福",
+            "title": "不是，男主们怎么被调成狗了？",
             "change": "+3"
           },
           {
-            "title": "心机女配勾勾手？男人应有尽有",
-            "change": "+3"
+            "title": "快穿：女配稳拿拜金娇气包剧本",
+            "change": "+1"
           }
         ],
         "top_fallers": [
           {
-            "title": "快穿：女配稳拿拜金娇气包剧本",
-            "change": "-2"
-          },
-          {
-            "title": "快穿之宿主是一朵小白花",
-            "change": "-2"
-          },
-          {
             "title": "男频女配她又在训狗",
+            "change": "-3"
+          },
+          {
+            "title": "快穿：你男朋友好爱我怎么办",
             "change": "-2"
+          },
+          {
+            "title": "恶毒女配她千娇百媚",
+            "change": "-1"
           }
         ],
         "reads_growth": [
           {
             "title": "被病娇强制爱了怎么办",
-            "growth": "+7000"
+            "growth": "+6000"
           },
           {
-            "title": "快穿：炮灰也要努力幸福",
-            "growth": "+4000"
+            "title": "不是，男主们怎么被调成狗了？",
+            "growth": "+6000"
           },
           {
-            "title": "快穿：女主宝宝她实在貌美",
+            "title": "快穿：手拿炮灰剧本，但她万人迷",
             "growth": "+3000"
           }
         ],
-        "summary": "**🔥 题材趋势** 套路高度固化，“病娇/偏执男主+娇软/心机女主”成为绝对主流，榜单前10几乎被此类作品包揽。核心卖点从“剧情”转向“人设关系”，如《被病娇强制爱》直接以“逃不掉”为核心卖点。\n**📖 读者偏好** 读者追求“甜蜜但强爽感”，要求高甜度、低虐度。视角上，女主视角的“训狗”“上位”等权力反转叙事更受欢迎，而男主对女主的绝对忠诚和独宠是硬性指标。读者容忍度高，对玛丽苏和颜值描写接受度高。\n**🆕 新上榜作品** 《不是，男主们怎么被调成狗了？》延续了“万人迷+病娇”的热门赛道，标题的狗血和反差感吸引点击。《快穿之记仇怎么了》则提供“利己主义”女主，属于存量市场上的差异化尝试。\n**📉 掉出榜单** 《妾室上位手册》和《心机女配万人迷》在高度同质化的赛道中，缺乏爆款剧情记忆点，被更具话题性的作品取代。\n**💡 值得关注** 快穿赛道已进入“存量红海”，读者要求极高，仅靠堆砌标签难以出头。新文需在“极致人设”或“趣味脑洞”上做加法，如《记仇怎么了》的“利己”设定，或高概念如《调成狗》的“男主变异”。"
+        "summary": "**🔥 题材趋势** 快穿依然是“女频爽文”的核心战场，核心套路未变：病娇强制爱、万人迷、反套路（训狗/白莲）。但“生子”和“纯兽”等细分元素开始涌现，提供差异化。\n**📖 读者偏好** 读者高度追求“极致人设”和“情感张力”。男主“病娇/偏执/疯批”，女主“娇软/心机/绝美”的配置最受欢迎，且对“男全洁/双洁”要求极高。新鲜感是关键驱动力。\n**🆕 新上榜作品** 《快穿之女配专撬原著男主》主打“雌竞+截胡”，《快穿：绿茶女配她手段了得》则回归“心机女配”经典套路。两者均通过强化“竞争”与“手段”来制造爽点，吸引偏好“雌竞”设定的读者。\n**📉 掉出榜单** 《快穿：心机女配勾引上位》和《快穿之记仇怎么了》掉榜，或因人设或剧情节奏未能达到头部作品水平，在激烈的用户竞争中掉队。\n**💡 值得关注** 《木头万人迷，但真路人【快穿】》以“淡人”人设和“无CP”视角切入，获得了高在读，说明在极致的情感拉扯之外，“反套路”和“事业线”也能开辟新蓝海。"
       },
       "books": [
         {
           "title": "被病娇强制爱了怎么办",
           "author": "被窝探索家",
-          "reads": "22.4万",
+          "reads": "23万",
           "intro": "（病娇男主×娇软女主） 你被病娇盯上了。 逃不掉，躲不开。 那能怎么办？ 认命呗。 ——反正也逃不掉。 故事一：孤傲太子×不受宠表妹 故事二：狠辣无情校霸×转校乖乖女 故事三：未来姐夫×小透明妹妹 ………… （有的故事无三观，均双洁，HE结局，介意勿看！！）",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6e403ceb291ae2fb62e0ef90ec26ae11~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937010&x-signature=0jHcPKyPMhe6vphNaK0QHFUoLik%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6e403ceb291ae2fb62e0ef90ec26ae11~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023419&x-signature=r3%2FiLXh%2BGiYDdiy99K%2Bc5FnyXWk%3D",
           "url": "https://fanqienovel.com/page/7625819560800701464"
         },
         {
           "title": "木头万人迷，但真路人【快穿】",
           "author": "loko",
-          "reads": "20.1万",
+          "reads": "19.7万",
           "intro": "评分刚出【冷脸萌万人迷+真路人+有事业线+女主是淡人+男女都爱主角+无雌竞】 万人迷❗冷脸萌❗无cp❗ 林苏是快穿局路人扮演部门的员工。 第一个任务，穿成网游文里连名字都没有的仓库管理员。 月薪三千，玩男号，两眼一睁就是干活。 任务要求：自由存活。 她活得很好——直到线下见面会那天，她上台领奖，没有戴帽子。 于是所有人都疯了。 老板开始每天找她聊天，全服第一高手送装备不收钱，原女主问她要不要跳槽，原男主的小叔开车路过都要停下来看她一眼。 林苏：哦。领完钱了，回去挖矿。 第二个世界，她又是一个路人npc。 她左等右等，只等到大家不对劲的眼神。 本文又名《路人甲的自我修养》《别跟我谈剧情，谈钱》《打工人的职业素养贯穿诸天》 ———— 女主是顶美，但是真路人身份，女主特老实一直认认真真走剧情，本人是那种喜欢在不太降智剧情里突然来个土狗大美人情节的人。 所有人都喜欢女主。 女主性格魅力超过外貌。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6fd3ba5978aa6f4c51145dfcfac49f69~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937010&x-signature=Xb11Q%2BUCyII5fhn21agBq74YOcY%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6fd3ba5978aa6f4c51145dfcfac49f69~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023419&x-signature=gsbBP8z0yKlXg%2FJaMf4VvLt5I30%3D",
           "url": "https://fanqienovel.com/page/7631539993525095486"
         },
         {
           "title": "快穿：又又又被大佬叼回窝了",
           "author": "里lili里",
-          "reads": "17.5万",
+          "reads": "16.3万",
           "intro": "评分刚出【快穿+纯兽+甜宠+1v1双洁】 主角全程不变人，一直是小动物！ 邵糯穿成各种弱小萌兽， 每次都被这个世界最凶狠的大佬捡回去，叼进窝里狠狠宠。 世界一：深海巨妖 & 软萌小章鱼 世界二：雪山狼王 & 甜心萨摩耶 世界三：狠戾猞猁 & 流浪小布偶 …… 全球直播在线磕糖。 邵糯窝在大佬怀里软软蹭：被大佬叼回窝，也太幸福了吧！ 软萌小兽 × 高冷大佬，每个世界都甜到齁！ ps：第一个世界灵感来自纪录片《我的章鱼老师》 弹幕已大修，女主开局亚成年",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofd972a45984a96f6ec77788e9c86cc27~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937010&x-signature=BiXcP8i5%2F%2BrUHD%2BAWFUuLN7xQbE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2ofd972a45984a96f6ec77788e9c86cc27~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023419&x-signature=AVrnPsexlDZ08umkpPqzR8SwBQ0%3D",
           "url": "https://fanqienovel.com/page/7625147176695368728"
         },
         {
           "title": "快穿之白莲女配又让男主们沦陷了",
           "author": "猫鱼爱吃甜瓜",
-          "reads": "15.1万",
-          "intro": "【阅读指南：1vN｜全员恋爱脑｜男主心甘情愿臣服+男全洁+恋爱脑晚期｜心机狐狸精×一群沦为恋爱脑的疯批男主｜女主全程拿捏全员，爽到牙疼】 少虞绑定了女配系统，系统哭唧唧：宿主，之前的宿主都被虐得好惨…… 少虞笑了：放心，我带你爽。 世界一：京圈大佬vs相亲对象 男主清冷禁欲，侄女暗恋他九年。 少虞接手原主，第一晚就让他主动上门修灯。 侄女作妖？当着他的面哭？ 少虞转身消失两个月，再见时他跪在她面前，眼泪糊了满脸： “我错了，你别不要我……” 世界二：糙汉将军vs妩媚嫡女 他是杀伐果断的糙汉将军，她是京城第一美人。 新婚夜他冷着脸：我不碰你。 后来他红着眼眶跪在她床边： “夫人，你理理我……” 世界三：疯批长公主VS隐忍暗卫 她是权倾朝野的长公主，他是她捡回来的暗卫。 她说：你只是我养的一条狗。 后来他龙袍加身兵围皇城，却在她面前缓缓跪下。 “这江山给你，你摸摸我的头好不好……” 世界四：禁欲师尊vs妖女徒弟 他是仙界至尊，她是混进仙门的妖女。 他清冷自持：师徒有别，不可逾越。 后来他亲手毁了自己的道心，跪在她面前： “我不要这仙途了，只要你……” 女主的鱼塘，没有一条漏网之鱼。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o23475e9b8f931151152073c7d7af12f1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937010&x-signature=sdl%2FV%2Bh%2BXZscRcDCMfotPuF%2FAOs%3D",
+          "reads": "14.8万",
+          "intro": "【阅读指南：1vN｜全员恋爱脑｜男主个个臣服+全洁+晚期恋爱脑｜女主就是个大漂亮，男主全疯了｜爽到牙疼】 女主少虞，专治各种不服。 系统哭唧唧说之前宿主都被虐得好惨，少虞笑了：放心，姐带你躺赢。 世界一：京圈太子爷相亲局 男主清冷禁欲高岭之花，侄女暗恋他九年，在原剧情里原主被玩得团团转。 少虞来了，第一晚就让他半夜开车过来修灯泡。 侄女当着他面哭？少虞转头消失两个月。 再见时这位爷跪在她面前，眼泪哗哗的： “我错了，你别不要我。” 世界二：边疆糙汉将军 他是杀人不眨眼的铁血将军，她是京城第一美人，新婚夜他冷着脸说我不会碰你。 后来这糙汉子红着眼眶跪在她床边： “夫人你理理我行不行？” 世界三：忠犬暗卫 她是权倾朝野的疯批长公主，他是她捡回来的一条狗。 她说你只是我养的狗，他不吭声。 后来他穿上龙袍围了皇城，却在她面前缓缓跪下： “这江山都给你，你摸摸我的头好不好？” 世界四：禁欲丈夫 他是薄情寡恩的联姻丈夫，新婚半个月连婚房都没进过，把她当空气。 后来他红着眼把她堵在墙角：“傅太太，这婚……不离了。” 少虞的鱼塘，进去的鱼就没跑出来过。 她只负责撩，他们负责疯。 后来被这群疯子追上门…",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o23475e9b8f931151152073c7d7af12f1~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023419&x-signature=U5FkOqVJRmaWrjY7bJjBi%2Bvyjoc%3D",
           "url": "https://fanqienovel.com/page/7629764114088217662"
         },
         {
           "title": "快穿：男主不要欺负恶毒女配了！",
           "author": "鲲姐大大",
-          "reads": "9.3万",
+          "reads": "9.5万",
           "intro": "（刚出分后面会涨的~）【快穿+病娇+偏执狂+女主呆萌美人+1v1+强取豪夺】 夏阮本是个腼腆的软妹子，却被系统告知自己所在的世界是书上的世界，而自己是恶毒女配，需要完成恶毒女配的任务！ 唯唯诺诺老老实实做完后，系统却赖上她了，要带她去各种五彩斑斓的世界！于是…… 夏阮勤勤恳恳扮演恶毒女配，可没想到男主出了故障…… 夏阮蹲在角落委屈：\"我按照剧本来的，可他怎么同意了？\" \"他怎么还不提分手？\" \"我污蔑他了，可他还要跟我好...\" 做完任务夏阮想跑，可谁承想，偏偏男主不与女主纠缠而是病态地把她锁在怀里。 系统崩溃：\"宿主！男主不按剧本走了！\" 校园文里的恶毒女配 娱乐圈里的黑红女明星 末世文里的恶毒女配 宫斗文里的娇纵宠妃 残暴蛇兽强占雌性 ……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o290bfb31b16a0c2b2dfdf42689d869fd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937010&x-signature=08%2FGmH2pZZV%2F2UWN0NgNZaWodfs%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o290bfb31b16a0c2b2dfdf42689d869fd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023419&x-signature=a%2FjNpRdBhqjjIMO40offDSQ6bVU%3D",
           "url": "https://fanqienovel.com/page/7626645869260983320"
-        },
-        {
-          "title": "恶毒女配她千娇百媚",
-          "author": "明媚的阿山",
-          "reads": "8.8万",
-          "intro": "（精致利己女主，男洁，恶女，玛丽苏） 没有背景的柏芊娇身为快穿局的新人，直接被主管分到了恶毒女配组。任务要求也很简单，维持原主人设，达成悲惨结局。 可万万没想到，各个剧情里出现了大漏洞。 1、最重规矩的皇上忽然不想守规矩了。 2、恶毒白月光依旧是白月光。 3、心机表妹恶毒却实在美丽。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od09d3ed9445a466b18cca8fb853b8bbb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937010&x-signature=OsX7GF4%2BmXfqt%2Fs7UhtAvhe1wCo%3D",
-          "url": "https://fanqienovel.com/page/7628214711800040510"
         },
         {
           "title": "快穿：女配稳拿拜金娇气包剧本",
           "author": "一往无前的芝芝",
-          "reads": "8.9万",
+          "reads": "8.3万",
           "intro": "【评分刚出，后面会涨】 【半沉浸+不崩人设+精致利己+低道德心机女+绝美万人迷+男全处】 　　楚瑶被抽去一魂一魄，为家人朋友和渣男挖了一辈子野菜，临死前重病缠身、身无分文。 　　直到死后补全灵魂，她才发现自己一手好牌打得稀烂，白瞎了最顶的建模和娴熟的演技。 　　于是她和恶魔系统做了个交易，扮演好自私娇气的恶毒女配，在每个世界掠夺资源、纵情享乐，帮系统将正统世界的剧情崩个天翻地覆。 　　系统帮她稳固好灵魂，回到现实世界拥有美满的人生，再让那群吸她血的人恶有恶报。 　　楚瑶秉承着专业精神，兢兢业业上了岗。 　　①【霸总白月光的卖酒女替身（1v1已完结）】 　　②【用室友照片网恋财阀继承人的妖艳女配（1v1已完结）】 　　③【嚣张贵女和马奴（1v4连载中）】 　　④【破产太子爷的心机前女友】 　　⑤【装失明勾引清冷首辅的商户女】 　　⑥【末世文里嚣张跋扈的男主继妹】 　　⑦【古早网游文男主的拜金前情缘】 　　⑧【年代文里抛弃糙汉男友回城的娇娇女】 　　⑨【退役雇佣兵水管工的俏房东】 　　⑩【向哨文里排挤女主的恶毒向导】 　　其他待定……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o170bbfd59d0110367f37e15de2682ee9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937010&x-signature=369fXZvzmul5TGvAV0hnmTo%2FV%2Bw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o170bbfd59d0110367f37e15de2682ee9~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023419&x-signature=LWvJywbxwkMsoprdEStNCGDfsus%3D",
           "url": "https://fanqienovel.com/page/7623810999656664088"
+        },
+        {
+          "title": "恶毒女配她千娇百媚",
+          "author": "明媚的阿山",
+          "reads": "8.6万",
+          "intro": "（精致利己女主，男洁，恶女，玛丽苏） 没有背景的柏芊娇身为快穿局的新人，直接被主管分到了恶毒女配组。任务要求也很简单，维持原主人设，达成悲惨结局。 可万万没想到，各个剧情里出现了大漏洞。 1、最重规矩的皇上忽然不想守规矩了。 2、恶毒白月光依旧是白月光。 3、心机表妹恶毒却实在美丽。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od09d3ed9445a466b18cca8fb853b8bbb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023419&x-signature=Oa0fpj7N5zIHF7w3cMY6YkU3Cpw%3D",
+          "url": "https://fanqienovel.com/page/7628214711800040510"
         },
         {
           "title": "快穿：炮灰也要努力幸福",
           "author": "和风细雨润无声",
-          "reads": "8.6万",
+          "reads": "8.8万",
           "intro": "【快穿】【架空】【无固定CP】【空间】【异能】【年代】【古代】【女主运气值爆表，受世界意识偏爱】 明煜是蓝星最后一个幸存者。在她出生之前200多年，大量小行星密集撞击蓝星表面，永夜降临，生态灭绝。人类想尽办法自救，甚至开发出了异能，但依旧没能阻止灭绝的进程。 她一个人孤孤单单活了十年。终于，蓝星溃散。明煜却拥有了穿梭万界的能力，获得了另类的永生。 只是她穿越的这些人，好像命都不太好。 但是没关系的，明煜会努力过好自己的日子。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9e11e4a529264d80e5eec00e96bdf5f7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937010&x-signature=KTdy0H1ufLtL8aQnENfoUSxw38k%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9e11e4a529264d80e5eec00e96bdf5f7~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023419&x-signature=uTcUEY9Cqi1G3INKKIqnJeLJczE%3D",
           "url": "https://fanqienovel.com/page/7620276387806465086"
         },
         {
           "title": "快穿之宿主是一朵小白花",
           "author": "一只蛋挞呀呀",
-          "reads": "8.6万",
+          "reads": "8.7万",
           "intro": "【系统公告：宿主温静姝，任务完成率100%，男主沦陷率100%——凭借“柔弱不能自理”人设。】 温静姝绑定快穿系统时，被告知她抽中的天赋技能是——美貌满级、眼泪可控、装无辜无CD冷却。 系统：……这踏马是技能？这是作弊神器吧！ 温静姝微微一笑，眼眶微红，声音软得像三月的春风：“系统，你说什么呢，我只是运气好罢了。” 系统：撤回。我什么都没说。 于是—— 【世界一：霸道总裁的替身情人】 顾沉将她堵在墙角，声音冷冽：“不过是个替身，别妄想太多。” 温静姝低下头，睫毛轻颤，眼泪将落未落：“顾先生说得对……是我僭越了。” 三天后，顾沉用全副身家，求她回头。 “谁说她只是替身？”顾沉冷眼看众人，“她就是我此生挚爱。” 【世界二：高岭之花师尊的废物徒弟】 清冷师尊将她逐出师门：“心术不正，留你何用？” 温静姝跪在雨中，单薄的身躯瑟瑟发抖，声音轻得像是会碎掉：“是徒儿不配……师尊保重。” 一个月后，师尊踏碎三界禁制，将她从魔族抢回。 “谁敢伤她？”白衣染血，师尊嗓音嘶哑，“她便是毁了这天道，本尊也护着。” …… “傻子，这世上哪有什么小白花呀。” “不过是有人愿意信罢了。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oab76a7a77857d1616f6e709e2e6c52ab~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937010&x-signature=YEc%2FXapg1CzeGf2QD4Z1ELKEvws%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oab76a7a77857d1616f6e709e2e6c52ab~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023419&x-signature=fb1kjdSBtrS6xCYov8d4jPHcw8o%3D",
           "url": "https://fanqienovel.com/page/7630455181632605209"
         },
         {
           "title": "病娇又怎么了，可是他独宠啊！",
           "author": "可从天上来",
-          "reads": "8万",
+          "reads": "8.2万",
           "intro": "【一见钟情，病娇男主独宠，甜宠，男主必洁。】 周云兮一边吃饭，一边和闺蜜吐槽某电视剧：某些女主就是吃得太好了，作天作地。这要是换我来！这么独宠的男主，病娇一点又如何！她一定秒入！ 天道：满足你。 周云兮被天道送往各处体验生活~ 第一：病娇机修师 第二：口欲症晚期的霸总 第三：狂野且疯批的流浪兽人 第四：偏执的末世病娇反派 第五：强制爱的县令公子 第六：控制欲极强的药谷少主 周云兮：貌美如花，头脑清醒，但不矫情。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of628cc078fdfdd2e415f8972d5cca8de~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937010&x-signature=SNqJO6ERN9d1%2FRhCMiIDa1G0Mkk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of628cc078fdfdd2e415f8972d5cca8de~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023419&x-signature=5DacDg4OLDsrfaafv3Tu42qI4hY%3D",
           "url": "https://fanqienovel.com/page/7568894536450067481"
         },
         {
           "title": "快穿：女主宝宝她实在貌美",
           "author": "月芽湾湾",
-          "reads": "7.6万",
+          "reads": "7.8万",
           "intro": "| 超快节奏 | 生子 | 忠犬 | 女主全肯定 | 系统 | 虞婠樱是快穿局的一名任务者，同事们内卷又努力，她却只想做一只躺平的咸鱼。 虞婠樱属于生子部门，任务是为男主延续优质基因。 可她做任务没那么积极，不是因为她没实力，而是因为她实在貌美，小世界里的男主们在确认了她的建模后，都会变得很懂事，即刻学会自我攻略…… 1，勇猛将军x貌美公主☑️ 2，病娇竹马x貌美青梅☑️ 3，坏脾气老板x貌美秘书☑️ 4，末世大佬x貌美菟丝花ing",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9b3f3d5e33e0244107efc6989aed577a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937014&x-signature=RCssBcbiH0wzSPdGdy97I3ywkrw%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o9b3f3d5e33e0244107efc6989aed577a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023422&x-signature=U%2F6lUY2g1hJRMG5%2BpEKmU%2FuplvA%3D",
           "url": "https://fanqienovel.com/page/7627703077549640728"
         },
         {
-          "title": "男频女配她又在训狗",
-          "author": "她的龙l",
-          "reads": "7.2万",
-          "intro": "沈璃穿越到各个男频小世界，成为各式各样的同名同姓炮灰女配。 世界一背刺校花女友x囤货流龙傲天 上辈子沈璃伙同邻居洗劫男主物资，将男主赶出房子，冻死在冰天雪地中。男主重生归来，怎么又在给沈璃当狗，储备的物资全用来伺候沈璃了。 世界二拜金前女友x神豪文龙傲天 被前女友嫌弃买不起lv包包的男主绑定了神豪系统，花钱就能变强，本来想着扶持小主播pk打前女友的脸，只是你怎么巴巴地凑上去给前女友当守护大哥了。 世界三恶毒妻子x赘婿流龙傲天 在大小姐家饱受摧残磋磨，一朝龙王归来，竟然赖在妻子家不走了。 世界四……… 男主有洁有不洁，奶头乐而已，看了简介自主避雷。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2f55ebe3bad3042e8bd22bae82f1a405~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937014&x-signature=plaI2Jp5jtE%2FWQ73WVVl97YX5f8%3D",
-          "url": "https://fanqienovel.com/page/7632512610159578137"
+          "title": "不是，男主们怎么被调成狗了？",
+          "author": "壮大钱",
+          "reads": "7.3万",
+          "intro": "【男女通杀万人迷＋全员痴汉＋一对多＋恋爱脑＋修罗场＋病娇＋囚禁＋男全洁＋男小三】 夏星临生在多夫制合法的蓝星。 别人羡慕她被数位顶级男人环伺，她却只觉得累——人太多了，真的应付不过来。某天，她偷偷收藏“擦边腹肌男”的小号被扒，家里那群疯狗彻底失控，夏星临连夜逃跑，误入系统世界。 她松了口气。 太好了。 换了世界，那种莫名体质应该没了吧？ 系统也信誓旦旦：你只是炮灰女配，走完剧情，安静退场。 另一边，那些被系统选中的男人们，也以为她只是剧情里无足轻重的 NPC。他们要竞争“天选之子”，要走向命定女主，要完成属于自己的结局。 可后来，剧情算什么？天选之子又算什么？谁才是他们老婆，他们自有分辨。 第一个世界：“妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹！” 镜头前，他们喊她妹妹；镜头后，他们也喊她妹妹。可喊得越多，眼神越不对劲。 第二个世界：“嫂子摸摸，我心跳好快啊。” 夏星临终于渐渐意识到，那种体质根本没有消失。 甚至变本加厉。 原女主贴着她，女配护着她，男配看她的眼神越来越危险，连那些本该无视她、远离她、走向原定剧情的男主，也一个接一个偏离轨道。 （1vn男主们处处处处） 具体排雷见第一章哦～",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o808c8792601c73cd511f7e6bcbf7b120~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023422&x-signature=ZsBj8Hkv%2FSPlwe%2BIRJQk%2BIrr0vc%3D",
+          "url": "https://fanqienovel.com/page/7488633696900090942"
         },
         {
           "title": "心机女配勾勾手？男人应有尽有",
           "author": "牛奶芋泥冰",
-          "reads": "7.1万",
+          "reads": "7万",
           "intro": "（刚出分，会涨的） 【心机女配】【不固定cp】【千娇百媚大美人】 注：女主纯享乐主义，精致利己，吃什么不能吃苦。 卷过勾心斗角的高级牛马职场，卷过明枪暗箭的宫斗。 通杀退休后的虞逢春绑定了一个心机女配逆袭系统，面对群魔乱舞的剧情小世界，以及系统邀请攻略男主的建议。 她拒绝。 不想加入男主争夺大乱斗。 男人么，到处都是。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/849380de0c498f86cb7ffd7a089cc865~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937014&x-signature=aRlbGB0PrvI9%2Bu2CIGmXrUvWqso%3D",
+          "cover": "https://p9-reading-sign.fqnovelpic.com/novel-pic/849380de0c498f86cb7ffd7a089cc865~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023422&x-signature=NzNAdfk3CscQXWjWEAQqK4pD01Y%3D",
           "url": "https://fanqienovel.com/page/7553899704568777790"
+        },
+        {
+          "title": "快穿之女配专撬原著男主",
+          "author": "鸽子兰兰兰",
+          "reads": "7万",
+          "intro": "| 快穿｜截胡男主｜雌竞｜节奏飞快 | 存在男不洁副本｜无三观｜ 所有小说世界里，天命男主生来只为原女主量身定做。 女配困在宿命里，倾尽真心，卑微追逐，终究爱而不得。 直到结局落幕才幡然醒悟—— 这整个世界本就以女主为中心，所有人都是衬托她的配角， 就连满心爱慕的少年，也从出生起就被划定归属。 凭什么？ 不甘的执念跨越位面，无数意难平女配许愿。 任务者需要不惜一切代价，撬走本该属于女主的心动，夺走男主的心。 撕碎既定的爱情规则，亲手验证： 所谓天命难违的挚爱，到底是宿命捆绑，还是人心可变？ 既然天道不公，那便颠倒剧情， 世间所有男主，女配们未尝不能沾染。 ps：不虐女主，存在相关情节时，也只是拿捏男主的手段",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc4900898375723f21aa6b9dafee6b2cc~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023422&x-signature=1HesX0ws1Cm6DyVLgmBHndVP2NI%3D",
+          "url": "https://fanqienovel.com/page/7632663550648912958"
+        },
+        {
+          "title": "男频女配她又在训狗",
+          "author": "她的龙l",
+          "reads": "6.7万",
+          "intro": "沈璃穿越到各个男频小世界，成为各式各样的同名同姓炮灰女配。 世界一背刺校花女友x囤货流龙傲天 上辈子沈璃伙同邻居洗劫男主物资，将男主赶出房子，冻死在冰天雪地中。男主重生归来，怎么又在给沈璃当狗，储备的物资全用来伺候沈璃了。 世界二拜金前女友x神豪文龙傲天 被前女友嫌弃买不起lv包包的男主绑定了神豪系统，花钱就能变强，本来想着扶持小主播pk打前女友的脸，只是你怎么巴巴地凑上去给前女友当守护大哥了。 世界三恶毒妻子x赘婿流龙傲天 在大小姐家饱受摧残磋磨，一朝龙王归来，竟然赖在妻子家不走了。 世界四……… 男主有洁有不洁，奶头乐而已，看了简介自主避雷。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2f55ebe3bad3042e8bd22bae82f1a405~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023422&x-signature=O%2B9hKYd8EspNc8kOGBGOdRHAwGc%3D",
+          "url": "https://fanqienovel.com/page/7632512610159578137"
         },
         {
           "title": "快穿：你男朋友好爱我怎么办",
           "author": "一弯银月",
           "reads": "6.6万",
           "intro": "刚出评分，后面会涨【快穿+男全洁+上位者低头+心机女配+绿茶+微万人迷】 咦，好奇怪，怎么南意来了，男主就都选择南意了？ 世界一：谁说我们是兄弟？(汉子茶)【已完结】 裴知聿：南意只是一起长大的妹妹；南意：不不不我喜欢你哦。 世界二：看好游戏里的男人哦【已完结】 宋景琛：只是游戏队友而已；南意：队友变对象哦。 世界三：没结婚怎么会算是姐夫【更新中】 表姐小时候总爱抢自己东西怎么办？当然是把她最宝贝的抢过来咯。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od02d7934c6d4c96ab50ebd1b5df71b08~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937014&x-signature=KEjW9GALElVeOSYxHcnqAB7zXqs%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2od02d7934c6d4c96ab50ebd1b5df71b08~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023422&x-signature=tqvK41Mu%2Fe%2FnRkT8hgFGj9ntAfo%3D",
           "url": "https://fanqienovel.com/page/7628070351158660121"
-        },
-        {
-          "title": "不是，男主们怎么被调成狗了？",
-          "author": "壮大钱",
-          "reads": "6.7万",
-          "intro": "【男女通杀万人迷＋全员痴汉＋一对多＋恋爱脑＋修罗场＋病娇＋囚禁＋男全洁＋男小三】 夏星临生在多夫制合法的蓝星。 别人羡慕她被数位顶级男人环伺，她却只觉得累——人太多了，真的应付不过来。某天，她偷偷收藏“擦边腹肌男”的小号被扒，家里那群疯狗彻底失控，夏星临连夜逃跑，误入系统世界。 她松了口气。 太好了。 换了世界，那种莫名体质应该没了吧？ 系统也信誓旦旦：你只是炮灰女配，走完剧情，安静退场。 另一边，那些被系统选中的男人们，也以为她只是剧情里无足轻重的 NPC。他们要竞争“天选之子”，要走向命定女主，要完成属于自己的结局。 可后来，剧情算什么？天选之子又算什么？谁才是他们老婆，他们自有分辨。 第一个世界：“妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹妹！” 镜头前，他们喊她妹妹；镜头后，他们也喊她妹妹。可喊得越多，眼神越不对劲。 第二个世界：“嫂子摸摸，我心跳好快啊。” 夏星临终于渐渐意识到，那种体质根本没有消失。 甚至变本加厉。 原女主贴着她，女配护着她，男配看她的眼神越来越危险，连那些本该无视她、远离她、走向原定剧情的男主，也一个接一个偏离轨道。 （1vn男主们处处处处） 具体排雷见第一章哦～",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o808c8792601c73cd511f7e6bcbf7b120~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937014&x-signature=w2S2N3aIOxmwpGfwCrlAksen8uY%3D",
-          "url": "https://fanqienovel.com/page/7488633696900090942"
         },
         {
           "title": "快穿：当女配有了心机和手段",
           "author": "宵予",
-          "reads": "6.5万",
+          "reads": "6.4万",
           "intro": "【黑原女主➕女主演技派➕半沉浸式➕小世界1v1】 世界上有这样一种人，她们优秀，美丽，明明什么都没有做错，最后却落得个不得善终的下场。 这类人，统称为炮灰女配。 而沈令晞，就是其中之一。 沈令晞是扶光国的长公主，扶光国皇帝残忍暴戾昏庸无能，天下百姓怨声载道，她不忍天下人受苦，决定拨乱反正！ 可她失败了，败在了皇帝出巡途中救下的一个不知名女人手上。 在被凌迟处死后，她被一个名叫系统的东西绑定，通过系统她才终于知道，原来她只是一个小世界中的炮灰女配，生来就是为了给女主做配。 沈令晞不甘心，她答应系统去各个小世界完成任务，只为了能够复活回去复仇！ 世界一：校花炮灰女配 世界二：豪门千金炮灰女配 世界三：天才钢琴家炮灰女配 世界四：顶流影后炮灰女配",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe7ae0c56a0b0ce2f67442726fdf46500~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937014&x-signature=6fyP5espNUAacRxqg05x9RW4Crs%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oe7ae0c56a0b0ce2f67442726fdf46500~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023422&x-signature=D%2Bj1nTmSrinyRRao6hAWwZwIWmM%3D",
           "url": "https://fanqienovel.com/page/7632656942699138110"
         },
         {
@@ -426,32 +426,24 @@
           "author": "壶温余酒",
           "reads": "6.3万",
           "intro": "【生子+双洁+恨海情天+不受气女主+阴湿爱恨集一体的男主+久别重逢】 古早言情小说里 男主总有一个渣过他的前女友，这个前女友往往会在他最艰难的时候背叛他离去 黎泫就是专演渣女的任务者，只渣男主，她负责在男主遇见女主之前，扮演男主的前女友 在男主最爱她的时候，卷款跑路，不声不响甩掉他 结果她调教太好了，一个个恨她也恨不明白，集体黑化、封心锁爱、厌世孤僻，导致小世界因无合格继承人全都崩塌 黎泫被系统调到继承人拯救部门 “你也没跟我说要回去攻略那些男主啊！” “让那些恨不得将我挫骨扬灰的前任，重新对我欲罢不能，并且心甘情愿和我生孩子，系统你喝多了吧？” 黎泫没想到他们对自己恨意值是恨她不够爱 世界一：被前女友卷走五十亿差点破产后崛起的大佬 重逢前：“谁在意她了？” 重逢时：“黎泫，我恨你” 重逢后：“你当年把钱带走，为什么不把我也带走！” 世界二：被太子妃背叛差点失去皇位后成一国之君的暴戾帝王 “以后谁也不许再提太子妃！” 女扮男装中状元的黎泫被单独叫到书房，“黎泫你化成灰朕都能认出你！” “朕只想你偏心我一点，为什么永远有比我重要的事！” 世界三：下乡时被对象嫌弃没前途，回城后当上冷面军官",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0e045a4a552885008d2ccc8347508579~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937014&x-signature=2iiTO00U7ebMII6e4TROFKD9e10%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0e045a4a552885008d2ccc8347508579~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023422&x-signature=BZfwt2Obr%2BhkTDaM5HPdeOr429s%3D",
           "url": "https://fanqienovel.com/page/7621520710451596313"
         },
         {
           "title": "快穿：手拿炮灰剧本，但她万人迷",
           "author": "年糕不吃鱼",
-          "reads": "6.2万",
+          "reads": "6.5万",
           "intro": "评分刚出，后面会涨的～ 【微万人迷+微群像+男全洁+无固定cp+甜宠+脑洞+一见钟情+女主不吃苦】 秦方好被系统抓来，穿成各个小世界里的男主的炮灰前任。 说是要改变原主的悲惨命运。 作为快穿局里的npc，秦方好觉得在那儿打工不是打...... 第一个世界：豪门男友掉海失忆？那我也失忆 第二个世界：那不是虐文女主，那是我闺蜜 第三个世界：年代文爱慕虚荣的前妻，谁说我要离婚了？ 第四个世界：真少爷被认回前的前女友 第五个世界：大院里来了个小可怜儿（零五年） 第六个世界：男主叫我下乡搞建设？不了我明天结婚",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0654ea450df90a9a371d31f6f10145f5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937014&x-signature=cBUd5esOiSp9II7OgbDCnNBEjuk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0654ea450df90a9a371d31f6f10145f5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023422&x-signature=YM0hl47Tfp6VoKdpTN90dn6KfcM%3D",
           "url": "https://fanqienovel.com/page/7618096609271745560"
         },
         {
-          "title": "快穿：心机女配勾引上位",
-          "author": "宋瑜也",
-          "reads": "5.7万",
-          "intro": "[甜欲拉扯+禁忌勾引＋无系统不死遁+部分世界有宝宝] （每个世界不同男主，全部双洁。沉浸式，可当独立小故事看） - 毓宁是快穿局业绩垫底的小废物，但她从不内耗，依旧躺平过着悠闲小日子。 可偏偏她不犯人，人要来犯她。 她整日潇洒惬意看得人眼红，一众同事联合举报，使得总局把她下派到了骂声最高的女配组。 这女配还不是普通女配，而是要跟女主抢男人的那种。 毓宁抱头痛哭，却不得不接受现实，开始上进搞事业。 只是谁能告诉她，她都还没怎么出招，为什么男主就缴械投降了？ - 世界一：娇气假公主vs沉敛皇帝（完结） 世界二：年代娇气包（完结） 世界三：民国孤女vs狠戾督军（完结） 世界四：新人小花vs影帝姐夫（连载中） 世界五：娇纵前女友vs冷脸洗内裤霸总 ......",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o26cc7f967a2ed7a7f9cd735d8164780c~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937014&x-signature=sQafrRbXdozaKKPjBwgf3ZGkJoM%3D",
-          "url": "https://fanqienovel.com/page/7620780527766752318"
-        },
-        {
-          "title": "快穿之记仇怎么了，我可不是坏人",
-          "author": "月亮可蓝猫",
-          "reads": "5.7万",
-          "intro": "[快穿+爽文+利己+无固定cp] 注:主角最在乎的是自己，谁都没有自己重要。 一大堆优点，最好最好的优点就是记仇，别人吃亏，也不能让自己吃亏。 元卿无意中绑定了一个残缺系统，残缺系统带着元卿进入其它世界。 在陌生的世界活过一生又一生，肆意又自在。 但在这其间，却总会遇到一些这样又那样的意外。 什么？这个人竟然是重生的？还有穿越的…… 没关系，不管什么，谁都别想阻碍他的路。 世界一:痴情男二？与我无关 世界二:她后悔没有嫁给我 世界三:中奖后，我甩了白月光 世界四:落水被救后，我认了个义妹",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/1097280236bc412a68eeb56d41b559a5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1779937014&x-signature=Agxx19pNnLyLpbgbjA9acLcQEqc%3D",
-          "url": "https://fanqienovel.com/page/7615470637611502616"
+          "title": "快穿：绿茶女配她手段了得",
+          "author": "赚钱怎么那么nan",
+          "reads": "6.2万",
+          "intro": "（1v1）温旎作为快穿局的新手员工，被组织分配到了女配组。 女配组的任务很简单，就是扮演剧情里的女配，按剧本走完该走的剧情就行。 穿成太子那个爱慕虚荣的救命恩人，温旎等着被揭穿后扫地出门，结果太子把她抓回来，说跑哪去都能找到她！？ 穿成娱乐圈里爱炒CP的花瓶女配，温旎黏着顶流蹭热度炒CP，结果顶流反过来黏着她让她蹭！？ ……",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o40866fc0b46ebbabc5bb0610cf2ba232~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023422&x-signature=Lm7s15DYfrnrj%2BepIhas1dEZwjI%3D",
+          "url": "https://fanqienovel.com/page/7617506651515391038"
         }
       ]
     }
