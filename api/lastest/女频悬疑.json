@@ -1,101 +1,109 @@
 {
   "type": "女频悬疑",
-  "date": "2026-05-22",
-  "prev_date": "2026-05-21",
+  "date": "2026-05-23",
+  "prev_date": "2026-05-22",
   "category": {
     "name": "女频悬疑",
     "trend": {
       "new_count": 2,
       "dropped_count": 2,
       "new_books": [
-        "宋队！你老婆又碰上命案了",
-        "万人迷警司不为人知的往事"
+        "听懂兽语破案，天天误入高危现场",
+        "穿越八零，我能闻到凶手的味道"
       ],
       "dropped_books": [
         {
-          "title": "凶案现场，我这个美少女能看见鬼",
-          "intro": "沈窈窈是个社恐大学生，却阴差阳错进了全城最神秘的“特调局”。 局里全是各界顶级大佬：冷面杀神队长、黑客界顶流、人形测谎仪法医。 没人看好这个软糯糯的沈窈窈，直到…… 碎尸案死者：警官，凶手是我前男友，"
+          "title": "盗墓：开局百鬼夜行，无常勾魂",
+          "intro": "【盗墓+阴差无常+爽文+轻松】 谢必安身患绝症，快死的时候被地府BOSS直聘了。 他喜提地府牛马身份，成为了阴差无常。 由于地府员工频繁跳槽，导致谢必安一个人要完成黑白无常两个人的工作量！ 谢必安：…"
         },
         {
-          "title": "穿越八零，我能闻到凶手的味道",
-          "intro": "东城公安局来了个末世穿越而来的女公安。 　　据说她的工作是从小叔那一哭二闹三上吊抢来的。 　　据说上班第一天就遇到了杀人案。 　　所有人都在等着她被吓破胆，乖乖把工作还回去时，她案子破了一个又一个，成"
+          "title": "续写第十二年",
+          "intro": "十二年前，温以宁被分手时，只问了沈渡一句话：“你想好了？” 沈渡说：“想好了。” 温以宁转身离开京城，没掉一滴泪。 十二年后，边境犯罪集团“沉渊”覆灭，核心人物“刽子手”在逃。唯一的卧底代号“哑巴”，"
         }
       ],
       "top_risers": [
         {
-          "title": "穿成虞姬去盗墓",
-          "change": "+7"
+          "title": "她闻得出来",
+          "change": "+6"
         },
         {
           "title": "盗墓：潘家园有个沈老板",
           "change": "+2"
         },
         {
-          "title": "盗墓：开局百鬼夜行，无常勾魂",
+          "title": "穿成虞姬去盗墓",
           "change": "+2"
         }
       ],
       "top_fallers": [
         {
-          "title": "续写第十二年",
-          "change": "-5"
+          "title": "成为张起灵小姨，我把所有人带跑",
+          "change": "-3"
+        },
+        {
+          "title": "被阴湿杀人魔盯上后【贵族学院】",
+          "change": "-2"
+        },
+        {
+          "title": "盗墓：老登，我回来了",
+          "change": "-1"
         }
       ],
       "reads_growth": [
         {
           "title": "盗墓：潘家园有个沈老板",
-          "growth": "+5000"
-        },
-        {
-          "title": "穿成虞姬去盗墓",
-          "growth": "+2000"
+          "growth": "+6000"
         },
         {
           "title": "和张起灵分手后，他要炸了青铜门",
           "growth": "+1000"
+        },
+        {
+          "title": "穿成虞姬去盗墓",
+          "growth": "+1000"
         }
       ],
-      "summary": "**🔥 题材趋势**  \n当前榜单“盗墓笔记”衍生同人占据半壁江山（8本），融合穿书、系统、阴差等设定；同时“贵族学院+灵异悬疑”的阴湿疯批风刮得正猛，多元素叠加形成扎堆效应。\n\n**📖 读者偏好**  \n读者偏爱强金手指女主（美强惨、逻辑天才、阴差无常）搭配雄竞修罗场或纯爱CP，爽感与微恐交织，暗黑猎奇但要求双洁与善良底色。\n\n**🆕 新上榜作品**  \n《宋队！你老婆又碰上命案了》以社恐女法医×搞怪刑警队长组合切入纯爱悬疑；《万人迷警司不为人知的往事》主打美强惨警司+多单箭头，标签虽误植但悬疑破案明确。\n\n**📉 掉出榜单**  \n《凶案现场，我这个美少女能看见鬼》（灵异+社恐）与《穿越八零，我能闻到凶手的味道》（年代+重生）或因同质化严重、开篇节奏较慢被快速更替的读者淘汰。\n\n**💡 值得关注**  \n《她闻得出来》以法医手记形式展开案件，写实冷峻风格在浪漫悬疑中差异化明显；《让让，挡我杀人了》以极致暗黑人设与诡异文学感突破常规，受众忠诚度高。"
+      "summary": "**🔥 题材趋势**  \n当前榜单由“盗墓笔记同人”与“法医刑侦”两大题材主导，前者扎堆出现（Top20中占7本），后者则与“穿越”“系统”等元素结合紧密。悬疑+灵异/微恐的复合"
     },
     "books": [
       {
-        "title": "被阴湿杀人魔盯上后【贵族学院】",
-        "author": "乐淅",
-        "reads": "5.6万",
-        "intro": "群狼环伺vs美而不自知万人迷｜各种阴湿疯子变态扯头花、微灵异、真杀人魔、男洁 变异版文案: 赵吟自觉是个平平无奇的特招生，日常是兼职上学回家三点一线，偶尔需要应付富二代男友身边那群傲慢毒舌又奇怪的朋友。 直到德尚贵族学院频频死人。 警官将她带到审讯室，似笑非笑问:“赵同学知不知道这三位被扒皮砍头的死者都在偷偷暗恋你？” 文案二: 赵吟和宋舰谈恋爱时，他身边朋友都说:“一个寡淡普通的女人，空有皮囊，根本配不上你。” “她太穷了，不仅在餐馆洗碗，还兼职跑腿，使唤她只用一点廉价的报酬，和使唤一条狗有什么区别呢？” “阿舰，你最好和她分手。” 宋舰那时爱她，疯起来连命都可以不要，只不过后来在国外飙车出了意外，失去记忆，唯独忘掉赵吟。 他带着新女友回国当晚，赵吟家那扇灰扑陈旧的掉漆大门迎来了好几波“客人”。 “吟吟，你应该看看我的。” “阿舰不懂珍惜，只有我才是真心爱你。” “你根本不知道，我多嫉妒，配不上你的，明明是他。” 排雷:是万人迷，不是万男迷，会有变态女配出没",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/4fda1a29ef5f12224d05fb8ad99ed6d6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023454&x-signature=%2BNJjH0iVP7CkLv4b1N9Z0p8bLgM%3D",
-        "url": "https://fanqienovel.com/page/7561845467420560409"
-      },
-      {
         "title": "和张起灵分手后，他要炸了青铜门",
         "author": "火淼未济",
-        "reads": "5.9万",
+        "reads": "6万",
         "intro": "【CP张起灵+原创女主＋剧情流+微恐】 社畜项卿被前男友冷暴力了…… 网上说，三天不联系就默认是分手。 项卿想了前男友的一百种死法，给他的失联找合理借口。 一场绑架，她被扔进天坑，踩着虫潮，躲着巨蛇，身后还追着一群想要她命的疯子——然后她见到了失踪几个月的前夫哥。 前夫哥：我失忆了…… 项卿：这个老套的借口我只在二十年前台偶剧里听过。 而后，被卷入一场场阴谋之中，项卿逐渐发现，自己这个常常望天发呆的前夫哥，竟然是道上人人畏惧的不可说。 然而所有人眼中的神，又双叒叕失忆了…… 张起灵举牌：找婆娘。 …… 一句话：蛊仙传人，打不死的小强·女主×我的记忆没有你，但我的身体还记得你·张起灵 失忆后又爱上了。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0ea29b7efb3dd63e94d412d3ced5916b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023454&x-signature=bsye19acRh3y0hsxbIT4MskQKCo%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0ea29b7efb3dd63e94d412d3ced5916b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108952&x-signature=UA%2BZuXB2IlpuCAHXVqzNB5dQ4Ig%3D",
         "url": "https://fanqienovel.com/page/7550401537575488537"
+      },
+      {
+        "title": "盗墓：潘家园有个沈老板",
+        "author": "千丝卷",
+        "reads": "6.2万",
+        "intro": "应该是无cp或者小哥和瞎子其中一个，或者两个都要！ 沈清和胡八一、王凯旋、雪莉杨一起解除了扎格拉玛族的千年诅咒 她以为一切都结束了，直到踏上那个祭台，再醒来时，她到了一个陌生的世界 她以为只是换个地方重新开始。直到一个叫王胖子的男人推门进来，拿出一只汉代的玉蝉。直到大年三十的出租车上，一个戴墨镜的司机递给她一个橘子。她发现，她的血脉在这个世界苏醒的，远不止长生",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0283d66ff3a9e4e0c9624d3fefdc5e5a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108952&x-signature=U%2FZz3pF%2BbYdbBtOJ8i5VVejiBDk%3D",
+        "url": "https://fanqienovel.com/page/7634116238657997886"
+      },
+      {
+        "title": "被阴湿杀人魔盯上后【贵族学院】",
+        "author": "乐淅",
+        "reads": "5.2万",
+        "intro": "群狼环伺vs美而不自知万人迷｜各种阴湿疯子变态扯头花、微灵异、真杀人魔、男洁 变异版文案: 赵吟自觉是个平平无奇的特招生，日常是兼职上学回家三点一线，偶尔需要应付富二代男友身边那群傲慢毒舌又奇怪的朋友。 直到德尚贵族学院频频死人。 警官将她带到审讯室，似笑非笑问:“赵同学知不知道这三位被扒皮砍头的死者都在偷偷暗恋你？” 文案二: 赵吟和宋舰谈恋爱时，他身边朋友都说:“一个寡淡普通的女人，空有皮囊，根本配不上你。” “她太穷了，不仅在餐馆洗碗，还兼职跑腿，使唤她只用一点廉价的报酬，和使唤一条狗有什么区别呢？” “阿舰，你最好和她分手。” 宋舰那时爱她，疯起来连命都可以不要，只不过后来在国外飙车出了意外，失去记忆，唯独忘掉赵吟。 他带着新女友回国当晚，赵吟家那扇灰扑陈旧的掉漆大门迎来了好几波“客人”。 “吟吟，你应该看看我的。” “阿舰不懂珍惜，只有我才是真心爱你。” “你根本不知道，我多嫉妒，配不上你的，明明是他。” 排雷:是万人迷，不是万男迷，会有变态女配出没",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/4fda1a29ef5f12224d05fb8ad99ed6d6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108952&x-signature=oqqid97cWz1dnu5xPxaSo3Mx7SM%3D",
+        "url": "https://fanqienovel.com/page/7561845467420560409"
       },
       {
         "title": "盗墓：老登，我回来了",
         "author": "牧星宇",
         "reads": "5.6万",
         "intro": "【严重ooc+CP黑爷+人鬼情未了+背后灵前女友+黑爷眼前一黑+老登我回来了+后期变回人】 花若木死了，死在了1934年。 * 被一个阵法镇压在井底的花若木：姐妹你干嘛！你咋还跟我抢人呢？这男人是我的，他爷爷我六十多年前就预定了！ * 黑瞎子回到房间，掏出青铜镜，看清背后的女鬼长相那一瞬间，只觉得眼前一黑。 这个女鬼怎么这么眼熟？这不是我六十多年前嘎了的那个前女友吗？ 木：大孙子，你好啊，我是你爷爷的短命前女友~快叫奶奶。 瞎：你说过，一个合格的前任应该像死了一样，不要随便诈尸！ 木：老登，六十多年不见，想我了吗？ 瞎：如果我有罪，请让法律来惩罚我，而不是让我再见到我忽然诈尸的死鬼女朋友！ 木：老登~摸摸，呲溜~ 瞎：花若木！你能不能看看场合！我在干活！回去再摸不行吗！ 木：嘻嘻，老登，来玩啊~ 黑瞎子嘴里跟花若木吵吵闹闹，实际上想尽办法找所谓的养魂的东西。 直到花若木的灵魂，变得殷实，直到魂体殷实后，黑瞎子将主意打到了张家复制体上。 瞎：哑巴，看在兄弟这么多年的照顾上，复制体怎么制作的？ 灵：... * 瞎：花若木，来，咱俩算算账吧。 木：哇哦~救济粮终于下来了吗？ 瞎：等等，你别激动... 木：新身体，张家出品，抗造，来啊~",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc129959580fb160c51af2b60e992c4cb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023454&x-signature=I%2B%2BNMgyUBKG1f1M2QEokNlW7dIk%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc129959580fb160c51af2b60e992c4cb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108952&x-signature=AwS6c74i88zuAkXQ%2FdVMAJ3sz%2B4%3D",
         "url": "https://fanqienovel.com/page/7622625345841138713"
-      },
-      {
-        "title": "盗墓：潘家园有个沈老板",
-        "author": "千丝卷",
-        "reads": "5.6万",
-        "intro": "应该是无cp或者小哥和瞎子其中一个，或者两个都要！ 沈清和胡八一、王凯旋、雪莉杨一起解除了扎格拉玛族的千年诅咒 她以为一切都结束了，直到踏上那个祭台，再醒来时，她到了一个陌生的世界 她以为只是换个地方重新开始。直到一个叫王胖子的男人推门进来，拿出一只汉代的玉蝉。直到大年三十的出租车上，一个戴墨镜的司机递给她一个橘子。她发现，她的血脉在这个世界苏醒的，远不止长生",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0283d66ff3a9e4e0c9624d3fefdc5e5a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023454&x-signature=JoAWh9NtQ2H3F%2BlwrIFEj%2BqkIqs%3D",
-        "url": "https://fanqienovel.com/page/7634116238657997886"
       },
       {
         "title": "盗墓：把我睡了的债主又活了",
         "author": "执笔浅书一梦",
-        "reads": "3.5万",
+        "reads": "2.9万",
         "intro": "正经书名：盗墓之戒瘾 【cp黑+ooc预警+一米五五超萌比格+暴躁小猫，随时亮爪+霸王龙的脾气+超记仇+双诈死+女强】 （看文别较真，衍生需谨慎，单机写作） （始终坚持言情文里绝不加耽原则。） 不喜勿入感谢支持。 风殷黎认为，寿命不一的人不适合长久的待在一起，否则以后如何解释她不老的容颜和依旧年轻的身体。所以，她给自己来了个无药可治大礼包。只要她诈死，就可以合理地离开，虽然这死男人居然在听到她重症卧床后就跑路了，死渣男！谁知，不多久，对方也传出死讯，死在某个墓里头了？ 风殷黎想，果然渣男短命！ 但是，这男人给她下蛊了？为什么从此她跟误食了断情丹似的再也对任何男人提不起兴趣？ 八十年后。 靠北！这男人没死啊！正好！她不用等到地府再跟他收账了！ 黑瞎子用了十年的时间，告诉自己，她已经离开这个世界了。这是他的选择，不体面的离开，就算留下，他们之间也只会走向陌路，他戒掉了她的瘾。 但，戒瘾之后重新染上，便是天雷勾地火，愈发严重了。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/3e52bf3308cb6bb27676e70cdfa09376~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023454&x-signature=663ynjJiZnwnN5fZpfxulGbcNdE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/3e52bf3308cb6bb27676e70cdfa09376~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108952&x-signature=sCxhImFq3588qFVvS9aS4qvmyZI%3D",
         "url": "https://fanqienovel.com/page/7603059247789640728"
       },
       {
@@ -103,7 +111,7 @@
         "author": "一斤小胖墩",
         "reads": "3.1万",
         "intro": "刚开分，后面会涨！请放心食用 逻辑天才实习生×高冷禁欲护短刑警队长1v1，双洁双强，架空，含私设。 姜绵只是下楼拿个雷霆外卖，就撞上小区垃圾桶发现人民碎片。 她挤进人群吃瓜，下一秒直接被目击证人指认成凶手。 姜绵：满脸???，别这么离谱行不？她只是吃个瓜！怎么成凶手了？ 刑警队队长宋延，高冷禁欲，不近人情，一开口就把她按在嫌疑人位置上磋磨。 “说一下作案过程。” 语气恶劣，还把她当小猫似的逗了一通。姜绵气炸，幸好天降神探系统，当场洗清嫌疑。 但她万万没料到自己倒霉到竟被学校分配到临江市刑警支队实习。 上司，还是宋延!! 直到某天，姜绵发现，这位高冷禁欲的队长，一跟她对视就耳尖发红。 她笑眯眯凑近：“宋队，你中暑了?” 宋延绷着脸：“没有。” 姜绵挑眉：“那就是……对我心动了。” 再后来她更惊了。 这人在床上既不高冷，也不禁欲。 分明是个装正经的大涩迷！！！ 清水河里，钓友钓起一具高度腐败…… 空置出租屋，夜半墙缝渗出暗红水渍。 诡异村庄，看似村风纯朴，实则暗藏恐怖陋习。 腐生菌丛、假面新郎、骨影灯笼…… 一桩桩离奇凶案，撕开人性最黑暗的褶皱。 而她和他，在刀尖上追凶，也在心动里沦陷。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7f2c35bfb853c07af5a76c44da068902~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023454&x-signature=%2Bs5JVUVEMmV%2Fv0Qg9cQ%2Fek1I44I%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7f2c35bfb853c07af5a76c44da068902~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108952&x-signature=q06dy9Y2KU5Kj%2Bg37sQGTkJYBg8%3D",
         "url": "https://fanqienovel.com/page/7620318256322071576"
       },
       {
@@ -111,112 +119,112 @@
         "author": "柿你吗",
         "reads": "2.7万",
         "intro": "救命啊，21世纪社畜竟然穿成了90年代的小片警，她完全不会啊，这怎么搞？等等，90年代？大学生？包分配！重点培养！！！老天奶还亲赐梦回案发现场的金手指，沈梦晴眼睛亮了亮，顿时觉得：嗳，可以了！水库抛尸案、少女失踪案……案案难破，案案破。搞男人有什么意思，当白月光的领导更有意思，来，喊一声领导。韩辰：不是说暗恋我吗？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc079b28c803cd200fef2fdc499279e2a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023454&x-signature=vFw69CUurq%2FyncRdbYezgKWJs6s%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc079b28c803cd200fef2fdc499279e2a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108952&x-signature=cwKRIB4Uy0%2BV2yP%2F4Im8gCS1EmU%3D",
         "url": "https://fanqienovel.com/page/7625503968617057304"
       },
       {
         "title": "穿成诡异贵族学院F5恶毒前女友",
         "author": "叶耶耶耶",
-        "reads": "2.5万",
+        "reads": "2.4万",
         "intro": "【bg+万人迷+女嬷+1vn雄竞修罗场+多男主+系统+弹幕+诡异灵异】 美而不自知娇软笨蛋狐狸美人x各类阴湿疯批变态男鬼 盈枝，刚化成人形的狐狸，绑定笨蛋美人系统。 却阴差阳错被拉去古早狗血贵族学院文中扮演恶毒女配。 只需要在F5之间暧昧流连，勾搭完这个勾搭那个，就可以美美等着时机退场。 可从有人坠楼摔死在盈枝面前时，一切都变了。 ……为什么会有鬼出现！ 盈枝：QAQ救救我 —— 盈枝发现了两个问题。 第一，她的系统失联了。 第二，她发现这个世界的女主消失了。 盈枝害怕被发现外来者身份，只能继续笨拙地走剧本，却没发现男主们看向她的目光愈发深沉。 恢复视力后，盈枝误入F5的休息室。 她惊恐地发现墙上贴满了自己的照片，随处可见自己丢失的生活物品。 以及—— F5们的真正面目。 咔哒一声，门锁落下。 黑影们贴了上来。 “宝宝，你发现了啊。”",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odd5ce5f0309e760b129c5e9b0b52c26a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023454&x-signature=tYbA8ruTCumOoNb87AbcA8PwDoM%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odd5ce5f0309e760b129c5e9b0b52c26a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108952&x-signature=6tOZF2HbLpopMB603Wzc6oPtWAU%3D",
         "url": "https://fanqienovel.com/page/7628665470404545598"
       },
       {
         "title": "合约夫人是刑侦顾问",
         "author": "悲伤虾条的快乐一天",
-        "reads": "2.3万",
+        "reads": "2.2万",
         "intro": "她是他见过最完美的妻子。 温柔、安静、听话。会在应酬回来时递上醒酒汤，会在家族聚会上得体微笑，从不过问他的行踪。 陆沉舟觉得自己这笔投资太值了——三百万一年，买来一个毫无存在感的“工具人老婆”，应付催婚，省心省力。 他甚至记不清她的脸。只知道她叫沈黎，每天在家种花、看书、等他回来。 直到那天，刑警找上门。 他的“花瓶妻子”正在阳台浇花。然后，她当着陆沉舟的面接过加密电话，声音骤然变了—— 冷静、锋利、不容置疑。 三分钟，她推翻了专案组七十二小时的研判。五分钟，她画出凶手的行为画像。十分钟，嫌疑人范围从三千人缩小到三人。 陆沉舟站在旁边，手里的咖啡凉了都没察觉。 后来他才知道—— 他引以为傲的商业谈判技巧，在她眼里全是“情绪破绽”。 他以为自己在“养”她，实际上整个市局都在排队叫她“沈顾问”。 而当年被她亲手送进监狱的连环杀人犯“雕刻师”，刚刚出狱。 那个疯子放话出来： “第一个，就杀她最爱的人。” 陆沉舟看着自己脖子上被悄悄贴上的定位器，陷入了沉思—— 所以……她到底爱不爱我？ 在线等，挺急的。 --- #先婚后爱 #双重身份 #马甲文 #刑侦甜",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1420222e047d5695dd14f55889f92f44~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023454&x-signature=MRmTwjOE%2BLsKs9iFYqcNCvrnIuc%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1420222e047d5695dd14f55889f92f44~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108952&x-signature=K9cEVgIKhDimQnUepoY%2BijlbKLs%3D",
         "url": "https://fanqienovel.com/page/7623734399850253337"
-      },
-      {
-        "title": "盗墓：开局百鬼夜行，无常勾魂",
-        "author": "杨戬的第三只眼",
-        "reads": "2.1万",
-        "intro": "【盗墓+阴差无常+爽文+轻松】 谢必安身患绝症，快死的时候被地府BOSS直聘了。 他喜提地府牛马身份，成为了阴差无常。 由于地府员工频繁跳槽，导致谢必安一个人要完成黑白无常两个人的工作量！ 谢必安：…… 他好像知道大家频繁跳槽的原因了。 他也想跳了。 好在阎罗王许诺他，只要他为地府打工两百年，就能得到一具健康身体。 谢必安一口答应，重拾信心。 可是，阎罗王也没有告诉他，这个世界的工作量这么大啊？ 长沙鬼车百鬼夜行？ 蛇母地宫千年厉鬼西王母？ 海底墓穴幽魂禁婆？ …… 这都是些什么魑魅魍魉啊！ 怎么一堆非人哉？ 谢必安一手勾魂锁，一手哭丧棒，一边缉拿亡魂厉鬼，一边赏罚生人善恶。 白天，他是长沙必安杠房的谢老板，提供丧葬一条龙服务。 夜晚，他是地府的阴差无常，维系天下太平。 【本故事纯属虚构】",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6296581fbe5541ac5cecfcd6477cc096~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023454&x-signature=CAl3RKGzck7RMC%2FFdOrVGFqEbGw%3D",
-        "url": "https://fanqienovel.com/page/7613237743967013912"
-      },
-      {
-        "title": "让让，挡我杀人了",
-        "author": "圆头圆脑圆肚皮的橘子",
-        "reads": "2万",
-        "intro": "【没有恐怖标签，因为我觉得写的不恐怖，但读者说吓人，让我预警下。】 【第一，女主绝对善良。第二，不要相信任何人的话。】 池金莲的房子里藏着娘的腐尸，雪地里倒着未婚夫的僵尸，山洞里埋藏着父亲的朽尸，那都是她一个人的秘密。 　　 　　她的世界就是个巨大的停尸场。 　　 　　她喜欢以火救火，以水救水。 　　 　　旁人指责她，说她这是益之而厉。 　　 　　她想了想，在火里面撒了毒药，在水里面放了屎。 　　 　　对于这个时代而言，她不亚于毁灭世界的毒瘤。 　　 　　但身处这个时代，即使无比错误，也无限正确。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa3d7e228d550438c5964e5bb5284dd1b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023457&x-signature=WzhI7tlJA3IkwEG%2BHfWEv6OFwDE%3D",
-        "url": "https://fanqienovel.com/page/7626141425612098622"
       },
       {
         "title": "穿成虞姬去盗墓",
         "author": "大张哥的小娇妻",
-        "reads": "2万",
+        "reads": "2.1万",
         "intro": "余姬穿越王者大陆变成了虞姬，通过努力刷怪、偷塔攒钱买了虞姬的三个皮肤“霸王别姬”、“云霓雀翎”、“神鉴启示录”，就不幸的又穿了，这次居然是盗墓笔记！！！",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2cb9ae21589ea286c3e4c5c450fc6fbd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023457&x-signature=2V4uCYGUl%2FXsEOti%2FZG94Tu%2F4ew%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2cb9ae21589ea286c3e4c5c450fc6fbd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108952&x-signature=cZ8j1lHq45Uj6clQB7eeLxi29bk%3D",
         "url": "https://fanqienovel.com/page/7625977726813342782"
+      },
+      {
+        "title": "让让，挡我杀人了",
+        "author": "圆头圆脑圆肚皮的橘子",
+        "reads": "1.9万",
+        "intro": "【没有恐怖标签，因为我觉得写的不恐怖，但读者说吓人，让我预警下。】 【第一，女主绝对善良。第二，不要相信任何人的话。】 池金莲的房子里藏着娘的腐尸，雪地里倒着未婚夫的僵尸，山洞里埋藏着父亲的朽尸，那都是她一个人的秘密。 　　 　　她的世界就是个巨大的停尸场。 　　 　　她喜欢以火救火，以水救水。 　　 　　旁人指责她，说她这是益之而厉。 　　 　　她想了想，在火里面撒了毒药，在水里面放了屎。 　　 　　对于这个时代而言，她不亚于毁灭世界的毒瘤。 　　 　　但身处这个时代，即使无比错误，也无限正确。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa3d7e228d550438c5964e5bb5284dd1b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108955&x-signature=yKEpLgjA6TORh9evqSrzQM6YgkM%3D",
+        "url": "https://fanqienovel.com/page/7626141425612098622"
       },
       {
         "title": "盗墓：我在盗笔杀穿主线",
         "author": "醉卧提笔",
         "reads": "1.8万",
         "intro": "【系统+万人迷all向+原著向改写剧情+救赎】 张意澜一直觉得自己是个绑定了人机系统的普通人，工作日上课学给猫狗噶蛋，周末马不停蹄帮人看死后埋哪，直到系统让她去寻找终极，不找她就得给自己挑块风水宝地。 张意澜：乏了……都沙了吧。 张家的圣婴、解家八岁的小当家、黑瞎子的眼睛、困住吴邪的沙漠……等到主线被张意澜一路火花带闪电地碾过去时，事情开始不对了。 张起灵：我……记得你。 解雨臣：不许再抛下我，不许再忘记我。 黑眼镜：我最后要回谁家不是很明显？还是说你打算不认帐了？ 吴邪：我不想放手，我不会放手。 意识到不对的张意澜：啊？我们的主线不是寻找世界的终极吗？",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of388519204d4870b5726406e42425c0d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023457&x-signature=KIF0md1Vo%2F57K5oi%2Ffa5gTMxYfI%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of388519204d4870b5726406e42425c0d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108955&x-signature=Sam0Ik%2BJ4tgwH2tZ36djR6ZAlJg%3D",
         "url": "https://fanqienovel.com/page/7618557965779340350"
-      },
-      {
-        "title": "成为张起灵小姨，我把所有人带跑",
-        "author": "安宁想暴富",
-        "reads": "1.7万",
-        "intro": "苏小小被个野鸡系统拐到修仙世界，逼迫她走剧情，给主角提供金钱法宝，还要献身做炉鼎，为他的龙傲天之路增砖加瓦，体重99斤反骨一百二十斤的苏小小，被狗系统折腾得死去活来都不干。 终于抓到机会跟狗系统同归于尽，系统被炸的粉身碎骨，还把她炸到了另外一个世界，被好心的姐姐捡回家。 从此她过上了有姐姐姐夫，还有个小外甥的好日子。 后来她发现他们一家都有点特殊，不仅长寿，还不会老。 她那个姐夫身后还有个大家族，那个家族姓张……",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/197c0d92e62ae2cbda13b5586fd03f90~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023457&x-signature=ib%2FQnsjR4x7OLEsORYbwQrJsbsY%3D",
-        "url": "https://fanqienovel.com/page/7611814051944860697"
       },
       {
         "title": "盗笔：巴掌狂魔在线打脸",
         "author": "落花卿依",
         "reads": "1.7万",
         "intro": "(严重OOC+OOC致歉+私设如山+无CP) 出了意外，身体丢了 甄清：什么!你让我用魂体帮他们，你咋不上天呢？ 天道：我就是天 甄清：答应我条件我就帮 天道(没问清楚版)：同意 看到甄清操作后的天道发出了尖锐的暴鸣 甄清(理直气壮版)：你同意的 其他人：你不要过来啊 后来道上出了一道奇观：有一群人的脸上时常带着巴掌印 我叫甄清，真真假假，清清白白",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0301f1de123961b93571c72f581347ee~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023457&x-signature=WpSEIMu2PnyAoFuQ9yyHmAQfpsc%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0301f1de123961b93571c72f581347ee~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108955&x-signature=YpvV6jsbmNbtV47aB7Hj8K4%2FH%2BE%3D",
         "url": "https://fanqienovel.com/page/7626165799908019262"
+      },
+      {
+        "title": "她闻得出来",
+        "author": "真相请说话",
+        "reads": "1.7万",
+        "intro": "我是林砚，一名法医，懂中医，会辨毒。 见过最温柔的妻子，被枕边人藏进地下室。 见过最善良的老人，被护工悄悄换掉汤药。 见过最无辜的女孩，被霸凌逼到绝路。 每一具尸体，都藏着没说出口的真相。 每一个案件，都是撕开人性的一刀。 我的手记里，没有华丽辞藻， 只有最真实的罪恶，和最晚到来的正义。",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/360424f2fe7461e05c1af4d7e8111f21~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108955&x-signature=PR%2FTRb4dLLUNF6hDKbn80jjfges%3D",
+        "url": "https://fanqienovel.com/page/7614862971293928473"
       },
       {
         "title": "宋队！你老婆又碰上命案了",
         "author": "嘉卿卿卿卿",
         "reads": "1.7万",
         "intro": "社恐女法医vs搞怪刑警队长 【悬疑+纯爱+破案+推理+剧情反转】 我们眼中的安全只是有人在替我们负重前行，而别人赋予的阳光下究竟是什么阴影？ 接连数人离奇失踪，是意外还是报应？河边突然出现年轻女子的尸体，是意外还是谋杀？ 法医是死亡的最后一道防线，只有他们才能替死者说出最后想说的话，证明他们的清白，各种离奇案件，桩桩件件未解之谜，他们能顺利解决吗？ 每晚九点欢迎收看 宋璟麒：你运气不太好，第一次就碰上这种案子 月见：难道你不参与这个案子吗 宋璟麒：糟糕，大意了 欢迎收看天才社恐女法医和搞怪嘴毒刑警队长的破案日常",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5c9ca75b3f4d7d66a73c1b2f53de9a8a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023457&x-signature=WAi%2BBECc%2BXZbX6jg8KSqKaeK2jo%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5c9ca75b3f4d7d66a73c1b2f53de9a8a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108955&x-signature=93qCF1davPdhe2IvStHMLNRWZac%3D",
         "url": "https://fanqienovel.com/page/7603723684083158041"
       },
       {
         "title": "万人迷警司不为人知的往事",
         "author": "狡猾的草履虫",
-        "reads": "1.6万",
+        "reads": "1.7万",
         "intro": "【悬疑破案+主角万人迷+美强惨+多单箭头，作品标签有误】 多年以后，面对陵园里那一座座无名英雄的墓碑，沈治遇将会回想起周秦带他去宿舍楼的那个遥远的上午。那时宿舍外墙的爬山虎还没落尽，阳光新鲜得像刚从水里捞出来，操场上几个年轻人正没心没肺地跑圈。他以为那只是一个普通得不能再普通的报到日，他的一生，就是从一片黑暗走进另一片黑暗；而那座爬满爬山虎的老楼，是他唯一明亮过的入口。 【排雷】 1 主角人设美强惨，作者阴间嬷xp，为人物形象跟塑造服务，背负沉重过往，会有虐心情节。 2 主角万人迷属性，身上插满单箭头，正派角色反派角色都有。不会让主角回任何反派角色的箭头。主角心理创伤严重，情感缺陷，可能不会回任何人的箭头，也可能回的很慢，看剧情发展走向。 3 根据人物设定来看，正文结局可能更偏向开放式，不保证传统he，主角的创伤可能不会随着罪恶终结而消失，但作者会尽力给出他一个好结局，正文不行就番外。 4 刑侦风格，作者第一次尝试，偏现实黑暗向，有关金三角相关犯罪与缉毒，整体不是轻松探案风格，可能会写的很不成熟，算是尝试。 5 作者自割腿肉，如有雷点或不合胃口情节请自行避雷。 6 作者文风比较慢节奏",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2938de8e9d560a4d17c9c79581d2d907~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023457&x-signature=aiXd%2FlQnSG8jl3QDFJy5f5hCmPE%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2938de8e9d560a4d17c9c79581d2d907~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108955&x-signature=Fr00cU6tuasrP%2Bwi0%2BEKMdMllOs%3D",
         "url": "https://fanqienovel.com/page/7626108850990500888"
+      },
+      {
+        "title": "成为张起灵小姨，我把所有人带跑",
+        "author": "安宁想暴富",
+        "reads": "1.6万",
+        "intro": "苏小小被个野鸡系统拐到修仙世界，逼迫她走剧情，给主角提供金钱法宝，还要献身做炉鼎，为他的龙傲天之路增砖加瓦，体重99斤反骨一百二十斤的苏小小，被狗系统折腾得死去活来都不干。 终于抓到机会跟狗系统同归于尽，系统被炸的粉身碎骨，还把她炸到了另外一个世界，被好心的姐姐捡回家。 从此她过上了有姐姐姐夫，还有个小外甥的好日子。 后来她发现他们一家都有点特殊，不仅长寿，还不会老。 她那个姐夫身后还有个大家族，那个家族姓张……",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/197c0d92e62ae2cbda13b5586fd03f90~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108955&x-signature=xUyLMIq%2FqiNIpAyGI2t4WWdJMtE%3D",
+        "url": "https://fanqienovel.com/page/7611814051944860697"
       },
       {
         "title": "盗墓：从宝可梦世界走到盗笔世界",
         "author": "木尧泗",
         "reads": "1.6万",
         "intro": "一个从现代穿越到宝可梦世界又突然到盗墓笔记世界，她想起来了自己丢失的记忆，知道了自己为什么一次又一次穿梭世界。 无CP，女主情绪不稳定，有时善良有时恶，有时候对他们好，有时候不好，有时候会跟着一起下墓，中间有把宝可梦送出去的桥段，介意者慎入",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o38ecf04eada87114ecbdfab5110bf88e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023457&x-signature=BKpo9KKKHs0JvFGhhovXPsckV7o%3D",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o38ecf04eada87114ecbdfab5110bf88e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108955&x-signature=UAa3XUzjSS5u8hBBNX1Uy4s7HWA%3D",
         "url": "https://fanqienovel.com/page/7583698574571998232"
       },
       {
-        "title": "续写第十二年",
-        "author": "CC梦回",
-        "reads": "1.6万",
-        "intro": "十二年前，温以宁被分手时，只问了沈渡一句话：“你想好了？” 沈渡说：“想好了。” 温以宁转身离开京城，没掉一滴泪。 十二年后，边境犯罪集团“沉渊”覆灭，核心人物“刽子手”在逃。唯一的卧底代号“哑巴”，被上级以保护性调令塞进了京城刑警队。 报到那天，温以宁站在刑警队门口，看见沈渡从里面走出来。 他穿着警服，肩上是队长的警衔。 四目相对。 沈渡手里的文件夹掉在地上。 温以宁只扫了他一眼，擦肩而过。 身后有人喊：“老沈，你认识新来的温队？” 沈渡喉结滚动，半天才说：“……认识。” 他曾为她收过尸。 在每一个噩梦里。 而现在她活着回来了——眼神像淬过毒的刀，看他的时候，没有恨，只有冷。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8ff270b5a1c3156105d989ad2f6c66a5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023457&x-signature=ie3w22sYwmSWJMoE%2BISJ1trGyDQ%3D",
-        "url": "https://fanqienovel.com/page/7627674049560185881"
+        "title": "听懂兽语破案，天天误入高危现场",
+        "author": "花晚凝",
+        "reads": "1.5万",
+        "intro": "随越被渣男骗财还背上还不完的贷款 是孤儿的她万念俱灰打算跳河自杀，结果阴差阳错被人推下河，在河里不仅听到两条蛇对话还发现了一具男尸 她靠着小动物们的信息帮忙找到凶手，被刑侦大队队长秦寂聘请为顾问 少女拐卖，新型毒品，艺人跳楼，各种案件齐发 随越还创建了一只动物小分队，刑侦大队的破案率成了百分百 随越成了警局福星，到处有人想挖角 秦寂:问过我的意见了吗？ 不过他也发现了，他们的福星虽然破案率高，但有点喜欢作死啊？ 每次都能精准跑到危险中心去，这日子，真刺激",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa78266a090b0b010284a9a46823b75a3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108955&x-signature=hgGa11uSoyBHWQ%2FqQGPdeAC4AkY%3D",
+        "url": "https://fanqienovel.com/page/7625950132751567934"
       },
       {
-        "title": "她闻得出来",
-        "author": "真相请说话",
-        "reads": "1.6万",
-        "intro": "我是林砚，一名法医，懂中医，会辨毒。 见过最温柔的妻子，被枕边人藏进地下室。 见过最善良的老人，被护工悄悄换掉汤药。 见过最无辜的女孩，被霸凌逼到绝路。 每一具尸体，都藏着没说出口的真相。 每一个案件，都是撕开人性的一刀。 我的手记里，没有华丽辞藻， 只有最真实的罪恶，和最晚到来的正义。",
-        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/360424f2fe7461e05c1af4d7e8111f21~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023457&x-signature=hUwf5LXQufBIBtpd3DJwwqTYPgs%3D",
-        "url": "https://fanqienovel.com/page/7614862971293928473"
+        "title": "穿越八零，我能闻到凶手的味道",
+        "author": "兔子很爱吃包子",
+        "reads": "1.5万",
+        "intro": "东城公安局来了个末世穿越而来的女公安。 　　据说她的工作是从小叔那一哭二闹三上吊抢来的。 　　据说上班第一天就遇到了杀人案。 　　所有人都在等着她被吓破胆，乖乖把工作还回去时，她案子破了一个又一个，成为赫赫有名的女刑侦。 　　也揭开了她父亲被杀的真相... 　　重男轻女的爷奶居然是假的，他们要的就是她父亲一辈子烂在泥潭。 　　母亲改嫁早死，也是别人的阴谋... 　　吴忧冷笑一声，全部打出门，人性的贪婪她在末世早就见识过，绝对不会被糖衣炮弹给腐蚀 　　从前的我，你敲骨吸髓，现在的我，你高攀不起！",
+        "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o90ef473b0f3033cf3a3076ba0f5b0b4b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108955&x-signature=XbVc3Nm94uc99%2BbWXblTXA52uXQ%3D",
+        "url": "https://fanqienovel.com/page/7621795736891444286"
       }
     ]
   },
@@ -227,94 +235,102 @@
         "new_count": 2,
         "dropped_count": 2,
         "new_books": [
-          "宋队！你老婆又碰上命案了",
-          "万人迷警司不为人知的往事"
+          "听懂兽语破案，天天误入高危现场",
+          "穿越八零，我能闻到凶手的味道"
         ],
         "dropped_books": [
           {
-            "title": "凶案现场，我这个美少女能看见鬼",
-            "intro": "沈窈窈是个社恐大学生，却阴差阳错进了全城最神秘的“特调局”。 局里全是各界顶级大佬：冷面杀神队长、黑客界顶流、人形测谎仪法医。 没人看好这个软糯糯的沈窈窈，直到…… 碎尸案死者：警官，凶手是我前男友，"
+            "title": "盗墓：开局百鬼夜行，无常勾魂",
+            "intro": "【盗墓+阴差无常+爽文+轻松】 谢必安身患绝症，快死的时候被地府BOSS直聘了。 他喜提地府牛马身份，成为了阴差无常。 由于地府员工频繁跳槽，导致谢必安一个人要完成黑白无常两个人的工作量！ 谢必安：…"
           },
           {
-            "title": "穿越八零，我能闻到凶手的味道",
-            "intro": "东城公安局来了个末世穿越而来的女公安。 　　据说她的工作是从小叔那一哭二闹三上吊抢来的。 　　据说上班第一天就遇到了杀人案。 　　所有人都在等着她被吓破胆，乖乖把工作还回去时，她案子破了一个又一个，成"
+            "title": "续写第十二年",
+            "intro": "十二年前，温以宁被分手时，只问了沈渡一句话：“你想好了？” 沈渡说：“想好了。” 温以宁转身离开京城，没掉一滴泪。 十二年后，边境犯罪集团“沉渊”覆灭，核心人物“刽子手”在逃。唯一的卧底代号“哑巴”，"
           }
         ],
         "top_risers": [
           {
-            "title": "穿成虞姬去盗墓",
-            "change": "+7"
+            "title": "她闻得出来",
+            "change": "+6"
           },
           {
             "title": "盗墓：潘家园有个沈老板",
             "change": "+2"
           },
           {
-            "title": "盗墓：开局百鬼夜行，无常勾魂",
+            "title": "穿成虞姬去盗墓",
             "change": "+2"
           }
         ],
         "top_fallers": [
           {
-            "title": "续写第十二年",
-            "change": "-5"
+            "title": "成为张起灵小姨，我把所有人带跑",
+            "change": "-3"
+          },
+          {
+            "title": "被阴湿杀人魔盯上后【贵族学院】",
+            "change": "-2"
+          },
+          {
+            "title": "盗墓：老登，我回来了",
+            "change": "-1"
           }
         ],
         "reads_growth": [
           {
             "title": "盗墓：潘家园有个沈老板",
-            "growth": "+5000"
-          },
-          {
-            "title": "穿成虞姬去盗墓",
-            "growth": "+2000"
+            "growth": "+6000"
           },
           {
             "title": "和张起灵分手后，他要炸了青铜门",
             "growth": "+1000"
+          },
+          {
+            "title": "穿成虞姬去盗墓",
+            "growth": "+1000"
           }
         ],
-        "summary": "**🔥 题材趋势**  \n当前榜单“盗墓笔记”衍生同人占据半壁江山（8本），融合穿书、系统、阴差等设定；同时“贵族学院+灵异悬疑”的阴湿疯批风刮得正猛，多元素叠加形成扎堆效应。\n\n**📖 读者偏好**  \n读者偏爱强金手指女主（美强惨、逻辑天才、阴差无常）搭配雄竞修罗场或纯爱CP，爽感与微恐交织，暗黑猎奇但要求双洁与善良底色。\n\n**🆕 新上榜作品**  \n《宋队！你老婆又碰上命案了》以社恐女法医×搞怪刑警队长组合切入纯爱悬疑；《万人迷警司不为人知的往事》主打美强惨警司+多单箭头，标签虽误植但悬疑破案明确。\n\n**📉 掉出榜单**  \n《凶案现场，我这个美少女能看见鬼》（灵异+社恐）与《穿越八零，我能闻到凶手的味道》（年代+重生）或因同质化严重、开篇节奏较慢被快速更替的读者淘汰。\n\n**💡 值得关注**  \n《她闻得出来》以法医手记形式展开案件，写实冷峻风格在浪漫悬疑中差异化明显；《让让，挡我杀人了》以极致暗黑人设与诡异文学感突破常规，受众忠诚度高。"
+        "summary": "**🔥 题材趋势**  \n当前榜单由“盗墓笔记同人”与“法医刑侦”两大题材主导，前者扎堆出现（Top20中占7本），后者则与“穿越”“系统”等元素结合紧密。悬疑+灵异/微恐的复合"
       },
       "books": [
         {
-          "title": "被阴湿杀人魔盯上后【贵族学院】",
-          "author": "乐淅",
-          "reads": "5.6万",
-          "intro": "群狼环伺vs美而不自知万人迷｜各种阴湿疯子变态扯头花、微灵异、真杀人魔、男洁 变异版文案: 赵吟自觉是个平平无奇的特招生，日常是兼职上学回家三点一线，偶尔需要应付富二代男友身边那群傲慢毒舌又奇怪的朋友。 直到德尚贵族学院频频死人。 警官将她带到审讯室，似笑非笑问:“赵同学知不知道这三位被扒皮砍头的死者都在偷偷暗恋你？” 文案二: 赵吟和宋舰谈恋爱时，他身边朋友都说:“一个寡淡普通的女人，空有皮囊，根本配不上你。” “她太穷了，不仅在餐馆洗碗，还兼职跑腿，使唤她只用一点廉价的报酬，和使唤一条狗有什么区别呢？” “阿舰，你最好和她分手。” 宋舰那时爱她，疯起来连命都可以不要，只不过后来在国外飙车出了意外，失去记忆，唯独忘掉赵吟。 他带着新女友回国当晚，赵吟家那扇灰扑陈旧的掉漆大门迎来了好几波“客人”。 “吟吟，你应该看看我的。” “阿舰不懂珍惜，只有我才是真心爱你。” “你根本不知道，我多嫉妒，配不上你的，明明是他。” 排雷:是万人迷，不是万男迷，会有变态女配出没",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/4fda1a29ef5f12224d05fb8ad99ed6d6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023454&x-signature=%2BNJjH0iVP7CkLv4b1N9Z0p8bLgM%3D",
-          "url": "https://fanqienovel.com/page/7561845467420560409"
-        },
-        {
           "title": "和张起灵分手后，他要炸了青铜门",
           "author": "火淼未济",
-          "reads": "5.9万",
+          "reads": "6万",
           "intro": "【CP张起灵+原创女主＋剧情流+微恐】 社畜项卿被前男友冷暴力了…… 网上说，三天不联系就默认是分手。 项卿想了前男友的一百种死法，给他的失联找合理借口。 一场绑架，她被扔进天坑，踩着虫潮，躲着巨蛇，身后还追着一群想要她命的疯子——然后她见到了失踪几个月的前夫哥。 前夫哥：我失忆了…… 项卿：这个老套的借口我只在二十年前台偶剧里听过。 而后，被卷入一场场阴谋之中，项卿逐渐发现，自己这个常常望天发呆的前夫哥，竟然是道上人人畏惧的不可说。 然而所有人眼中的神，又双叒叕失忆了…… 张起灵举牌：找婆娘。 …… 一句话：蛊仙传人，打不死的小强·女主×我的记忆没有你，但我的身体还记得你·张起灵 失忆后又爱上了。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0ea29b7efb3dd63e94d412d3ced5916b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023454&x-signature=bsye19acRh3y0hsxbIT4MskQKCo%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0ea29b7efb3dd63e94d412d3ced5916b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108952&x-signature=UA%2BZuXB2IlpuCAHXVqzNB5dQ4Ig%3D",
           "url": "https://fanqienovel.com/page/7550401537575488537"
+        },
+        {
+          "title": "盗墓：潘家园有个沈老板",
+          "author": "千丝卷",
+          "reads": "6.2万",
+          "intro": "应该是无cp或者小哥和瞎子其中一个，或者两个都要！ 沈清和胡八一、王凯旋、雪莉杨一起解除了扎格拉玛族的千年诅咒 她以为一切都结束了，直到踏上那个祭台，再醒来时，她到了一个陌生的世界 她以为只是换个地方重新开始。直到一个叫王胖子的男人推门进来，拿出一只汉代的玉蝉。直到大年三十的出租车上，一个戴墨镜的司机递给她一个橘子。她发现，她的血脉在这个世界苏醒的，远不止长生",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0283d66ff3a9e4e0c9624d3fefdc5e5a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108952&x-signature=U%2FZz3pF%2BbYdbBtOJ8i5VVejiBDk%3D",
+          "url": "https://fanqienovel.com/page/7634116238657997886"
+        },
+        {
+          "title": "被阴湿杀人魔盯上后【贵族学院】",
+          "author": "乐淅",
+          "reads": "5.2万",
+          "intro": "群狼环伺vs美而不自知万人迷｜各种阴湿疯子变态扯头花、微灵异、真杀人魔、男洁 变异版文案: 赵吟自觉是个平平无奇的特招生，日常是兼职上学回家三点一线，偶尔需要应付富二代男友身边那群傲慢毒舌又奇怪的朋友。 直到德尚贵族学院频频死人。 警官将她带到审讯室，似笑非笑问:“赵同学知不知道这三位被扒皮砍头的死者都在偷偷暗恋你？” 文案二: 赵吟和宋舰谈恋爱时，他身边朋友都说:“一个寡淡普通的女人，空有皮囊，根本配不上你。” “她太穷了，不仅在餐馆洗碗，还兼职跑腿，使唤她只用一点廉价的报酬，和使唤一条狗有什么区别呢？” “阿舰，你最好和她分手。” 宋舰那时爱她，疯起来连命都可以不要，只不过后来在国外飙车出了意外，失去记忆，唯独忘掉赵吟。 他带着新女友回国当晚，赵吟家那扇灰扑陈旧的掉漆大门迎来了好几波“客人”。 “吟吟，你应该看看我的。” “阿舰不懂珍惜，只有我才是真心爱你。” “你根本不知道，我多嫉妒，配不上你的，明明是他。” 排雷:是万人迷，不是万男迷，会有变态女配出没",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/4fda1a29ef5f12224d05fb8ad99ed6d6~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108952&x-signature=oqqid97cWz1dnu5xPxaSo3Mx7SM%3D",
+          "url": "https://fanqienovel.com/page/7561845467420560409"
         },
         {
           "title": "盗墓：老登，我回来了",
           "author": "牧星宇",
           "reads": "5.6万",
           "intro": "【严重ooc+CP黑爷+人鬼情未了+背后灵前女友+黑爷眼前一黑+老登我回来了+后期变回人】 花若木死了，死在了1934年。 * 被一个阵法镇压在井底的花若木：姐妹你干嘛！你咋还跟我抢人呢？这男人是我的，他爷爷我六十多年前就预定了！ * 黑瞎子回到房间，掏出青铜镜，看清背后的女鬼长相那一瞬间，只觉得眼前一黑。 这个女鬼怎么这么眼熟？这不是我六十多年前嘎了的那个前女友吗？ 木：大孙子，你好啊，我是你爷爷的短命前女友~快叫奶奶。 瞎：你说过，一个合格的前任应该像死了一样，不要随便诈尸！ 木：老登，六十多年不见，想我了吗？ 瞎：如果我有罪，请让法律来惩罚我，而不是让我再见到我忽然诈尸的死鬼女朋友！ 木：老登~摸摸，呲溜~ 瞎：花若木！你能不能看看场合！我在干活！回去再摸不行吗！ 木：嘻嘻，老登，来玩啊~ 黑瞎子嘴里跟花若木吵吵闹闹，实际上想尽办法找所谓的养魂的东西。 直到花若木的灵魂，变得殷实，直到魂体殷实后，黑瞎子将主意打到了张家复制体上。 瞎：哑巴，看在兄弟这么多年的照顾上，复制体怎么制作的？ 灵：... * 瞎：花若木，来，咱俩算算账吧。 木：哇哦~救济粮终于下来了吗？ 瞎：等等，你别激动... 木：新身体，张家出品，抗造，来啊~",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc129959580fb160c51af2b60e992c4cb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023454&x-signature=I%2B%2BNMgyUBKG1f1M2QEokNlW7dIk%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc129959580fb160c51af2b60e992c4cb~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108952&x-signature=AwS6c74i88zuAkXQ%2FdVMAJ3sz%2B4%3D",
           "url": "https://fanqienovel.com/page/7622625345841138713"
-        },
-        {
-          "title": "盗墓：潘家园有个沈老板",
-          "author": "千丝卷",
-          "reads": "5.6万",
-          "intro": "应该是无cp或者小哥和瞎子其中一个，或者两个都要！ 沈清和胡八一、王凯旋、雪莉杨一起解除了扎格拉玛族的千年诅咒 她以为一切都结束了，直到踏上那个祭台，再醒来时，她到了一个陌生的世界 她以为只是换个地方重新开始。直到一个叫王胖子的男人推门进来，拿出一只汉代的玉蝉。直到大年三十的出租车上，一个戴墨镜的司机递给她一个橘子。她发现，她的血脉在这个世界苏醒的，远不止长生",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0283d66ff3a9e4e0c9624d3fefdc5e5a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023454&x-signature=JoAWh9NtQ2H3F%2BlwrIFEj%2BqkIqs%3D",
-          "url": "https://fanqienovel.com/page/7634116238657997886"
         },
         {
           "title": "盗墓：把我睡了的债主又活了",
           "author": "执笔浅书一梦",
-          "reads": "3.5万",
+          "reads": "2.9万",
           "intro": "正经书名：盗墓之戒瘾 【cp黑+ooc预警+一米五五超萌比格+暴躁小猫，随时亮爪+霸王龙的脾气+超记仇+双诈死+女强】 （看文别较真，衍生需谨慎，单机写作） （始终坚持言情文里绝不加耽原则。） 不喜勿入感谢支持。 风殷黎认为，寿命不一的人不适合长久的待在一起，否则以后如何解释她不老的容颜和依旧年轻的身体。所以，她给自己来了个无药可治大礼包。只要她诈死，就可以合理地离开，虽然这死男人居然在听到她重症卧床后就跑路了，死渣男！谁知，不多久，对方也传出死讯，死在某个墓里头了？ 风殷黎想，果然渣男短命！ 但是，这男人给她下蛊了？为什么从此她跟误食了断情丹似的再也对任何男人提不起兴趣？ 八十年后。 靠北！这男人没死啊！正好！她不用等到地府再跟他收账了！ 黑瞎子用了十年的时间，告诉自己，她已经离开这个世界了。这是他的选择，不体面的离开，就算留下，他们之间也只会走向陌路，他戒掉了她的瘾。 但，戒瘾之后重新染上，便是天雷勾地火，愈发严重了。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/3e52bf3308cb6bb27676e70cdfa09376~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023454&x-signature=663ynjJiZnwnN5fZpfxulGbcNdE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/3e52bf3308cb6bb27676e70cdfa09376~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108952&x-signature=sCxhImFq3588qFVvS9aS4qvmyZI%3D",
           "url": "https://fanqienovel.com/page/7603059247789640728"
         },
         {
@@ -322,7 +338,7 @@
           "author": "一斤小胖墩",
           "reads": "3.1万",
           "intro": "刚开分，后面会涨！请放心食用 逻辑天才实习生×高冷禁欲护短刑警队长1v1，双洁双强，架空，含私设。 姜绵只是下楼拿个雷霆外卖，就撞上小区垃圾桶发现人民碎片。 她挤进人群吃瓜，下一秒直接被目击证人指认成凶手。 姜绵：满脸???，别这么离谱行不？她只是吃个瓜！怎么成凶手了？ 刑警队队长宋延，高冷禁欲，不近人情，一开口就把她按在嫌疑人位置上磋磨。 “说一下作案过程。” 语气恶劣，还把她当小猫似的逗了一通。姜绵气炸，幸好天降神探系统，当场洗清嫌疑。 但她万万没料到自己倒霉到竟被学校分配到临江市刑警支队实习。 上司，还是宋延!! 直到某天，姜绵发现，这位高冷禁欲的队长，一跟她对视就耳尖发红。 她笑眯眯凑近：“宋队，你中暑了?” 宋延绷着脸：“没有。” 姜绵挑眉：“那就是……对我心动了。” 再后来她更惊了。 这人在床上既不高冷，也不禁欲。 分明是个装正经的大涩迷！！！ 清水河里，钓友钓起一具高度腐败…… 空置出租屋，夜半墙缝渗出暗红水渍。 诡异村庄，看似村风纯朴，实则暗藏恐怖陋习。 腐生菌丛、假面新郎、骨影灯笼…… 一桩桩离奇凶案，撕开人性最黑暗的褶皱。 而她和他，在刀尖上追凶，也在心动里沦陷。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7f2c35bfb853c07af5a76c44da068902~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023454&x-signature=%2Bs5JVUVEMmV%2Fv0Qg9cQ%2Fek1I44I%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o7f2c35bfb853c07af5a76c44da068902~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108952&x-signature=q06dy9Y2KU5Kj%2Bg37sQGTkJYBg8%3D",
           "url": "https://fanqienovel.com/page/7620318256322071576"
         },
         {
@@ -330,112 +346,112 @@
           "author": "柿你吗",
           "reads": "2.7万",
           "intro": "救命啊，21世纪社畜竟然穿成了90年代的小片警，她完全不会啊，这怎么搞？等等，90年代？大学生？包分配！重点培养！！！老天奶还亲赐梦回案发现场的金手指，沈梦晴眼睛亮了亮，顿时觉得：嗳，可以了！水库抛尸案、少女失踪案……案案难破，案案破。搞男人有什么意思，当白月光的领导更有意思，来，喊一声领导。韩辰：不是说暗恋我吗？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc079b28c803cd200fef2fdc499279e2a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023454&x-signature=vFw69CUurq%2FyncRdbYezgKWJs6s%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oc079b28c803cd200fef2fdc499279e2a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108952&x-signature=cwKRIB4Uy0%2BV2yP%2F4Im8gCS1EmU%3D",
           "url": "https://fanqienovel.com/page/7625503968617057304"
         },
         {
           "title": "穿成诡异贵族学院F5恶毒前女友",
           "author": "叶耶耶耶",
-          "reads": "2.5万",
+          "reads": "2.4万",
           "intro": "【bg+万人迷+女嬷+1vn雄竞修罗场+多男主+系统+弹幕+诡异灵异】 美而不自知娇软笨蛋狐狸美人x各类阴湿疯批变态男鬼 盈枝，刚化成人形的狐狸，绑定笨蛋美人系统。 却阴差阳错被拉去古早狗血贵族学院文中扮演恶毒女配。 只需要在F5之间暧昧流连，勾搭完这个勾搭那个，就可以美美等着时机退场。 可从有人坠楼摔死在盈枝面前时，一切都变了。 ……为什么会有鬼出现！ 盈枝：QAQ救救我 —— 盈枝发现了两个问题。 第一，她的系统失联了。 第二，她发现这个世界的女主消失了。 盈枝害怕被发现外来者身份，只能继续笨拙地走剧本，却没发现男主们看向她的目光愈发深沉。 恢复视力后，盈枝误入F5的休息室。 她惊恐地发现墙上贴满了自己的照片，随处可见自己丢失的生活物品。 以及—— F5们的真正面目。 咔哒一声，门锁落下。 黑影们贴了上来。 “宝宝，你发现了啊。”",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odd5ce5f0309e760b129c5e9b0b52c26a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023454&x-signature=tYbA8ruTCumOoNb87AbcA8PwDoM%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2odd5ce5f0309e760b129c5e9b0b52c26a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108952&x-signature=6tOZF2HbLpopMB603Wzc6oPtWAU%3D",
           "url": "https://fanqienovel.com/page/7628665470404545598"
         },
         {
           "title": "合约夫人是刑侦顾问",
           "author": "悲伤虾条的快乐一天",
-          "reads": "2.3万",
+          "reads": "2.2万",
           "intro": "她是他见过最完美的妻子。 温柔、安静、听话。会在应酬回来时递上醒酒汤，会在家族聚会上得体微笑，从不过问他的行踪。 陆沉舟觉得自己这笔投资太值了——三百万一年，买来一个毫无存在感的“工具人老婆”，应付催婚，省心省力。 他甚至记不清她的脸。只知道她叫沈黎，每天在家种花、看书、等他回来。 直到那天，刑警找上门。 他的“花瓶妻子”正在阳台浇花。然后，她当着陆沉舟的面接过加密电话，声音骤然变了—— 冷静、锋利、不容置疑。 三分钟，她推翻了专案组七十二小时的研判。五分钟，她画出凶手的行为画像。十分钟，嫌疑人范围从三千人缩小到三人。 陆沉舟站在旁边，手里的咖啡凉了都没察觉。 后来他才知道—— 他引以为傲的商业谈判技巧，在她眼里全是“情绪破绽”。 他以为自己在“养”她，实际上整个市局都在排队叫她“沈顾问”。 而当年被她亲手送进监狱的连环杀人犯“雕刻师”，刚刚出狱。 那个疯子放话出来： “第一个，就杀她最爱的人。” 陆沉舟看着自己脖子上被悄悄贴上的定位器，陷入了沉思—— 所以……她到底爱不爱我？ 在线等，挺急的。 --- #先婚后爱 #双重身份 #马甲文 #刑侦甜",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1420222e047d5695dd14f55889f92f44~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023454&x-signature=MRmTwjOE%2BLsKs9iFYqcNCvrnIuc%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o1420222e047d5695dd14f55889f92f44~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108952&x-signature=K9cEVgIKhDimQnUepoY%2BijlbKLs%3D",
           "url": "https://fanqienovel.com/page/7623734399850253337"
-        },
-        {
-          "title": "盗墓：开局百鬼夜行，无常勾魂",
-          "author": "杨戬的第三只眼",
-          "reads": "2.1万",
-          "intro": "【盗墓+阴差无常+爽文+轻松】 谢必安身患绝症，快死的时候被地府BOSS直聘了。 他喜提地府牛马身份，成为了阴差无常。 由于地府员工频繁跳槽，导致谢必安一个人要完成黑白无常两个人的工作量！ 谢必安：…… 他好像知道大家频繁跳槽的原因了。 他也想跳了。 好在阎罗王许诺他，只要他为地府打工两百年，就能得到一具健康身体。 谢必安一口答应，重拾信心。 可是，阎罗王也没有告诉他，这个世界的工作量这么大啊？ 长沙鬼车百鬼夜行？ 蛇母地宫千年厉鬼西王母？ 海底墓穴幽魂禁婆？ …… 这都是些什么魑魅魍魉啊！ 怎么一堆非人哉？ 谢必安一手勾魂锁，一手哭丧棒，一边缉拿亡魂厉鬼，一边赏罚生人善恶。 白天，他是长沙必安杠房的谢老板，提供丧葬一条龙服务。 夜晚，他是地府的阴差无常，维系天下太平。 【本故事纯属虚构】",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o6296581fbe5541ac5cecfcd6477cc096~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023454&x-signature=CAl3RKGzck7RMC%2FFdOrVGFqEbGw%3D",
-          "url": "https://fanqienovel.com/page/7613237743967013912"
-        },
-        {
-          "title": "让让，挡我杀人了",
-          "author": "圆头圆脑圆肚皮的橘子",
-          "reads": "2万",
-          "intro": "【没有恐怖标签，因为我觉得写的不恐怖，但读者说吓人，让我预警下。】 【第一，女主绝对善良。第二，不要相信任何人的话。】 池金莲的房子里藏着娘的腐尸，雪地里倒着未婚夫的僵尸，山洞里埋藏着父亲的朽尸，那都是她一个人的秘密。 　　 　　她的世界就是个巨大的停尸场。 　　 　　她喜欢以火救火，以水救水。 　　 　　旁人指责她，说她这是益之而厉。 　　 　　她想了想，在火里面撒了毒药，在水里面放了屎。 　　 　　对于这个时代而言，她不亚于毁灭世界的毒瘤。 　　 　　但身处这个时代，即使无比错误，也无限正确。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa3d7e228d550438c5964e5bb5284dd1b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023457&x-signature=WzhI7tlJA3IkwEG%2BHfWEv6OFwDE%3D",
-          "url": "https://fanqienovel.com/page/7626141425612098622"
         },
         {
           "title": "穿成虞姬去盗墓",
           "author": "大张哥的小娇妻",
-          "reads": "2万",
+          "reads": "2.1万",
           "intro": "余姬穿越王者大陆变成了虞姬，通过努力刷怪、偷塔攒钱买了虞姬的三个皮肤“霸王别姬”、“云霓雀翎”、“神鉴启示录”，就不幸的又穿了，这次居然是盗墓笔记！！！",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2cb9ae21589ea286c3e4c5c450fc6fbd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023457&x-signature=2V4uCYGUl%2FXsEOti%2FZG94Tu%2F4ew%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2cb9ae21589ea286c3e4c5c450fc6fbd~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108952&x-signature=cZ8j1lHq45Uj6clQB7eeLxi29bk%3D",
           "url": "https://fanqienovel.com/page/7625977726813342782"
+        },
+        {
+          "title": "让让，挡我杀人了",
+          "author": "圆头圆脑圆肚皮的橘子",
+          "reads": "1.9万",
+          "intro": "【没有恐怖标签，因为我觉得写的不恐怖，但读者说吓人，让我预警下。】 【第一，女主绝对善良。第二，不要相信任何人的话。】 池金莲的房子里藏着娘的腐尸，雪地里倒着未婚夫的僵尸，山洞里埋藏着父亲的朽尸，那都是她一个人的秘密。 　　 　　她的世界就是个巨大的停尸场。 　　 　　她喜欢以火救火，以水救水。 　　 　　旁人指责她，说她这是益之而厉。 　　 　　她想了想，在火里面撒了毒药，在水里面放了屎。 　　 　　对于这个时代而言，她不亚于毁灭世界的毒瘤。 　　 　　但身处这个时代，即使无比错误，也无限正确。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa3d7e228d550438c5964e5bb5284dd1b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108955&x-signature=yKEpLgjA6TORh9evqSrzQM6YgkM%3D",
+          "url": "https://fanqienovel.com/page/7626141425612098622"
         },
         {
           "title": "盗墓：我在盗笔杀穿主线",
           "author": "醉卧提笔",
           "reads": "1.8万",
           "intro": "【系统+万人迷all向+原著向改写剧情+救赎】 张意澜一直觉得自己是个绑定了人机系统的普通人，工作日上课学给猫狗噶蛋，周末马不停蹄帮人看死后埋哪，直到系统让她去寻找终极，不找她就得给自己挑块风水宝地。 张意澜：乏了……都沙了吧。 张家的圣婴、解家八岁的小当家、黑瞎子的眼睛、困住吴邪的沙漠……等到主线被张意澜一路火花带闪电地碾过去时，事情开始不对了。 张起灵：我……记得你。 解雨臣：不许再抛下我，不许再忘记我。 黑眼镜：我最后要回谁家不是很明显？还是说你打算不认帐了？ 吴邪：我不想放手，我不会放手。 意识到不对的张意澜：啊？我们的主线不是寻找世界的终极吗？",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of388519204d4870b5726406e42425c0d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023457&x-signature=KIF0md1Vo%2F57K5oi%2Ffa5gTMxYfI%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2of388519204d4870b5726406e42425c0d~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108955&x-signature=Sam0Ik%2BJ4tgwH2tZ36djR6ZAlJg%3D",
           "url": "https://fanqienovel.com/page/7618557965779340350"
-        },
-        {
-          "title": "成为张起灵小姨，我把所有人带跑",
-          "author": "安宁想暴富",
-          "reads": "1.7万",
-          "intro": "苏小小被个野鸡系统拐到修仙世界，逼迫她走剧情，给主角提供金钱法宝，还要献身做炉鼎，为他的龙傲天之路增砖加瓦，体重99斤反骨一百二十斤的苏小小，被狗系统折腾得死去活来都不干。 终于抓到机会跟狗系统同归于尽，系统被炸的粉身碎骨，还把她炸到了另外一个世界，被好心的姐姐捡回家。 从此她过上了有姐姐姐夫，还有个小外甥的好日子。 后来她发现他们一家都有点特殊，不仅长寿，还不会老。 她那个姐夫身后还有个大家族，那个家族姓张……",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/197c0d92e62ae2cbda13b5586fd03f90~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023457&x-signature=ib%2FQnsjR4x7OLEsORYbwQrJsbsY%3D",
-          "url": "https://fanqienovel.com/page/7611814051944860697"
         },
         {
           "title": "盗笔：巴掌狂魔在线打脸",
           "author": "落花卿依",
           "reads": "1.7万",
           "intro": "(严重OOC+OOC致歉+私设如山+无CP) 出了意外，身体丢了 甄清：什么!你让我用魂体帮他们，你咋不上天呢？ 天道：我就是天 甄清：答应我条件我就帮 天道(没问清楚版)：同意 看到甄清操作后的天道发出了尖锐的暴鸣 甄清(理直气壮版)：你同意的 其他人：你不要过来啊 后来道上出了一道奇观：有一群人的脸上时常带着巴掌印 我叫甄清，真真假假，清清白白",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0301f1de123961b93571c72f581347ee~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023457&x-signature=WpSEIMu2PnyAoFuQ9yyHmAQfpsc%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o0301f1de123961b93571c72f581347ee~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108955&x-signature=YpvV6jsbmNbtV47aB7Hj8K4%2FH%2BE%3D",
           "url": "https://fanqienovel.com/page/7626165799908019262"
+        },
+        {
+          "title": "她闻得出来",
+          "author": "真相请说话",
+          "reads": "1.7万",
+          "intro": "我是林砚，一名法医，懂中医，会辨毒。 见过最温柔的妻子，被枕边人藏进地下室。 见过最善良的老人，被护工悄悄换掉汤药。 见过最无辜的女孩，被霸凌逼到绝路。 每一具尸体，都藏着没说出口的真相。 每一个案件，都是撕开人性的一刀。 我的手记里，没有华丽辞藻， 只有最真实的罪恶，和最晚到来的正义。",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/360424f2fe7461e05c1af4d7e8111f21~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108955&x-signature=PR%2FTRb4dLLUNF6hDKbn80jjfges%3D",
+          "url": "https://fanqienovel.com/page/7614862971293928473"
         },
         {
           "title": "宋队！你老婆又碰上命案了",
           "author": "嘉卿卿卿卿",
           "reads": "1.7万",
           "intro": "社恐女法医vs搞怪刑警队长 【悬疑+纯爱+破案+推理+剧情反转】 我们眼中的安全只是有人在替我们负重前行，而别人赋予的阳光下究竟是什么阴影？ 接连数人离奇失踪，是意外还是报应？河边突然出现年轻女子的尸体，是意外还是谋杀？ 法医是死亡的最后一道防线，只有他们才能替死者说出最后想说的话，证明他们的清白，各种离奇案件，桩桩件件未解之谜，他们能顺利解决吗？ 每晚九点欢迎收看 宋璟麒：你运气不太好，第一次就碰上这种案子 月见：难道你不参与这个案子吗 宋璟麒：糟糕，大意了 欢迎收看天才社恐女法医和搞怪嘴毒刑警队长的破案日常",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5c9ca75b3f4d7d66a73c1b2f53de9a8a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023457&x-signature=WAi%2BBECc%2BXZbX6jg8KSqKaeK2jo%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o5c9ca75b3f4d7d66a73c1b2f53de9a8a~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108955&x-signature=93qCF1davPdhe2IvStHMLNRWZac%3D",
           "url": "https://fanqienovel.com/page/7603723684083158041"
         },
         {
           "title": "万人迷警司不为人知的往事",
           "author": "狡猾的草履虫",
-          "reads": "1.6万",
+          "reads": "1.7万",
           "intro": "【悬疑破案+主角万人迷+美强惨+多单箭头，作品标签有误】 多年以后，面对陵园里那一座座无名英雄的墓碑，沈治遇将会回想起周秦带他去宿舍楼的那个遥远的上午。那时宿舍外墙的爬山虎还没落尽，阳光新鲜得像刚从水里捞出来，操场上几个年轻人正没心没肺地跑圈。他以为那只是一个普通得不能再普通的报到日，他的一生，就是从一片黑暗走进另一片黑暗；而那座爬满爬山虎的老楼，是他唯一明亮过的入口。 【排雷】 1 主角人设美强惨，作者阴间嬷xp，为人物形象跟塑造服务，背负沉重过往，会有虐心情节。 2 主角万人迷属性，身上插满单箭头，正派角色反派角色都有。不会让主角回任何反派角色的箭头。主角心理创伤严重，情感缺陷，可能不会回任何人的箭头，也可能回的很慢，看剧情发展走向。 3 根据人物设定来看，正文结局可能更偏向开放式，不保证传统he，主角的创伤可能不会随着罪恶终结而消失，但作者会尽力给出他一个好结局，正文不行就番外。 4 刑侦风格，作者第一次尝试，偏现实黑暗向，有关金三角相关犯罪与缉毒，整体不是轻松探案风格，可能会写的很不成熟，算是尝试。 5 作者自割腿肉，如有雷点或不合胃口情节请自行避雷。 6 作者文风比较慢节奏",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2938de8e9d560a4d17c9c79581d2d907~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023457&x-signature=aiXd%2FlQnSG8jl3QDFJy5f5hCmPE%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o2938de8e9d560a4d17c9c79581d2d907~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108955&x-signature=Fr00cU6tuasrP%2Bwi0%2BEKMdMllOs%3D",
           "url": "https://fanqienovel.com/page/7626108850990500888"
+        },
+        {
+          "title": "成为张起灵小姨，我把所有人带跑",
+          "author": "安宁想暴富",
+          "reads": "1.6万",
+          "intro": "苏小小被个野鸡系统拐到修仙世界，逼迫她走剧情，给主角提供金钱法宝，还要献身做炉鼎，为他的龙傲天之路增砖加瓦，体重99斤反骨一百二十斤的苏小小，被狗系统折腾得死去活来都不干。 终于抓到机会跟狗系统同归于尽，系统被炸的粉身碎骨，还把她炸到了另外一个世界，被好心的姐姐捡回家。 从此她过上了有姐姐姐夫，还有个小外甥的好日子。 后来她发现他们一家都有点特殊，不仅长寿，还不会老。 她那个姐夫身后还有个大家族，那个家族姓张……",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/197c0d92e62ae2cbda13b5586fd03f90~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108955&x-signature=xUyLMIq%2FqiNIpAyGI2t4WWdJMtE%3D",
+          "url": "https://fanqienovel.com/page/7611814051944860697"
         },
         {
           "title": "盗墓：从宝可梦世界走到盗笔世界",
           "author": "木尧泗",
           "reads": "1.6万",
           "intro": "一个从现代穿越到宝可梦世界又突然到盗墓笔记世界，她想起来了自己丢失的记忆，知道了自己为什么一次又一次穿梭世界。 无CP，女主情绪不稳定，有时善良有时恶，有时候对他们好，有时候不好，有时候会跟着一起下墓，中间有把宝可梦送出去的桥段，介意者慎入",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o38ecf04eada87114ecbdfab5110bf88e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023457&x-signature=BKpo9KKKHs0JvFGhhovXPsckV7o%3D",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o38ecf04eada87114ecbdfab5110bf88e~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108955&x-signature=UAa3XUzjSS5u8hBBNX1Uy4s7HWA%3D",
           "url": "https://fanqienovel.com/page/7583698574571998232"
         },
         {
-          "title": "续写第十二年",
-          "author": "CC梦回",
-          "reads": "1.6万",
-          "intro": "十二年前，温以宁被分手时，只问了沈渡一句话：“你想好了？” 沈渡说：“想好了。” 温以宁转身离开京城，没掉一滴泪。 十二年后，边境犯罪集团“沉渊”覆灭，核心人物“刽子手”在逃。唯一的卧底代号“哑巴”，被上级以保护性调令塞进了京城刑警队。 报到那天，温以宁站在刑警队门口，看见沈渡从里面走出来。 他穿着警服，肩上是队长的警衔。 四目相对。 沈渡手里的文件夹掉在地上。 温以宁只扫了他一眼，擦肩而过。 身后有人喊：“老沈，你认识新来的温队？” 沈渡喉结滚动，半天才说：“……认识。” 他曾为她收过尸。 在每一个噩梦里。 而现在她活着回来了——眼神像淬过毒的刀，看他的时候，没有恨，只有冷。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o8ff270b5a1c3156105d989ad2f6c66a5~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023457&x-signature=ie3w22sYwmSWJMoE%2BISJ1trGyDQ%3D",
-          "url": "https://fanqienovel.com/page/7627674049560185881"
+          "title": "听懂兽语破案，天天误入高危现场",
+          "author": "花晚凝",
+          "reads": "1.5万",
+          "intro": "随越被渣男骗财还背上还不完的贷款 是孤儿的她万念俱灰打算跳河自杀，结果阴差阳错被人推下河，在河里不仅听到两条蛇对话还发现了一具男尸 她靠着小动物们的信息帮忙找到凶手，被刑侦大队队长秦寂聘请为顾问 少女拐卖，新型毒品，艺人跳楼，各种案件齐发 随越还创建了一只动物小分队，刑侦大队的破案率成了百分百 随越成了警局福星，到处有人想挖角 秦寂:问过我的意见了吗？ 不过他也发现了，他们的福星虽然破案率高，但有点喜欢作死啊？ 每次都能精准跑到危险中心去，这日子，真刺激",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2oa78266a090b0b010284a9a46823b75a3~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108955&x-signature=hgGa11uSoyBHWQ%2FqQGPdeAC4AkY%3D",
+          "url": "https://fanqienovel.com/page/7625950132751567934"
         },
         {
-          "title": "她闻得出来",
-          "author": "真相请说话",
-          "reads": "1.6万",
-          "intro": "我是林砚，一名法医，懂中医，会辨毒。 见过最温柔的妻子，被枕边人藏进地下室。 见过最善良的老人，被护工悄悄换掉汤药。 见过最无辜的女孩，被霸凌逼到绝路。 每一具尸体，都藏着没说出口的真相。 每一个案件，都是撕开人性的一刀。 我的手记里，没有华丽辞藻， 只有最真实的罪恶，和最晚到来的正义。",
-          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/360424f2fe7461e05c1af4d7e8111f21~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780023457&x-signature=hUwf5LXQufBIBtpd3DJwwqTYPgs%3D",
-          "url": "https://fanqienovel.com/page/7614862971293928473"
+          "title": "穿越八零，我能闻到凶手的味道",
+          "author": "兔子很爱吃包子",
+          "reads": "1.5万",
+          "intro": "东城公安局来了个末世穿越而来的女公安。 　　据说她的工作是从小叔那一哭二闹三上吊抢来的。 　　据说上班第一天就遇到了杀人案。 　　所有人都在等着她被吓破胆，乖乖把工作还回去时，她案子破了一个又一个，成为赫赫有名的女刑侦。 　　也揭开了她父亲被杀的真相... 　　重男轻女的爷奶居然是假的，他们要的就是她父亲一辈子烂在泥潭。 　　母亲改嫁早死，也是别人的阴谋... 　　吴忧冷笑一声，全部打出门，人性的贪婪她在末世早就见识过，绝对不会被糖衣炮弹给腐蚀 　　从前的我，你敲骨吸髓，现在的我，你高攀不起！",
+          "cover": "https://p3-reading-sign.fqnovelpic.com/novel-pic/p2o90ef473b0f3033cf3a3076ba0f5b0b4b~tplv-resize:225:0.image?lk3s=5b7047ff&x-expires=1780108955&x-signature=XbVc3Nm94uc99%2BbWXblTXA52uXQ%3D",
+          "url": "https://fanqienovel.com/page/7621795736891444286"
         }
       ]
     }
