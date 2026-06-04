@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const categorySelect = document.getElementById('trend-category');
+    const categoryButtons = document.getElementById('trend-category-buttons');
     const subtitle = document.getElementById('trend-subtitle');
     const rangeButtons = document.querySelectorAll('.range-btn');
     const cacheBuster = `v=${Math.floor(Date.now() / 600000)}`;
@@ -22,21 +22,11 @@ document.addEventListener('DOMContentLoaded', () => {
     ];
 
     const els = {
-        score: document.getElementById('trend-score'),
-        scoreLabel: document.getElementById('trend-score-label'),
-        diagnosis: document.getElementById('trend-diagnosis'),
-        metricNew: document.getElementById('metric-new'),
-        metricNewDaily: document.getElementById('metric-new-daily'),
-        metricDropped: document.getElementById('metric-dropped'),
-        metricDroppedDaily: document.getElementById('metric-dropped-daily'),
-        metricActive: document.getElementById('metric-active'),
-        metricRange: document.getElementById('metric-range'),
         marketSummary: document.getElementById('market-summary'),
         marketSource: document.getElementById('market-source'),
         hotGenres: document.getElementById('hot-genre-list'),
         hotTypes: document.getElementById('hot-type-list'),
         hotThemes: document.getElementById('hot-theme-list'),
-        dailyBars: document.getElementById('daily-bars'),
         newBooks: document.getElementById('new-books-list'),
         risers: document.getElementById('risers-list'),
         reads: document.getElementById('reads-list'),
@@ -76,9 +66,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 return;
             }
 
-            renderCategoryOptions();
             selectedCategory = getInitialCategory();
-            categorySelect.value = selectedCategory;
+            renderCategoryButtons();
             bindEvents();
             render();
         } catch (err) {
@@ -100,14 +89,6 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function bindEvents() {
-        categorySelect.addEventListener('change', () => {
-            selectedCategory = categorySelect.value;
-            const url = new URL(window.location.href);
-            url.searchParams.set('type', selectedCategory);
-            history.replaceState(null, '', url);
-            render();
-        });
-
         rangeButtons.forEach(btn => {
             btn.addEventListener('click', () => {
                 rangeButtons.forEach(item => item.classList.remove('active'));
@@ -124,10 +105,26 @@ document.addEventListener('DOMContentLoaded', () => {
         return categories.includes(type) ? type : categories[0];
     }
 
-    function renderCategoryOptions() {
-        categorySelect.innerHTML = categories.map(name =>
-            `<option value="${escapeAttr(name)}">${escapeHtml(name)}</option>`
-        ).join('');
+    function renderCategoryButtons() {
+        categoryButtons.innerHTML = categories.map(name => `
+            <button class="category-chip${name === selectedCategory ? ' active' : ''}" type="button" data-type="${escapeAttr(name)}">
+                ${escapeHtml(name)}
+            </button>
+        `).join('');
+
+        categoryButtons.querySelectorAll('.category-chip').forEach(btn => {
+            btn.addEventListener('click', () => selectCategory(btn.dataset.type));
+        });
+    }
+
+    function selectCategory(type) {
+        if (!categories.includes(type)) return;
+        selectedCategory = type;
+        const url = new URL(window.location.href);
+        url.searchParams.set('type', selectedCategory);
+        history.replaceState(null, '', url);
+        renderCategoryButtons();
+        render();
     }
 
     function render() {
@@ -144,15 +141,12 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        const totals = summarizeRows(rows);
         subtitle.textContent = `${selectedCategory} · ${rows[0].date} 至 ${rows[rows.length - 1].date} · ${rows.length} 个观察日`;
 
-        renderOverview(rows, totals);
         renderMarketBoard(getWindowRows());
-        renderDailyBars(rows);
+        renderList(els.reads, collectReads(rows));
         renderList(els.newBooks, collectNewBooks(rows));
         renderList(els.risers, collectRisers(rows));
-        renderList(els.reads, collectReads(rows));
         renderSummaries(rows);
     }
 
@@ -167,16 +161,18 @@ document.addEventListener('DOMContentLoaded', () => {
             const riserCount = (trend.top_risers || []).length;
             const fallerCount = (trend.top_fallers || []).length;
             const readCount = (trend.reads_growth || []).length;
+            const readGrowthTotal = (trend.reads_growth || []).reduce((sum, item) => sum + parseReadsGrowth(item.growth), 0);
             acc.newCount += Number(trend.new_count || 0);
             acc.droppedCount += Number(trend.dropped_count || 0);
             acc.riserCount += riserCount;
             acc.fallerCount += fallerCount;
             acc.readCount += readCount;
+            acc.readGrowthTotal += readGrowthTotal;
             if ((trend.new_count || 0) || (trend.dropped_count || 0) || riserCount || fallerCount || readCount) {
                 acc.activeDays += 1;
             }
             return acc;
-        }, { newCount: 0, droppedCount: 0, riserCount: 0, fallerCount: 0, readCount: 0, activeDays: 0 });
+        }, { newCount: 0, droppedCount: 0, riserCount: 0, fallerCount: 0, readCount: 0, readGrowthTotal: 0, activeDays: 0 });
     }
 
     function renderMarketBoard(rowsWindow) {
@@ -197,46 +193,39 @@ document.addEventListener('DOMContentLoaded', () => {
         const topTypes = hotTypes.slice(0, 3).map(item => item.name).join('、');
         const topThemes = hotThemes.slice(0, 6).map(item => item.name).join('、');
         const period = selectedDays === 'all' ? '全部样本' : `近 ${selectedDays} 日`;
-        const fallbackSummary = `${period}里，${topGenres || topTypes} 是更热的综合赛道，具体分类以 ${topTypes} 的榜单动能更强；题材上 ${topThemes} 反复出现，说明读者仍偏好强设定、强情绪钩子和明确爽点。`;
+        const fallbackSummary = `${period}里，${topGenres || topTypes} 的阅读增长更强，具体分类以 ${topTypes} 的新增在读更集中；新书题材上 ${topThemes} 更高频，说明读者仍偏好强设定、强情绪钩子和明确爽点。`;
         const summaryData = getMarketSummaryForPeriod();
         els.marketSummary.textContent = summaryData ? summaryData.summary : fallbackSummary;
         els.marketSource.textContent = summaryData && summaryData.source === 'ai'
             ? `AI 总结 · ${summaryData.period || period}`
-            : `规则兜底 · ${period}`;
+            : `规则统计 · ${period}`;
 
         els.hotGenres.innerHTML = hotGenres.slice(0, 5).map((item, index) => `
-            <button class="hot-type-row genre-row" type="button" data-type="${escapeAttr(item.leadCategory)}">
+            <div class="hot-type-row hot-type-row-static genre-row">
                 <span>${index + 1}</span>
                 <strong>${escapeHtml(item.name)}</strong>
-                <small>${escapeHtml(item.categoryText)} · 新增 ${item.newCount} · 增长 ${item.readCount}</small>
-                <em>${item.score}</em>
-            </button>
+                <small>${escapeHtml(item.categoryText)} · 新增在读 ${formatReads(item.readGrowthTotal)} · 增长作品 ${item.readCount}</small>
+                <em>${formatReads(item.readGrowthTotal)}</em>
+            </div>
         `).join('');
 
         els.hotTypes.innerHTML = hotTypes.slice(0, 6).map((item, index) => `
             <button class="hot-type-row" type="button" data-type="${escapeAttr(item.name)}">
                 <span>${index + 1}</span>
                 <strong>${escapeHtml(item.name)}</strong>
-                <small>新增 ${item.newCount} · 增长 ${item.readCount}</small>
-                <em>${item.score}</em>
+                <small>新增在读 ${formatReads(item.readGrowthTotal)} · 增长作品 ${item.readCount}</small>
+                <em>${formatReads(item.readGrowthTotal)}</em>
             </button>
         `).join('');
 
-        [els.hotGenres, els.hotTypes].forEach(container => {
-            container.querySelectorAll('.hot-type-row').forEach(btn => {
-                btn.addEventListener('click', () => {
-                    selectedCategory = btn.dataset.type;
-                    categorySelect.value = selectedCategory;
-                    const url = new URL(window.location.href);
-                    url.searchParams.set('type', selectedCategory);
-                    history.replaceState(null, '', url);
-                    render();
-                });
+        els.hotTypes.querySelectorAll('.hot-type-row').forEach(btn => {
+            btn.addEventListener('click', () => {
+                selectCategory(btn.dataset.type);
             });
         });
 
         els.hotThemes.innerHTML = hotThemes.slice(0, 14).map(item => `
-            <span class="theme-chip" title="出现 ${item.count} 次，覆盖 ${item.categories.size} 个类型">
+            <span class="theme-chip" title="新书 ${item.count} 本，覆盖 ${item.categories.size} 个类型">
                 ${escapeHtml(item.name)} <small>${item.count}</small>
             </span>
         `).join('');
@@ -255,6 +244,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     newCount: 0,
                     droppedCount: 0,
                     readCount: 0,
+                    readGrowthTotal: 0,
                     activeDays: 0,
                 });
 
@@ -266,6 +256,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 newCount: matched.reduce((sum, item) => sum + item.newCount, 0),
                 droppedCount: matched.reduce((sum, item) => sum + item.droppedCount, 0),
                 readCount: matched.reduce((sum, item) => sum + item.readCount, 0),
+                readGrowthTotal: matched.reduce((sum, item) => sum + item.readGrowthTotal, 0),
                 activeDays: matched.reduce((sum, item) => sum + item.activeDays, 0),
                 leadCategory: lead ? lead.name : group.categories[0],
                 categoryText: matched.map(item => item.name).join(' / '),
@@ -281,24 +272,18 @@ document.addEventListener('DOMContentLoaded', () => {
                 .map(row => ({ trend: row.trends[name] || null }))
                 .filter(row => row.trend);
             const totals = summarizeRows(rows);
-            const score = Math.round(
-                totals.newCount * 4 +
-                totals.droppedCount * 2 +
-                totals.riserCount * 2 +
-                totals.readCount * 3 +
-                totals.activeDays * 1.5
-            );
             return {
                 name,
-                score,
+                score: totals.readGrowthTotal,
                 newCount: totals.newCount,
                 droppedCount: totals.droppedCount,
                 readCount: totals.readCount,
+                readGrowthTotal: totals.readGrowthTotal,
                 activeDays: totals.activeDays,
             };
         })
-            .filter(item => item.score > 0)
-            .sort((a, b) => b.score - a.score);
+            .filter(item => item.readGrowthTotal > 0)
+            .sort((a, b) => b.readGrowthTotal - a.readGrowthTotal || b.readCount - a.readCount);
     }
 
     function collectHotThemes(rowsWindow) {
@@ -312,26 +297,38 @@ document.addEventListener('DOMContentLoaded', () => {
         ];
         const scoreMap = new Map(keywords.map(name => [name, { name, count: 0, categories: new Set() }]));
 
-        const latestCategories = latestData && latestData.categories ? latestData.categories : [];
-        latestCategories.forEach(cat => {
-            (cat.books || []).forEach((book, index) => {
-                const weight = index < 10 ? 2 : 1;
-                addThemeHits(scoreMap, keywords, `${book.title} ${book.intro || ''}`, cat.name, weight);
-            });
-        });
+        const latestBookMap = buildLatestBookMap();
 
         rowsWindow.forEach(row => {
             categories.forEach(catName => {
                 const trend = row.trends[catName];
                 if (!trend) return;
-                addThemeHits(scoreMap, keywords, (trend.new_books || []).join(' '), catName, 3);
-                addThemeHits(scoreMap, keywords, trend.summary || '', catName, 1);
+                (trend.new_books || []).forEach(title => {
+                    const book = latestBookMap.get(title) || {};
+                    addThemeHits(scoreMap, keywords, `${title} ${book.intro || ''}`, catName, 1);
+                });
             });
         });
 
         return Array.from(scoreMap.values())
             .filter(item => item.count > 0)
             .sort((a, b) => b.count - a.count || b.categories.size - a.categories.size);
+    }
+
+    function buildLatestBookMap() {
+        const bookMap = new Map();
+        const latestCategories = latestData && latestData.categories ? latestData.categories : [];
+        latestCategories.forEach(cat => {
+            (cat.books || []).forEach(book => {
+                if (book.title) bookMap.set(book.title, book);
+            });
+        });
+        return bookMap;
+    }
+
+    function extractBookId(url) {
+        const match = String(url || '').match(/\/page\/(\d+)/);
+        return match ? match[1] : '';
     }
 
     function addThemeHits(scoreMap, keywords, text, categoryName, weight) {
@@ -343,50 +340,6 @@ document.addEventListener('DOMContentLoaded', () => {
             item.count += weight;
             item.categories.add(categoryName);
         });
-    }
-
-    function renderOverview(rows, totals) {
-        const days = rows.length;
-        const score = Math.round(
-            (totals.newCount * 2 + totals.droppedCount * 1.5 + totals.riserCount + totals.readCount * 1.2) / Math.max(days, 1) * 10
-        );
-        const label = score >= 70 ? '强波动' : score >= 40 ? '有热度' : score >= 18 ? '稳态观察' : '低波动';
-
-        els.score.textContent = String(score);
-        els.scoreLabel.textContent = label;
-        els.metricNew.textContent = totals.newCount;
-        els.metricNewDaily.textContent = `日均 ${(totals.newCount / days).toFixed(1)} 本`;
-        els.metricDropped.textContent = totals.droppedCount;
-        els.metricDroppedDaily.textContent = `日均 ${(totals.droppedCount / days).toFixed(1)} 本`;
-        els.metricActive.textContent = `${totals.activeDays}/${days}`;
-        els.metricRange.textContent = selectedDays === 'all' ? '全部样本' : `近 ${selectedDays} 日`;
-
-        const newVsDropped = totals.newCount >= totals.droppedCount ? '新入口多于掉榜，类型仍有补位空间' : '掉榜多于新增，榜单换血压力偏高';
-        const readSignal = totals.readCount > days ? '阅读增长信号较密集' : '阅读增长信号相对集中';
-        els.diagnosis.textContent = `${newVsDropped}；${readSignal}，可重点追踪连续上升和重复出现的题材关键词。`;
-    }
-
-    function renderDailyBars(rows) {
-        const maxValue = Math.max(
-            1,
-            ...rows.map(row => Math.max(row.trend.new_count || 0, row.trend.dropped_count || 0))
-        );
-
-        els.dailyBars.innerHTML = rows.map(row => {
-            const newCount = Number(row.trend.new_count || 0);
-            const droppedCount = Number(row.trend.dropped_count || 0);
-            const newHeight = Math.max(6, Math.round(newCount / maxValue * 88));
-            const droppedHeight = Math.max(6, Math.round(droppedCount / maxValue * 88));
-            return `
-                <div class="daily-bar" title="${escapeAttr(row.date)} 新增 ${newCount} / 掉出 ${droppedCount}">
-                    <div class="bar-stack">
-                        <span class="bar-new" style="height:${newHeight}px"></span>
-                        <span class="bar-dropped" style="height:${droppedHeight}px"></span>
-                    </div>
-                    <small>${row.date.slice(5)}</small>
-                </div>
-            `;
-        }).join('');
     }
 
     function collectNewBooks(rows) {
@@ -437,15 +390,25 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        container.innerHTML = items.map(item => `
-            <div class="compact-row">
+        const latestBookMap = buildLatestBookMap();
+
+        container.innerHTML = items.map(item => {
+            const book = latestBookMap.get(item.title) || {};
+            const bookId = extractBookId(book.url);
+            const detailUrl = bookId
+                ? `book.html?id=${encodeURIComponent(bookId)}`
+                : `book.html?title=${encodeURIComponent(item.title)}`;
+
+            return `
+            <a class="compact-row compact-row-link" href="${detailUrl}" target="_blank" rel="noopener noreferrer">
                 <div>
                     <strong>${escapeHtml(item.title)}</strong>
                     <small>${escapeHtml(item.meta)}</small>
                 </div>
                 <span>${escapeHtml(item.value)}</span>
-            </div>
-        `).join('');
+            </a>
+        `;
+        }).join('');
     }
 
     function renderSummaries(rows) {
@@ -470,21 +433,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function renderEmpty(message) {
         subtitle.textContent = message;
-        els.score.textContent = '--';
-        els.scoreLabel.textContent = '暂无数据';
-        els.diagnosis.textContent = message;
-        els.metricNew.textContent = '--';
-        els.metricNewDaily.textContent = '--';
-        els.metricDropped.textContent = '--';
-        els.metricDroppedDaily.textContent = '--';
-        els.metricActive.textContent = '--';
-        els.metricRange.textContent = '--';
         els.marketSummary.textContent = message;
         els.marketSource.textContent = '暂无数据';
         els.hotGenres.innerHTML = '<p class="muted-line">暂无数据。</p>';
         els.hotTypes.innerHTML = '<p class="muted-line">暂无数据。</p>';
         els.hotThemes.innerHTML = '<p class="muted-line">暂无数据。</p>';
-        els.dailyBars.innerHTML = `<div class="empty-state"><p>${escapeHtml(message)}</p></div>`;
         [els.newBooks, els.risers, els.reads, els.summaries].forEach(el => {
             el.innerHTML = '<p class="muted-line">暂无数据。</p>';
         });

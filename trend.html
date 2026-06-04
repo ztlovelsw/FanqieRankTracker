@@ -11,13 +11,11 @@
     <div class="trend-shell">
         <header class="trend-topbar">
             <div>
-                <a href="index.html" class="back-link">Back to ranking</a>
+                <a href="index.html" class="back-link">返回榜单</a>
                 <h1>类型风向标</h1>
                 <p id="trend-subtitle">加载中...</p>
             </div>
             <div class="trend-controls">
-                <label class="trend-select-label" for="trend-category">类型</label>
-                <select id="trend-category" class="trend-select"></select>
                 <div class="trend-range" id="trend-range">
                     <button class="range-btn active" data-days="7">7日</button>
                     <button class="range-btn" data-days="14">14日</button>
@@ -49,48 +47,16 @@
                 </article>
             </section>
 
-            <section class="trend-overview">
-                <article class="trend-score-panel">
-                    <span class="panel-kicker">风向强度</span>
-                    <div class="trend-score-line">
-                        <strong id="trend-score">--</strong>
-                        <span id="trend-score-label">计算中</span>
-                    </div>
-                    <p id="trend-diagnosis">正在汇总多日榜单波动。</p>
-                </article>
-
-                <article class="metric-card">
-                    <span>新增上榜</span>
-                    <strong id="metric-new">--</strong>
-                    <small id="metric-new-daily">--</small>
-                </article>
-                <article class="metric-card">
-                    <span>掉出榜单</span>
-                    <strong id="metric-dropped">--</strong>
-                    <small id="metric-dropped-daily">--</small>
-                </article>
-                <article class="metric-card">
-                    <span>活跃天数</span>
-                    <strong id="metric-active">--</strong>
-                    <small id="metric-range">--</small>
-                </article>
+            <section class="type-filter-panel">
+                <span class="panel-kicker">类型</span>
+                <div id="trend-category-buttons" class="trend-category-buttons"></div>
             </section>
 
             <section class="trend-grid">
-                <article class="trend-block trend-block-wide">
-                    <div class="block-header">
-                        <div>
-                            <span class="panel-kicker">日线波动</span>
-                            <h2>上榜与掉榜节奏</h2>
-                        </div>
-                    </div>
-                    <div id="daily-bars" class="daily-bars"></div>
-                </article>
-
                 <article class="trend-block">
-                    <span class="panel-kicker">题材入口</span>
-                    <h2>新上榜焦点</h2>
-                    <div id="new-books-list" class="compact-list"></div>
+                    <span class="panel-kicker">新增在读</span>
+                    <h2>阅读增长焦点</h2>
+                    <div id="reads-list" class="compact-list"></div>
                 </article>
 
                 <article class="trend-block">
@@ -100,9 +66,9 @@
                 </article>
 
                 <article class="trend-block">
-                    <span class="panel-kicker">阅读反馈</span>
-                    <h2>增长焦点</h2>
-                    <div id="reads-list" class="compact-list"></div>
+                    <span class="panel-kicker">题材入口</span>
+                    <h2>新上榜焦点</h2>
+                    <div id="new-books-list" class="compact-list"></div>
                 </article>
 
                 <article class="trend-block trend-block-wide">
