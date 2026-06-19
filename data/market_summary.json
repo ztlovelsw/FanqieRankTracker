@@ -1,27 +1,27 @@
 {
-  "date": "2026-06-18",
-  "prev_date": "2026-06-17",
+  "date": "2026-06-19",
+  "prev_date": "2026-06-18",
   "periods": {
     "7": {
       "period": "近 7 日",
       "source": "ai",
-      "summary": "近7日全站热点不明确，综合赛道与具体分类均无阅读增长数据。新书题材以系统、种田、远古各1本为主，但样本量过小，暂未形成明确趋势。建议持续观察后续数据。",
+      "summary": "近7日全站热点数据不足，综合赛道无显著阅读增长；具体分类新增在读仅3.7万，增长作品3部；新书题材仅种田1本上榜。编辑判断：当前周期无法形成明确热点趋势。",
       "fallback_summary": "近 7 日暂无足够数据判断全站热点。",
       "hot_genres": [],
-      "hot_types": [],
+      "hot_types": [
+        {
+          "name": "",
+          "score": 37000,
+          "new_count": 23,
+          "dropped_count": 3,
+          "read_count": 3,
+          "read_growth_total": 37000.0,
+          "active_days": 3
+        }
+      ],
       "hot_themes": [
         {
-          "name": "系统",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "种田",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "远古",
           "count": 1,
           "category_count": 1
         }
@@ -30,23 +30,23 @@
     "14": {
       "period": "近 14 日",
       "source": "ai",
-      "summary": "近14日综合赛道与具体分类仍无阅读增长数据。新书题材延续系统、种田、远古各1本，数量未增，热度未起。编辑判断：当前周期缺乏热点爆发点，需等待新书集中上架。",
+      "summary": "近14日全站热点数据不足，综合赛道无突出阅读增量；具体分类新增在读3.7万，增长作品3部；新书题材仅种田1本。编辑判断：市场表现平淡，需持续观察后续走势。",
       "fallback_summary": "近 14 日暂无足够数据判断全站热点。",
       "hot_genres": [],
-      "hot_types": [],
+      "hot_types": [
+        {
+          "name": "",
+          "score": 37000,
+          "new_count": 23,
+          "dropped_count": 3,
+          "read_count": 3,
+          "read_growth_total": 37000.0,
+          "active_days": 3
+        }
+      ],
       "hot_themes": [
         {
-          "name": "系统",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "种田",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "远古",
           "count": 1,
           "category_count": 1
         }
@@ -55,23 +55,23 @@
     "30": {
       "period": "近 30 日",
       "source": "ai",
-      "summary": "近30日综合赛道与具体分类阅读增长数据缺失。新书题材仅系统、种田、远古各1本，无新增上榜作品。编辑判断：全站题材分布极度分散，未出现主导性热点。",
+      "summary": "近30日全站热点数据不足，综合赛道无阅读增长亮点；具体分类新增在读3.7万，增长作品3部；新书题材仅种田1本。编辑判断：长周期内种田题材虽有小幅尝试，但未形成规模效应。",
       "fallback_summary": "近 30 日暂无足够数据判断全站热点。",
       "hot_genres": [],
-      "hot_types": [],
+      "hot_types": [
+        {
+          "name": "",
+          "score": 37000,
+          "new_count": 23,
+          "dropped_count": 3,
+          "read_count": 3,
+          "read_growth_total": 37000.0,
+          "active_days": 3
+        }
+      ],
       "hot_themes": [
         {
-          "name": "系统",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "种田",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "远古",
           "count": 1,
           "category_count": 1
         }
@@ -80,23 +80,23 @@
     "all": {
       "period": "全部样本",
       "source": "ai",
-      "summary": "全部样本中综合赛道与具体分类无阅读增长数据，新书题材仅系统、种田、远古各1本。编辑判断：统计周期内全站缺乏有效热点，建议关注后续新书榜单变化。",
+      "summary": "全部样本数据不足，综合赛道无阅读增长记录；具体分类新增在读3.7万，增长作品3部；新书题材仅种田1本。编辑判断：整体市场缺乏热点动能，暂不建议追风布局。",
       "fallback_summary": "全部样本暂无足够数据判断全站热点。",
       "hot_genres": [],
-      "hot_types": [],
+      "hot_types": [
+        {
+          "name": "",
+          "score": 37000,
+          "new_count": 23,
+          "dropped_count": 3,
+          "read_count": 3,
+          "read_growth_total": 37000.0,
+          "active_days": 3
+        }
+      ],
       "hot_themes": [
         {
-          "name": "系统",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "种田",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "远古",
           "count": 1,
           "category_count": 1
         }
