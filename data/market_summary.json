@@ -1,25 +1,35 @@
 {
-  "date": "2026-06-19",
-  "prev_date": "2026-06-18",
+  "date": "2026-06-20",
+  "prev_date": "2026-06-19",
   "periods": {
     "7": {
       "period": "近 7 日",
       "source": "ai",
-      "summary": "近7日全站热点数据不足，综合赛道无显著阅读增长；具体分类新增在读仅3.7万，增长作品3部；新书题材仅种田1本上榜。编辑判断：当前周期无法形成明确热点趋势。",
+      "summary": "近7日全站阅读增长量暂无综合赛道数据，具体分类新增在读9.8万、增长作品6本，新书题材以系统、远古各2本为主，种田1本。编辑判断：当前周期新书供给偏弱，题材分散，未形成明确热点趋势。",
       "fallback_summary": "近 7 日暂无足够数据判断全站热点。",
       "hot_genres": [],
       "hot_types": [
         {
           "name": "",
-          "score": 37000,
-          "new_count": 23,
-          "dropped_count": 3,
-          "read_count": 3,
-          "read_growth_total": 37000.0,
-          "active_days": 3
+          "score": 98000,
+          "new_count": 24,
+          "dropped_count": 4,
+          "read_count": 6,
+          "read_growth_total": 98000.0,
+          "active_days": 4
         }
       ],
       "hot_themes": [
+        {
+          "name": "系统",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "远古",
+          "count": 2,
+          "category_count": 1
+        },
         {
           "name": "种田",
           "count": 1,
@@ -30,21 +40,31 @@
     "14": {
       "period": "近 14 日",
       "source": "ai",
-      "summary": "近14日全站热点数据不足，综合赛道无突出阅读增量；具体分类新增在读3.7万，增长作品3部；新书题材仅种田1本。编辑判断：市场表现平淡，需持续观察后续走势。",
+      "summary": "近14日全站阅读增长量暂无综合赛道数据，具体分类新增在读9.8万、增长作品6本，新书题材仍以系统、远古各2本领先，种田1本。编辑判断：周期拉长后题材结构未变，市场缺乏爆发性增长点。",
       "fallback_summary": "近 14 日暂无足够数据判断全站热点。",
       "hot_genres": [],
       "hot_types": [
         {
           "name": "",
-          "score": 37000,
-          "new_count": 23,
-          "dropped_count": 3,
-          "read_count": 3,
-          "read_growth_total": 37000.0,
-          "active_days": 3
+          "score": 98000,
+          "new_count": 24,
+          "dropped_count": 4,
+          "read_count": 6,
+          "read_growth_total": 98000.0,
+          "active_days": 4
         }
       ],
       "hot_themes": [
+        {
+          "name": "系统",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "远古",
+          "count": 2,
+          "category_count": 1
+        },
         {
           "name": "种田",
           "count": 1,
@@ -55,21 +75,31 @@
     "30": {
       "period": "近 30 日",
       "source": "ai",
-      "summary": "近30日全站热点数据不足，综合赛道无阅读增长亮点；具体分类新增在读3.7万，增长作品3部；新书题材仅种田1本。编辑判断：长周期内种田题材虽有小幅尝试，但未形成规模效应。",
+      "summary": "近30日全站阅读增长量暂无综合赛道数据，具体分类新增在读9.8万、增长作品6本，新书题材系统、远古各2本，种田1本。编辑判断：近一个月新书数量有限，系统与远古题材持续稳定但未扩散为全站热点。",
       "fallback_summary": "近 30 日暂无足够数据判断全站热点。",
       "hot_genres": [],
       "hot_types": [
         {
           "name": "",
-          "score": 37000,
-          "new_count": 23,
-          "dropped_count": 3,
-          "read_count": 3,
-          "read_growth_total": 37000.0,
-          "active_days": 3
+          "score": 98000,
+          "new_count": 24,
+          "dropped_count": 4,
+          "read_count": 6,
+          "read_growth_total": 98000.0,
+          "active_days": 4
         }
       ],
       "hot_themes": [
+        {
+          "name": "系统",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "远古",
+          "count": 2,
+          "category_count": 1
+        },
         {
           "name": "种田",
           "count": 1,
@@ -80,21 +110,31 @@
     "all": {
       "period": "全部样本",
       "source": "ai",
-      "summary": "全部样本数据不足，综合赛道无阅读增长记录；具体分类新增在读3.7万，增长作品3部；新书题材仅种田1本。编辑判断：整体市场缺乏热点动能，暂不建议追风布局。",
+      "summary": "全部样本中全站阅读增长量暂无综合赛道数据，具体分类新增在读9.8万、增长作品6本，新书题材系统、远古各2本，种田1本。编辑判断：整体样本量不足，全站热点尚未形成，建议关注后续新书增量变化。",
       "fallback_summary": "全部样本暂无足够数据判断全站热点。",
       "hot_genres": [],
       "hot_types": [
         {
           "name": "",
-          "score": 37000,
-          "new_count": 23,
-          "dropped_count": 3,
-          "read_count": 3,
-          "read_growth_total": 37000.0,
-          "active_days": 3
+          "score": 98000,
+          "new_count": 24,
+          "dropped_count": 4,
+          "read_count": 6,
+          "read_growth_total": 98000.0,
+          "active_days": 4
         }
       ],
       "hot_themes": [
+        {
+          "name": "系统",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "远古",
+          "count": 2,
+          "category_count": 1
+        },
         {
           "name": "种田",
           "count": 1,
