@@ -1,33 +1,38 @@
 {
-  "date": "2026-06-20",
-  "prev_date": "2026-06-19",
+  "date": "2026-06-21",
+  "prev_date": "2026-06-20",
   "periods": {
     "7": {
       "period": "近 7 日",
       "source": "ai",
-      "summary": "近7日全站阅读增长量暂无综合赛道数据，具体分类新增在读9.8万、增长作品6本，新书题材以系统、远古各2本为主，种田1本。编辑判断：当前周期新书供给偏弱，题材分散，未形成明确热点趋势。",
+      "summary": "近7日全站阅读增长由具体分类贡献15.3万新增在读，共9部作品增长；新书题材以系统（3本）、远古（2本）为主，反派、种田各1本。新增作品数量较少，暂未形成明确热点风向。",
       "fallback_summary": "近 7 日暂无足够数据判断全站热点。",
       "hot_genres": [],
       "hot_types": [
         {
           "name": "",
-          "score": 98000,
-          "new_count": 24,
-          "dropped_count": 4,
-          "read_count": 6,
-          "read_growth_total": 98000.0,
-          "active_days": 4
+          "score": 153000,
+          "new_count": 27,
+          "dropped_count": 7,
+          "read_count": 9,
+          "read_growth_total": 153000.0,
+          "active_days": 5
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 2,
+          "count": 3,
           "category_count": 1
         },
         {
           "name": "远古",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "反派",
+          "count": 1,
           "category_count": 1
         },
         {
@@ -40,29 +45,34 @@
     "14": {
       "period": "近 14 日",
       "source": "ai",
-      "summary": "近14日全站阅读增长量暂无综合赛道数据，具体分类新增在读9.8万、增长作品6本，新书题材仍以系统、远古各2本领先，种田1本。编辑判断：周期拉长后题材结构未变，市场缺乏爆发性增长点。",
+      "summary": "近14日阅读增长仍集中于具体分类，新增在读15.3万，增长作品9部；新书题材中系统、远古领先，反种族田零星出现。因样本量有限，全站热点尚未显现。",
       "fallback_summary": "近 14 日暂无足够数据判断全站热点。",
       "hot_genres": [],
       "hot_types": [
         {
           "name": "",
-          "score": 98000,
-          "new_count": 24,
-          "dropped_count": 4,
-          "read_count": 6,
-          "read_growth_total": 98000.0,
-          "active_days": 4
+          "score": 153000,
+          "new_count": 27,
+          "dropped_count": 7,
+          "read_count": 9,
+          "read_growth_total": 153000.0,
+          "active_days": 5
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 2,
+          "count": 3,
           "category_count": 1
         },
         {
           "name": "远古",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "反派",
+          "count": 1,
           "category_count": 1
         },
         {
@@ -75,29 +85,34 @@
     "30": {
       "period": "近 30 日",
       "source": "ai",
-      "summary": "近30日全站阅读增长量暂无综合赛道数据，具体分类新增在读9.8万、增长作品6本，新书题材系统、远古各2本，种田1本。编辑判断：近一个月新书数量有限，系统与远古题材持续稳定但未扩散为全站热点。",
+      "summary": "近30日具体分类阅读增长15.3万，增长作品9部；新书题材以系统、远古为主，反种族田各1本。整体数据偏弱，不足以判断全站热点趋势。",
       "fallback_summary": "近 30 日暂无足够数据判断全站热点。",
       "hot_genres": [],
       "hot_types": [
         {
           "name": "",
-          "score": 98000,
-          "new_count": 24,
-          "dropped_count": 4,
-          "read_count": 6,
-          "read_growth_total": 98000.0,
-          "active_days": 4
+          "score": 153000,
+          "new_count": 27,
+          "dropped_count": 7,
+          "read_count": 9,
+          "read_growth_total": 153000.0,
+          "active_days": 5
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 2,
+          "count": 3,
           "category_count": 1
         },
         {
           "name": "远古",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "反派",
+          "count": 1,
           "category_count": 1
         },
         {
@@ -110,29 +125,34 @@
     "all": {
       "period": "全部样本",
       "source": "ai",
-      "summary": "全部样本中全站阅读增长量暂无综合赛道数据，具体分类新增在读9.8万、增长作品6本，新书题材系统、远古各2本，种田1本。编辑判断：整体样本量不足，全站热点尚未形成，建议关注后续新书增量变化。",
+      "summary": "全部统计周期内，具体分类贡献15.3万新增在读、9部增长作品；新书题材集中在系统（3本）和远古（2本），其余为单本。样本不足，全站暂无明确热点。",
       "fallback_summary": "全部样本暂无足够数据判断全站热点。",
       "hot_genres": [],
       "hot_types": [
         {
           "name": "",
-          "score": 98000,
-          "new_count": 24,
-          "dropped_count": 4,
-          "read_count": 6,
-          "read_growth_total": 98000.0,
-          "active_days": 4
+          "score": 153000,
+          "new_count": 27,
+          "dropped_count": 7,
+          "read_count": 9,
+          "read_growth_total": 153000.0,
+          "active_days": 5
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 2,
+          "count": 3,
           "category_count": 1
         },
         {
           "name": "远古",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "反派",
+          "count": 1,
           "category_count": 1
         },
         {
