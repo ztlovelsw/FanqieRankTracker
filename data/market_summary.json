@@ -1,21 +1,21 @@
 {
-  "date": "2026-06-24",
-  "prev_date": "2026-06-22",
+  "date": "2026-06-25",
+  "prev_date": "2026-06-24",
   "periods": {
     "7": {
       "period": "近 7 日",
-      "source": "ai",
-      "summary": "近7日全站新增在读27.9万，增长作品15部，综合赛道暂无显著热点。具体分类阅读增长平稳，新书题材以系统（6本）为绝对主力，远古（2本）、重生、幼崽、反派、种田各1本。编辑判断：系统题材持续主导新书入榜，远古题材初现潜力，但整体热度分散，尚未形成强全站热点。",
+      "source": "rule",
+      "summary": "近 7 日暂无足够数据判断全站热点。",
       "fallback_summary": "近 7 日暂无足够数据判断全站热点。",
       "hot_genres": [],
       "hot_types": [
         {
           "name": "",
-          "score": 279000,
-          "new_count": 31,
-          "dropped_count": 11,
-          "read_count": 15,
-          "read_growth_total": 279000.0,
+          "score": 314000,
+          "new_count": 13,
+          "dropped_count": 13,
+          "read_count": 18,
+          "read_growth_total": 314000.0,
           "active_days": 7
         }
       ],
@@ -44,29 +44,24 @@
           "name": "反派",
           "count": 1,
           "category_count": 1
-        },
-        {
-          "name": "种田",
-          "count": 1,
-          "category_count": 1
         }
       ]
     },
     "14": {
       "period": "近 14 日",
-      "source": "ai",
-      "summary": "近14日全站新增在读27.9万，增长作品15部，综合赛道无突出赛道。具体分类阅读增长稳定，新书题材中系统（6本）领跑，远古（2本）紧随，其余题材各1本。编辑判断：系统题材仍是新书核心增量来源，远古题材连续出现需关注，但全站热点尚在酝酿中。",
+      "source": "rule",
+      "summary": "近 14 日暂无足够数据判断全站热点。",
       "fallback_summary": "近 14 日暂无足够数据判断全站热点。",
       "hot_genres": [],
       "hot_types": [
         {
           "name": "",
-          "score": 279000,
-          "new_count": 31,
-          "dropped_count": 11,
-          "read_count": 15,
-          "read_growth_total": 279000.0,
-          "active_days": 7
+          "score": 314000,
+          "new_count": 33,
+          "dropped_count": 13,
+          "read_count": 18,
+          "read_growth_total": 314000.0,
+          "active_days": 8
         }
       ],
       "hot_themes": [
@@ -104,19 +99,19 @@
     },
     "30": {
       "period": "近 30 日",
-      "source": "ai",
-      "summary": "近30日全站新增在读27.9万，增长作品15部，综合赛道未出现爆发赛道。具体分类阅读增长维持，新书题材系统（6本）占比最高，远古（2本）持续，重生、幼崽、反派、种田各1本。编辑判断：系统题材长期霸榜新书，远古题材有稳定表现，但全站热点仍需更多数据支撑。",
+      "source": "rule",
+      "summary": "近 30 日暂无足够数据判断全站热点。",
       "fallback_summary": "近 30 日暂无足够数据判断全站热点。",
       "hot_genres": [],
       "hot_types": [
         {
           "name": "",
-          "score": 279000,
-          "new_count": 31,
-          "dropped_count": 11,
-          "read_count": 15,
-          "read_growth_total": 279000.0,
-          "active_days": 7
+          "score": 314000,
+          "new_count": 33,
+          "dropped_count": 13,
+          "read_count": 18,
+          "read_growth_total": 314000.0,
+          "active_days": 8
         }
       ],
       "hot_themes": [
@@ -154,19 +149,19 @@
     },
     "all": {
       "period": "全部样本",
-      "source": "ai",
-      "summary": "全部样本新增在读27.9万，增长作品15部，综合赛道无明确热点。具体分类阅读增长平稳，新书题材系统（6本）为核心，远古（2本）为次，其余题材各1本。编辑判断：系统题材为全周期新书主力，远古题材为潜在方向，但整体数据量不足，全站热点尚未形成明确趋势。",
+      "source": "rule",
+      "summary": "全部样本暂无足够数据判断全站热点。",
       "fallback_summary": "全部样本暂无足够数据判断全站热点。",
       "hot_genres": [],
       "hot_types": [
         {
           "name": "",
-          "score": 279000,
-          "new_count": 31,
-          "dropped_count": 11,
-          "read_count": 15,
-          "read_growth_total": 279000.0,
-          "active_days": 7
+          "score": 314000,
+          "new_count": 33,
+          "dropped_count": 13,
+          "read_count": 18,
+          "read_growth_total": 314000.0,
+          "active_days": 8
         }
       ],
       "hot_themes": [
