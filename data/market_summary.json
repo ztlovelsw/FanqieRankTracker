@@ -1,21 +1,21 @@
 {
-  "date": "2026-06-28",
-  "prev_date": "2026-06-27",
+  "date": "2026-06-29",
+  "prev_date": "2026-06-28",
   "periods": {
     "7": {
       "period": "近 7 日",
-      "source": "ai",
-      "summary": "近7日全站无综合赛道热点，具体分类新增在读27.8万、增长作品21本，新书题材以系统（3本）和反派（2本）为主，重生、幼崽、种田各1本。编辑判断：系统与反派题材初现热度，但数据量不足，需观察后续走势。",
+      "source": "rule",
+      "summary": "近 7 日暂无足够数据判断全站热点。",
       "fallback_summary": "近 7 日暂无足够数据判断全站热点。",
       "hot_genres": [],
       "hot_types": [
         {
           "name": "",
-          "score": 278000,
-          "new_count": 15,
-          "dropped_count": 15,
+          "score": 237000,
+          "new_count": 14,
+          "dropped_count": 14,
           "read_count": 21,
-          "read_growth_total": 278000.0,
+          "read_growth_total": 237000.0,
           "active_days": 7
         }
       ],
@@ -49,30 +49,30 @@
     },
     "14": {
       "period": "近 14 日",
-      "source": "ai",
-      "summary": "近14日全站无综合赛道热点，具体分类新增在读37.6万、增长作品27本，新书题材中系统（5本）领先，反派、种田、远古各2本，重生、幼崽各1本。编辑判断：系统题材持续领跑，远古题材首次出现，可关注细分方向。",
+      "source": "rule",
+      "summary": "近 14 日暂无足够数据判断全站热点。",
       "fallback_summary": "近 14 日暂无足够数据判断全站热点。",
       "hot_genres": [],
       "hot_types": [
         {
           "name": "",
-          "score": 376000,
-          "new_count": 39,
-          "dropped_count": 19,
-          "read_count": 27,
-          "read_growth_total": 376000.0,
-          "active_days": 11
+          "score": 390000,
+          "new_count": 41,
+          "dropped_count": 21,
+          "read_count": 30,
+          "read_growth_total": 390000.0,
+          "active_days": 12
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 5,
+          "count": 6,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 2,
+          "count": 3,
           "category_count": 1
         },
         {
@@ -99,30 +99,30 @@
     },
     "30": {
       "period": "近 30 日",
-      "source": "ai",
-      "summary": "近30日全站无综合赛道热点，具体分类新增在读37.6万、增长作品27本，新书题材系统（5本）为主，反派、种田、远古各2本，重生、幼崽各1本。编辑判断：系统题材稳定主导，种田与远古形成小趋势，但整体缺乏爆发性热点。",
+      "source": "rule",
+      "summary": "近 30 日暂无足够数据判断全站热点。",
       "fallback_summary": "近 30 日暂无足够数据判断全站热点。",
       "hot_genres": [],
       "hot_types": [
         {
           "name": "",
-          "score": 376000,
-          "new_count": 39,
-          "dropped_count": 19,
-          "read_count": 27,
-          "read_growth_total": 376000.0,
-          "active_days": 11
+          "score": 390000,
+          "new_count": 41,
+          "dropped_count": 21,
+          "read_count": 30,
+          "read_growth_total": 390000.0,
+          "active_days": 12
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 5,
+          "count": 6,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 2,
+          "count": 3,
           "category_count": 1
         },
         {
@@ -149,30 +149,30 @@
     },
     "all": {
       "period": "全部样本",
-      "source": "ai",
-      "summary": "全部样本无综合赛道热点，具体分类新增在读37.6万、增长作品27本，新书题材系统（5本）最突出，反派、种田、远古各2本，重生、幼崽各1本。编辑判断：系统题材为近期核心，但全站热点尚未形成，建议关注题材组合创新。",
+      "source": "rule",
+      "summary": "全部样本暂无足够数据判断全站热点。",
       "fallback_summary": "全部样本暂无足够数据判断全站热点。",
       "hot_genres": [],
       "hot_types": [
         {
           "name": "",
-          "score": 376000,
-          "new_count": 39,
-          "dropped_count": 19,
-          "read_count": 27,
-          "read_growth_total": 376000.0,
-          "active_days": 11
+          "score": 390000,
+          "new_count": 41,
+          "dropped_count": 21,
+          "read_count": 30,
+          "read_growth_total": 390000.0,
+          "active_days": 12
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 5,
+          "count": 6,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 2,
+          "count": 3,
           "category_count": 1
         },
         {
