@@ -1,30 +1,25 @@
 {
-  "date": "2026-06-29",
-  "prev_date": "2026-06-28",
+  "date": "2026-06-30",
+  "prev_date": "2026-06-29",
   "periods": {
     "7": {
       "period": "近 7 日",
-      "source": "rule",
-      "summary": "近 7 日暂无足够数据判断全站热点。",
+      "source": "ai",
+      "summary": "近7日暂无综合赛道和具体分类的阅读增长数据，新上榜作品仅2本反派和1本重生、1本系统，题材分散且数量不足，全站热点尚未形成，建议持续观察。",
       "fallback_summary": "近 7 日暂无足够数据判断全站热点。",
       "hot_genres": [],
       "hot_types": [
         {
           "name": "",
-          "score": 237000,
-          "new_count": 14,
-          "dropped_count": 14,
+          "score": 207000,
+          "new_count": 13,
+          "dropped_count": 13,
           "read_count": 21,
-          "read_growth_total": 237000.0,
+          "read_growth_total": 207000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
-        {
-          "name": "系统",
-          "count": 3,
-          "category_count": 1
-        },
         {
           "name": "反派",
           "count": 2,
@@ -36,12 +31,7 @@
           "category_count": 1
         },
         {
-          "name": "幼崽",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "种田",
+          "name": "系统",
           "count": 1,
           "category_count": 1
         }
@@ -49,35 +39,30 @@
     },
     "14": {
       "period": "近 14 日",
-      "source": "rule",
-      "summary": "近 14 日暂无足够数据判断全站热点。",
+      "source": "ai",
+      "summary": "近14日具体分类新增在读40.1万、增长作品33本，新书题材以系统（5本）和反派（3本）领跑，远古（2本）初现，但综合赛道无数据，整体热度仍偏低，系统与反派或为近期潜力方向。",
       "fallback_summary": "近 14 日暂无足够数据判断全站热点。",
       "hot_genres": [],
       "hot_types": [
         {
           "name": "",
-          "score": 390000,
-          "new_count": 41,
-          "dropped_count": 21,
-          "read_count": 30,
-          "read_growth_total": 390000.0,
-          "active_days": 12
+          "score": 401000,
+          "new_count": 42,
+          "dropped_count": 22,
+          "read_count": 33,
+          "read_growth_total": 401000.0,
+          "active_days": 13
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 6,
+          "count": 5,
           "category_count": 1
         },
         {
           "name": "反派",
           "count": 3,
-          "category_count": 1
-        },
-        {
-          "name": "种田",
-          "count": 2,
           "category_count": 1
         },
         {
@@ -92,6 +77,11 @@
         },
         {
           "name": "幼崽",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "种田",
           "count": 1,
           "category_count": 1
         }
@@ -99,35 +89,30 @@
     },
     "30": {
       "period": "近 30 日",
-      "source": "rule",
-      "summary": "近 30 日暂无足够数据判断全站热点。",
+      "source": "ai",
+      "summary": "近30日具体分类新增在读40.1万、增长作品33本，新书题材系统（5本）和反派（3本）持续主导，远古（2本）稳定，重生、幼崽、种田各1本，综合赛道缺失，题材集中度有限，需关注系统与反派的后续爆发力。",
       "fallback_summary": "近 30 日暂无足够数据判断全站热点。",
       "hot_genres": [],
       "hot_types": [
         {
           "name": "",
-          "score": 390000,
-          "new_count": 41,
-          "dropped_count": 21,
-          "read_count": 30,
-          "read_growth_total": 390000.0,
-          "active_days": 12
+          "score": 401000,
+          "new_count": 42,
+          "dropped_count": 22,
+          "read_count": 33,
+          "read_growth_total": 401000.0,
+          "active_days": 13
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 6,
+          "count": 5,
           "category_count": 1
         },
         {
           "name": "反派",
           "count": 3,
-          "category_count": 1
-        },
-        {
-          "name": "种田",
-          "count": 2,
           "category_count": 1
         },
         {
@@ -142,6 +127,11 @@
         },
         {
           "name": "幼崽",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "种田",
           "count": 1,
           "category_count": 1
         }
@@ -149,35 +139,30 @@
     },
     "all": {
       "period": "全部样本",
-      "source": "rule",
-      "summary": "全部样本暂无足够数据判断全站热点。",
+      "source": "ai",
+      "summary": "全部样本显示具体分类新增在读40.1万、增长作品33本，新书题材系统（5本）和反派（3本）为核心，远古（2本）为补充，综合赛道无数据，全站热点暂未形成，建议重点跟进系统与反派题材的新书表现。",
       "fallback_summary": "全部样本暂无足够数据判断全站热点。",
       "hot_genres": [],
       "hot_types": [
         {
           "name": "",
-          "score": 390000,
-          "new_count": 41,
-          "dropped_count": 21,
-          "read_count": 30,
-          "read_growth_total": 390000.0,
-          "active_days": 12
+          "score": 401000,
+          "new_count": 42,
+          "dropped_count": 22,
+          "read_count": 33,
+          "read_growth_total": 401000.0,
+          "active_days": 13
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 6,
+          "count": 5,
           "category_count": 1
         },
         {
           "name": "反派",
           "count": 3,
-          "category_count": 1
-        },
-        {
-          "name": "种田",
-          "count": 2,
           "category_count": 1
         },
         {
@@ -192,6 +177,11 @@
         },
         {
           "name": "幼崽",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "种田",
           "count": 1,
           "category_count": 1
         }
